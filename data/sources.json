@@ -1,0 +1,830 @@
+{
+  "ccfddl_sources": [
+    {
+      "name": "ccfddl conferences yml",
+      "url": "https://raw.githubusercontent.com/ccfddl/ccf-deadlines/main/_data/conferences.yml",
+      "format": "yaml"
+    },
+    {
+      "name": "ccfddl conferences yaml",
+      "url": "https://raw.githubusercontent.com/ccfddl/ccf-deadlines/main/_data/conferences.yaml",
+      "format": "yaml"
+    },
+    {
+      "name": "ccfddl data json",
+      "url": "https://raw.githubusercontent.com/ccfddl/ccf-deadlines/main/conferences.json",
+      "format": "json"
+    },
+    {
+      "name": "ccf deadlines yml master",
+      "url": "https://raw.githubusercontent.com/ccfddl/ccf-deadlines/master/_data/conferences.yml",
+      "format": "yaml"
+    }
+  ],
+  "official_sources": [
+    {
+      "slug": "ieee-sp",
+      "name": "IEEE S&P",
+      "url": "https://www.ieee-security.org/TC/SP-Index.html",
+      "kind": "official"
+    },
+    {
+      "slug": "usenix-security",
+      "name": "USENIX Security",
+      "url": "https://www.usenix.org/conferences/byname/108",
+      "kind": "official"
+    },
+    {
+      "slug": "ccs",
+      "name": "ACM CCS",
+      "url": "https://www.sigsac.org/ccs.html",
+      "kind": "official"
+    },
+    {
+      "slug": "ndss",
+      "name": "NDSS",
+      "url": "https://www.ndss-symposium.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "crypto",
+      "name": "CRYPTO",
+      "url": "https://crypto.iacr.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "eurocrypt",
+      "name": "EUROCRYPT",
+      "url": "https://eurocrypt.iacr.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "asiacrypt",
+      "name": "ASIACRYPT",
+      "url": "https://asiacrypt.iacr.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "ches",
+      "name": "CHES",
+      "url": "https://ches.iacr.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "tcc",
+      "name": "TCC",
+      "url": "https://tcc.iacr.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "pkc",
+      "name": "PKC",
+      "url": "https://pkc.iacr.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "csf",
+      "name": "CSF",
+      "url": "https://www.ieee-security.org/TC/CSF/",
+      "kind": "official"
+    },
+    {
+      "slug": "pets",
+      "name": "PETS",
+      "url": "https://petsymposium.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "eurosp",
+      "name": "EuroS&P",
+      "url": "https://www.ieee-security.org/TC/EuroSP/",
+      "kind": "official"
+    },
+    {
+      "slug": "raid",
+      "name": "RAID",
+      "url": "https://raid-symposium.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "esorics",
+      "name": "ESORICS",
+      "url": "https://esorics.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "acsac",
+      "name": "ACSAC",
+      "url": "https://www.acsac.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "dsn",
+      "name": "DSN",
+      "url": "https://dsn.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "soups",
+      "name": "SOUPS",
+      "url": "https://www.usenix.org/conferences/byname/925",
+      "kind": "official"
+    },
+    {
+      "slug": "dimva",
+      "name": "DIMVA",
+      "url": "https://dimva.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "fc",
+      "name": "FC",
+      "url": "https://fc.ifca.ai/",
+      "kind": "official"
+    },
+    {
+      "slug": "asiaccs",
+      "name": "AsiaCCS",
+      "url": "https://asiaccs.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "sosp",
+      "name": "SOSP",
+      "url": "https://sigops.org/s/conferences/sosp/",
+      "kind": "official"
+    },
+    {
+      "slug": "osdi",
+      "name": "OSDI",
+      "url": "https://www.usenix.org/conferences/byname/179",
+      "kind": "official"
+    },
+    {
+      "slug": "sigcomm",
+      "name": "SIGCOMM",
+      "url": "https://conferences.sigcomm.org/sigcomm/",
+      "kind": "official"
+    },
+    {
+      "slug": "nsdi",
+      "name": "NSDI",
+      "url": "https://www.usenix.org/conferences/byname/135",
+      "kind": "official"
+    },
+    {
+      "slug": "isca",
+      "name": "ISCA",
+      "url": "https://iscaconf.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "micro",
+      "name": "MICRO",
+      "url": "https://microarch.org/micro/",
+      "kind": "official"
+    },
+    {
+      "slug": "asplos",
+      "name": "ASPLOS",
+      "url": "https://www.asplos-conference.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "hpca",
+      "name": "HPCA",
+      "url": "https://hpca-conf.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "fast",
+      "name": "FAST",
+      "url": "https://www.usenix.org/conferences/byname/63",
+      "kind": "official"
+    },
+    {
+      "slug": "sc",
+      "name": "SC",
+      "url": "https://supercomputing.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "mobicom",
+      "name": "MobiCom",
+      "url": "https://www.sigmobile.org/mobicom/",
+      "kind": "official"
+    },
+    {
+      "slug": "eurosys",
+      "name": "EuroSys",
+      "url": "https://www.eurosys.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "atc",
+      "name": "USENIX ATC",
+      "url": "https://www.usenix.org/conferences/byname/131",
+      "kind": "official"
+    },
+    {
+      "slug": "imc",
+      "name": "IMC",
+      "url": "https://conferences.sigcomm.org/imc/",
+      "kind": "official"
+    },
+    {
+      "slug": "conext",
+      "name": "CoNEXT",
+      "url": "https://conferences.sigcomm.org/co-next/",
+      "kind": "official"
+    },
+    {
+      "slug": "ppopp",
+      "name": "PPoPP",
+      "url": "https://ppopp.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "mobisys",
+      "name": "MobiSys",
+      "url": "https://www.sigmobile.org/mobisys/",
+      "kind": "official"
+    },
+    {
+      "slug": "infocom",
+      "name": "INFOCOM",
+      "url": "https://ieee-infocom.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "sigmetrics",
+      "name": "SIGMETRICS",
+      "url": "https://www.sigmetrics.org/sigmetrics/",
+      "kind": "official"
+    },
+    {
+      "slug": "rtss",
+      "name": "RTSS",
+      "url": "https://rtss.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "neurips",
+      "name": "NeurIPS",
+      "url": "https://neurips.cc/",
+      "kind": "official"
+    },
+    {
+      "slug": "icml",
+      "name": "ICML",
+      "url": "https://icml.cc/",
+      "kind": "official"
+    },
+    {
+      "slug": "iclr",
+      "name": "ICLR",
+      "url": "https://iclr.cc/",
+      "kind": "official"
+    },
+    {
+      "slug": "cvpr",
+      "name": "CVPR",
+      "url": "https://cvpr.thecvf.com/",
+      "kind": "official"
+    },
+    {
+      "slug": "acl",
+      "name": "ACL",
+      "url": "https://www.aclweb.org/portal/acl",
+      "kind": "official"
+    },
+    {
+      "slug": "iccv",
+      "name": "ICCV",
+      "url": "https://iccv.thecvf.com/",
+      "kind": "official"
+    },
+    {
+      "slug": "colt",
+      "name": "COLT",
+      "url": "https://learningtheory.org/colt/",
+      "kind": "official"
+    },
+    {
+      "slug": "eccv",
+      "name": "ECCV",
+      "url": "https://eccv.ecva.net/",
+      "kind": "official"
+    },
+    {
+      "slug": "emnlp",
+      "name": "EMNLP",
+      "url": "https://www.aclweb.org/portal/emnlp",
+      "kind": "official"
+    },
+    {
+      "slug": "aaai",
+      "name": "AAAI",
+      "url": "https://aaai.org/Conferences/AAAI/",
+      "kind": "official"
+    },
+    {
+      "slug": "icra",
+      "name": "ICRA",
+      "url": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
+      "kind": "official"
+    },
+    {
+      "slug": "uai",
+      "name": "UAI",
+      "url": "https://www.auai.org/uai/",
+      "kind": "official"
+    },
+    {
+      "slug": "aistats",
+      "name": "AISTATS",
+      "url": "https://aistats.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "naacl",
+      "name": "NAACL",
+      "url": "https://www.aclweb.org/portal/naacl",
+      "kind": "official"
+    },
+    {
+      "slug": "coling",
+      "name": "COLING",
+      "url": "https://coling.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "corl",
+      "name": "CoRL",
+      "url": "https://www.corl.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "ijcai",
+      "name": "IJCAI",
+      "url": "https://ijcai.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "iros",
+      "name": "IROS",
+      "url": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros",
+      "kind": "official"
+    },
+    {
+      "slug": "aamas",
+      "name": "AAMAS",
+      "url": "https://aamas.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "kr",
+      "name": "KR",
+      "url": "https://kr.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "icaps",
+      "name": "ICAPS",
+      "url": "https://www.icaps-conference.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "pldi",
+      "name": "PLDI",
+      "url": "https://pldi.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "popl",
+      "name": "POPL",
+      "url": "https://popl.mpi-sws.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "oopsla",
+      "name": "OOPSLA",
+      "url": "https://www.sigplan.org/Conferences/OOPSLA/",
+      "kind": "official"
+    },
+    {
+      "slug": "icse",
+      "name": "ICSE",
+      "url": "https://www.icse-conferences.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "fse",
+      "name": "FSE",
+      "url": "https://conf.researchr.org/series/fse",
+      "kind": "official"
+    },
+    {
+      "slug": "fm",
+      "name": "FM",
+      "url": "https://formalmethods.github.io/",
+      "kind": "official"
+    },
+    {
+      "slug": "ase",
+      "name": "ASE",
+      "url": "https://conf.researchr.org/series/ase",
+      "kind": "official"
+    },
+    {
+      "slug": "issta",
+      "name": "ISSTA",
+      "url": "https://conf.researchr.org/series/issta",
+      "kind": "official"
+    },
+    {
+      "slug": "vmcai",
+      "name": "VMCAI",
+      "url": "https://www.etaps.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "sas",
+      "name": "SAS",
+      "url": "https://staticanalysis.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "icfp",
+      "name": "ICFP",
+      "url": "https://icfpconference.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "ecoop",
+      "name": "ECOOP",
+      "url": "https://www.ecoop.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "middleware",
+      "name": "Middleware",
+      "url": "https://middleware-conf.github.io/",
+      "kind": "official"
+    },
+    {
+      "slug": "issre",
+      "name": "ISSRE",
+      "url": "https://issre.github.io/",
+      "kind": "official"
+    },
+    {
+      "slug": "msr",
+      "name": "MSR",
+      "url": "https://conf.researchr.org/series/msr",
+      "kind": "official"
+    },
+    {
+      "slug": "icsme",
+      "name": "ICSME",
+      "url": "https://conf.researchr.org/series/icsme",
+      "kind": "official"
+    },
+    {
+      "slug": "saner",
+      "name": "SANER",
+      "url": "https://conf.researchr.org/series/saner",
+      "kind": "official"
+    },
+    {
+      "slug": "re",
+      "name": "RE",
+      "url": "https://conf.researchr.org/series/RE",
+      "kind": "official"
+    },
+    {
+      "slug": "icpc",
+      "name": "ICPC",
+      "url": "https://conf.researchr.org/series/icpc",
+      "kind": "official"
+    },
+    {
+      "slug": "icst",
+      "name": "ICST",
+      "url": "https://conf.researchr.org/series/icst",
+      "kind": "official"
+    },
+    {
+      "slug": "sigmod",
+      "name": "SIGMOD",
+      "url": "https://sigmod.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "vldb",
+      "name": "VLDB",
+      "url": "https://vldb.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "kdd",
+      "name": "KDD",
+      "url": "https://kdd.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "sigir",
+      "name": "SIGIR",
+      "url": "https://sigir.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "icde",
+      "name": "ICDE",
+      "url": "https://ieee-icde.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "www",
+      "name": "WWW",
+      "url": "https://www.thewebconf.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "pods",
+      "name": "PODS",
+      "url": "https://sigmod.org/pods-home/",
+      "kind": "official"
+    },
+    {
+      "slug": "cidr",
+      "name": "CIDR",
+      "url": "https://www.cidrdb.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "wsdm",
+      "name": "WSDM",
+      "url": "https://www.wsdm-conference.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "recsys",
+      "name": "RecSys",
+      "url": "https://recsys.acm.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "cikm",
+      "name": "CIKM",
+      "url": "https://cikm.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "icdm",
+      "name": "ICDM",
+      "url": "https://www.ieee-icdm.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "iswc",
+      "name": "ISWC",
+      "url": "https://iswc.semanticweb.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "sdm",
+      "name": "SDM",
+      "url": "https://www.siam.org/conferences-events/siam-conferences/sdm/",
+      "kind": "official"
+    },
+    {
+      "slug": "edbt",
+      "name": "EDBT",
+      "url": "https://edbt.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "icdt",
+      "name": "ICDT",
+      "url": "https://icdt.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "ecir",
+      "name": "ECIR",
+      "url": "https://www.ecir.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "sigspatial",
+      "name": "SIGSPATIAL",
+      "url": "https://sigspatial.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "chiir",
+      "name": "CHIIR",
+      "url": "https://sigir.org/chiir/",
+      "kind": "official"
+    },
+    {
+      "slug": "stoc",
+      "name": "STOC",
+      "url": "https://acm-stoc.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "focs",
+      "name": "FOCS",
+      "url": "https://focs.computer.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "soda",
+      "name": "SODA",
+      "url": "https://www.siam.org/conferences-events/siam-conferences/soda/",
+      "kind": "official"
+    },
+    {
+      "slug": "cav",
+      "name": "CAV",
+      "url": "https://i-cav.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "lics",
+      "name": "LICS",
+      "url": "https://lics.siglog.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "ccc",
+      "name": "CCC",
+      "url": "https://computationalcomplexity.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "itcs",
+      "name": "ITCS",
+      "url": "https://itcs-conf.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "socg",
+      "name": "SoCG",
+      "url": "https://www.computational-geometry.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "esa",
+      "name": "ESA",
+      "url": "https://algo-conference.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "icalp",
+      "name": "ICALP",
+      "url": "https://eatcs.org/index.php/icalp",
+      "kind": "official"
+    },
+    {
+      "slug": "fmcad",
+      "name": "FMCAD",
+      "url": "https://fmcad.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "sat",
+      "name": "SAT",
+      "url": "https://satisfiability.org/SAT/",
+      "kind": "official"
+    },
+    {
+      "slug": "concur",
+      "name": "CONCUR",
+      "url": "https://concur-conference.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "hscc",
+      "name": "HSCC",
+      "url": "https://hscc.acm.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "siggraph",
+      "name": "SIGGRAPH",
+      "url": "https://www.siggraph.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "chi",
+      "name": "CHI",
+      "url": "https://chi.acm.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "acm-mm",
+      "name": "ACM MM",
+      "url": "https://acmmm.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "uist",
+      "name": "UIST",
+      "url": "https://uist.acm.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "vis",
+      "name": "IEEE VIS",
+      "url": "https://ieeevis.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "cscw",
+      "name": "CSCW",
+      "url": "https://cscw.acm.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "ubicomp",
+      "name": "UbiComp",
+      "url": "https://ubicomp.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "vr",
+      "name": "IEEE VR",
+      "url": "https://ieeevr.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "eurographics",
+      "name": "Eurographics",
+      "url": "https://www.eg.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "eurovis",
+      "name": "EuroVis",
+      "url": "https://www.eurovis.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "miccai",
+      "name": "MICCAI",
+      "url": "https://conferences.miccai.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "ismb",
+      "name": "ISMB",
+      "url": "https://www.iscb.org/ismb",
+      "kind": "official"
+    },
+    {
+      "slug": "recomb",
+      "name": "RECOMB",
+      "url": "https://recomb.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "ismar",
+      "name": "ISMAR",
+      "url": "https://ismar.net/",
+      "kind": "official"
+    },
+    {
+      "slug": "sgp",
+      "name": "SGP",
+      "url": "https://sgp2026.github.io/",
+      "kind": "official"
+    },
+    {
+      "slug": "egsr",
+      "name": "EGSR",
+      "url": "https://www.egsr-conference.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "sca",
+      "name": "SCA",
+      "url": "https://www.siggraph.org/learn/conferences/symposium-on-computer-animation/",
+      "kind": "official"
+    },
+    {
+      "slug": "dis",
+      "name": "DIS",
+      "url": "https://dis.acm.org/",
+      "kind": "official"
+    },
+    {
+      "slug": "vrst",
+      "name": "VRST",
+      "url": "https://vrst.acm.org/",
+      "kind": "official"
+    }
+  ]
+}

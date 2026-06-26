@@ -1,0 +1,38 @@
+{
+  "name": "nodiddl",
+  "version": "0.1.0",
+  "private": true,
+  "description": "NODI Conference Deadline Dashboard",
+  "packageManager": "pnpm@11.7.0",
+  "pnpm": {
+    "ignoredBuiltDependencies": [
+      "sharp"
+    ]
+  },
+  "scripts": {
+    "dev": "python3 scripts/merge_deadlines.py && python3 scripts/generate_ics.py && next dev",
+    "build": "python3 scripts/merge_deadlines.py && python3 scripts/validate_conferences.py && python3 scripts/generate_ics.py && next build",
+    "validate:data": "python3 scripts/merge_deadlines.py && python3 scripts/validate_conferences.py",
+    "sync:ccfddl": "python3 scripts/sync_ccfddl.py && python3 scripts/merge_deadlines.py && python3 scripts/validate_conferences.py",
+    "report": "python3 scripts/generate_report.py"
+  },
+  "dependencies": {
+    "@tanstack/react-table": "^8.21.3",
+    "date-fns": "^4.1.0",
+    "fuse.js": "^7.1.0",
+    "lucide-react": "^0.468.0",
+    "next": "^15.3.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zod": "^3.24.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.29",
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.4",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.8.3"
+  }
+}

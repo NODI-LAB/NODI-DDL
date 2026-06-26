@@ -1,0 +1,10 @@
+{
+  "attempted_sources": [
+    "https://raw.githubusercontent.com/ccfddl/ccf-deadlines/main/_data/conferences.yml",
+    "https://raw.githubusercontent.com/ccfddl/ccf-deadlines/main/_data/conferences.yaml",
+    "https://raw.githubusercontent.com/ccfddl/ccf-deadlines/main/conferences.json",
+    "https://raw.githubusercontent.com/ccfddl/ccf-deadlines/master/_data/conferences.yml"
+  ],
+  "matched_updates": 0,
+  "last_checked_at": "2026-06-26T14:49:03Z"
+}

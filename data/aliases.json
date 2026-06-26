@@ -1,0 +1,624 @@
+{
+  "aliases": [
+    {
+      "alias": "IEEE S&P",
+      "slug": "ieee-sp"
+    },
+    {
+      "alias": "ieee-s-p",
+      "slug": "ieee-sp"
+    },
+    {
+      "alias": "ieee-sp",
+      "slug": "ieee-sp"
+    },
+    {
+      "alias": "ieeesp",
+      "slug": "ieee-sp"
+    },
+    {
+      "alias": "USENIX Security",
+      "slug": "usenix-security"
+    },
+    {
+      "alias": "usenix-security",
+      "slug": "usenix-security"
+    },
+    {
+      "alias": "usenixsecurity",
+      "slug": "usenix-security"
+    },
+    {
+      "alias": "ACM CCS",
+      "slug": "ccs"
+    },
+    {
+      "alias": "acm-ccs",
+      "slug": "ccs"
+    },
+    {
+      "alias": "acmccs",
+      "slug": "ccs"
+    },
+    {
+      "alias": "ccs",
+      "slug": "ccs"
+    },
+    {
+      "alias": "NDSS",
+      "slug": "ndss"
+    },
+    {
+      "alias": "CRYPTO",
+      "slug": "crypto"
+    },
+    {
+      "alias": "EUROCRYPT",
+      "slug": "eurocrypt"
+    },
+    {
+      "alias": "ASIACRYPT",
+      "slug": "asiacrypt"
+    },
+    {
+      "alias": "CHES",
+      "slug": "ches"
+    },
+    {
+      "alias": "TCC",
+      "slug": "tcc"
+    },
+    {
+      "alias": "PKC",
+      "slug": "pkc"
+    },
+    {
+      "alias": "CSF",
+      "slug": "csf"
+    },
+    {
+      "alias": "PETS",
+      "slug": "pets"
+    },
+    {
+      "alias": "EuroS&P",
+      "slug": "eurosp"
+    },
+    {
+      "alias": "euros-p",
+      "slug": "eurosp"
+    },
+    {
+      "alias": "eurosp",
+      "slug": "eurosp"
+    },
+    {
+      "alias": "RAID",
+      "slug": "raid"
+    },
+    {
+      "alias": "ESORICS",
+      "slug": "esorics"
+    },
+    {
+      "alias": "ACSAC",
+      "slug": "acsac"
+    },
+    {
+      "alias": "DSN",
+      "slug": "dsn"
+    },
+    {
+      "alias": "SOUPS",
+      "slug": "soups"
+    },
+    {
+      "alias": "DIMVA",
+      "slug": "dimva"
+    },
+    {
+      "alias": "FC",
+      "slug": "fc"
+    },
+    {
+      "alias": "AsiaCCS",
+      "slug": "asiaccs"
+    },
+    {
+      "alias": "SOSP",
+      "slug": "sosp"
+    },
+    {
+      "alias": "OSDI",
+      "slug": "osdi"
+    },
+    {
+      "alias": "SIGCOMM",
+      "slug": "sigcomm"
+    },
+    {
+      "alias": "NSDI",
+      "slug": "nsdi"
+    },
+    {
+      "alias": "ISCA",
+      "slug": "isca"
+    },
+    {
+      "alias": "MICRO",
+      "slug": "micro"
+    },
+    {
+      "alias": "ASPLOS",
+      "slug": "asplos"
+    },
+    {
+      "alias": "HPCA",
+      "slug": "hpca"
+    },
+    {
+      "alias": "FAST",
+      "slug": "fast"
+    },
+    {
+      "alias": "SC",
+      "slug": "sc"
+    },
+    {
+      "alias": "MobiCom",
+      "slug": "mobicom"
+    },
+    {
+      "alias": "EuroSys",
+      "slug": "eurosys"
+    },
+    {
+      "alias": "USENIX ATC",
+      "slug": "atc"
+    },
+    {
+      "alias": "atc",
+      "slug": "atc"
+    },
+    {
+      "alias": "usenix-atc",
+      "slug": "atc"
+    },
+    {
+      "alias": "usenixatc",
+      "slug": "atc"
+    },
+    {
+      "alias": "IMC",
+      "slug": "imc"
+    },
+    {
+      "alias": "CoNEXT",
+      "slug": "conext"
+    },
+    {
+      "alias": "PPoPP",
+      "slug": "ppopp"
+    },
+    {
+      "alias": "MobiSys",
+      "slug": "mobisys"
+    },
+    {
+      "alias": "INFOCOM",
+      "slug": "infocom"
+    },
+    {
+      "alias": "SIGMETRICS",
+      "slug": "sigmetrics"
+    },
+    {
+      "alias": "RTSS",
+      "slug": "rtss"
+    },
+    {
+      "alias": "NeurIPS",
+      "slug": "neurips"
+    },
+    {
+      "alias": "ICML",
+      "slug": "icml"
+    },
+    {
+      "alias": "ICLR",
+      "slug": "iclr"
+    },
+    {
+      "alias": "CVPR",
+      "slug": "cvpr"
+    },
+    {
+      "alias": "ACL",
+      "slug": "acl"
+    },
+    {
+      "alias": "ICCV",
+      "slug": "iccv"
+    },
+    {
+      "alias": "COLT",
+      "slug": "colt"
+    },
+    {
+      "alias": "ECCV",
+      "slug": "eccv"
+    },
+    {
+      "alias": "EMNLP",
+      "slug": "emnlp"
+    },
+    {
+      "alias": "AAAI",
+      "slug": "aaai"
+    },
+    {
+      "alias": "ICRA",
+      "slug": "icra"
+    },
+    {
+      "alias": "UAI",
+      "slug": "uai"
+    },
+    {
+      "alias": "AISTATS",
+      "slug": "aistats"
+    },
+    {
+      "alias": "NAACL",
+      "slug": "naacl"
+    },
+    {
+      "alias": "COLING",
+      "slug": "coling"
+    },
+    {
+      "alias": "CoRL",
+      "slug": "corl"
+    },
+    {
+      "alias": "IJCAI",
+      "slug": "ijcai"
+    },
+    {
+      "alias": "IROS",
+      "slug": "iros"
+    },
+    {
+      "alias": "AAMAS",
+      "slug": "aamas"
+    },
+    {
+      "alias": "KR",
+      "slug": "kr"
+    },
+    {
+      "alias": "ICAPS",
+      "slug": "icaps"
+    },
+    {
+      "alias": "PLDI",
+      "slug": "pldi"
+    },
+    {
+      "alias": "POPL",
+      "slug": "popl"
+    },
+    {
+      "alias": "OOPSLA",
+      "slug": "oopsla"
+    },
+    {
+      "alias": "ICSE",
+      "slug": "icse"
+    },
+    {
+      "alias": "FSE",
+      "slug": "fse"
+    },
+    {
+      "alias": "FM",
+      "slug": "fm"
+    },
+    {
+      "alias": "ASE",
+      "slug": "ase"
+    },
+    {
+      "alias": "ISSTA",
+      "slug": "issta"
+    },
+    {
+      "alias": "VMCAI",
+      "slug": "vmcai"
+    },
+    {
+      "alias": "SAS",
+      "slug": "sas"
+    },
+    {
+      "alias": "ICFP",
+      "slug": "icfp"
+    },
+    {
+      "alias": "ECOOP",
+      "slug": "ecoop"
+    },
+    {
+      "alias": "Middleware",
+      "slug": "middleware"
+    },
+    {
+      "alias": "ISSRE",
+      "slug": "issre"
+    },
+    {
+      "alias": "MSR",
+      "slug": "msr"
+    },
+    {
+      "alias": "ICSME",
+      "slug": "icsme"
+    },
+    {
+      "alias": "SANER",
+      "slug": "saner"
+    },
+    {
+      "alias": "RE",
+      "slug": "re"
+    },
+    {
+      "alias": "ICPC",
+      "slug": "icpc"
+    },
+    {
+      "alias": "ICST",
+      "slug": "icst"
+    },
+    {
+      "alias": "SIGMOD",
+      "slug": "sigmod"
+    },
+    {
+      "alias": "VLDB",
+      "slug": "vldb"
+    },
+    {
+      "alias": "KDD",
+      "slug": "kdd"
+    },
+    {
+      "alias": "SIGIR",
+      "slug": "sigir"
+    },
+    {
+      "alias": "ICDE",
+      "slug": "icde"
+    },
+    {
+      "alias": "WWW",
+      "slug": "www"
+    },
+    {
+      "alias": "PODS",
+      "slug": "pods"
+    },
+    {
+      "alias": "CIDR",
+      "slug": "cidr"
+    },
+    {
+      "alias": "WSDM",
+      "slug": "wsdm"
+    },
+    {
+      "alias": "RecSys",
+      "slug": "recsys"
+    },
+    {
+      "alias": "CIKM",
+      "slug": "cikm"
+    },
+    {
+      "alias": "ICDM",
+      "slug": "icdm"
+    },
+    {
+      "alias": "ISWC",
+      "slug": "iswc"
+    },
+    {
+      "alias": "SDM",
+      "slug": "sdm"
+    },
+    {
+      "alias": "EDBT",
+      "slug": "edbt"
+    },
+    {
+      "alias": "ICDT",
+      "slug": "icdt"
+    },
+    {
+      "alias": "ECIR",
+      "slug": "ecir"
+    },
+    {
+      "alias": "SIGSPATIAL",
+      "slug": "sigspatial"
+    },
+    {
+      "alias": "CHIIR",
+      "slug": "chiir"
+    },
+    {
+      "alias": "STOC",
+      "slug": "stoc"
+    },
+    {
+      "alias": "FOCS",
+      "slug": "focs"
+    },
+    {
+      "alias": "SODA",
+      "slug": "soda"
+    },
+    {
+      "alias": "CAV",
+      "slug": "cav"
+    },
+    {
+      "alias": "LICS",
+      "slug": "lics"
+    },
+    {
+      "alias": "CCC",
+      "slug": "ccc"
+    },
+    {
+      "alias": "ITCS",
+      "slug": "itcs"
+    },
+    {
+      "alias": "SoCG",
+      "slug": "socg"
+    },
+    {
+      "alias": "ESA",
+      "slug": "esa"
+    },
+    {
+      "alias": "ICALP",
+      "slug": "icalp"
+    },
+    {
+      "alias": "FMCAD",
+      "slug": "fmcad"
+    },
+    {
+      "alias": "SAT",
+      "slug": "sat"
+    },
+    {
+      "alias": "CONCUR",
+      "slug": "concur"
+    },
+    {
+      "alias": "HSCC",
+      "slug": "hscc"
+    },
+    {
+      "alias": "SIGGRAPH",
+      "slug": "siggraph"
+    },
+    {
+      "alias": "CHI",
+      "slug": "chi"
+    },
+    {
+      "alias": "ACM MM",
+      "slug": "acm-mm"
+    },
+    {
+      "alias": "acm-mm",
+      "slug": "acm-mm"
+    },
+    {
+      "alias": "acmmm",
+      "slug": "acm-mm"
+    },
+    {
+      "alias": "UIST",
+      "slug": "uist"
+    },
+    {
+      "alias": "IEEE VIS",
+      "slug": "vis"
+    },
+    {
+      "alias": "ieee-vis",
+      "slug": "vis"
+    },
+    {
+      "alias": "ieeevis",
+      "slug": "vis"
+    },
+    {
+      "alias": "vis",
+      "slug": "vis"
+    },
+    {
+      "alias": "CSCW",
+      "slug": "cscw"
+    },
+    {
+      "alias": "UbiComp",
+      "slug": "ubicomp"
+    },
+    {
+      "alias": "IEEE VR",
+      "slug": "vr"
+    },
+    {
+      "alias": "ieee-vr",
+      "slug": "vr"
+    },
+    {
+      "alias": "ieeevr",
+      "slug": "vr"
+    },
+    {
+      "alias": "vr",
+      "slug": "vr"
+    },
+    {
+      "alias": "Eurographics",
+      "slug": "eurographics"
+    },
+    {
+      "alias": "EuroVis",
+      "slug": "eurovis"
+    },
+    {
+      "alias": "MICCAI",
+      "slug": "miccai"
+    },
+    {
+      "alias": "ISMB",
+      "slug": "ismb"
+    },
+    {
+      "alias": "RECOMB",
+      "slug": "recomb"
+    },
+    {
+      "alias": "ISMAR",
+      "slug": "ismar"
+    },
+    {
+      "alias": "SGP",
+      "slug": "sgp"
+    },
+    {
+      "alias": "EGSR",
+      "slug": "egsr"
+    },
+    {
+      "alias": "SCA",
+      "slug": "sca"
+    },
+    {
+      "alias": "DIS",
+      "slug": "dis"
+    },
+    {
+      "alias": "VRST",
+      "slug": "vrst"
+    }
+  ]
+}

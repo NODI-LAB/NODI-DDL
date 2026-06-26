@@ -1,0 +1,2459 @@
+[
+  {
+    "slug": "ieee-sp",
+    "name": "IEEE S&P",
+    "website": "https://www.ieee-security.org/TC/SP-Index.html",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Security / Privacy",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "系统安全",
+      "网络安全",
+      "隐私",
+      "安全测量",
+      "AI Security",
+      "可用安全"
+    ],
+    "note": "安全四大之一，高校与工业界均高度认可。",
+    "enabled": true
+  },
+  {
+    "slug": "usenix-security",
+    "name": "USENIX Security",
+    "website": "https://www.usenix.org/conferences/byname/108",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Security / Privacy",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "系统安全",
+      "Web 安全",
+      "软件安全",
+      "隐私攻击与防御",
+      "安全测量",
+      "真实世界攻击与防御系统"
+    ],
+    "note": "安全四大之一，系统安全、Web 安全、隐私方向硬通货。",
+    "enabled": true
+  },
+  {
+    "slug": "ccs",
+    "name": "ACM CCS",
+    "website": "https://www.sigsac.org/ccs.html",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Security / Privacy",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "综合安全",
+      "隐私",
+      "AI Security",
+      "应用密码",
+      "区块链安全",
+      "系统安全",
+      "软件安全"
+    ],
+    "note": "综合安全顶会，覆盖安全、隐私和 AI security。",
+    "enabled": true
+  },
+  {
+    "slug": "ndss",
+    "name": "NDSS",
+    "website": "https://www.ndss-symposium.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Network / System Security",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "网络安全",
+      "系统安全",
+      "Web 安全",
+      "协议安全",
+      "入侵检测",
+      "安全测量"
+    ],
+    "note": "网络与系统安全顶会。",
+    "enabled": true
+  },
+  {
+    "slug": "crypto",
+    "name": "CRYPTO",
+    "website": "https://crypto.iacr.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Cryptography",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "理论密码",
+      "密码协议",
+      "可证明安全",
+      "复杂性假设",
+      "安全多方计算",
+      "零知识证明"
+    ],
+    "note": "密码学最高级别会议之一。",
+    "enabled": true
+  },
+  {
+    "slug": "eurocrypt",
+    "name": "EUROCRYPT",
+    "website": "https://eurocrypt.iacr.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Cryptography",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "理论密码",
+      "密码协议",
+      "可证明安全",
+      "公钥密码",
+      "安全多方计算",
+      "零知识证明"
+    ],
+    "note": "密码学最高级别会议之一。",
+    "enabled": true
+  },
+  {
+    "slug": "asiacrypt",
+    "name": "ASIACRYPT",
+    "website": "https://asiacrypt.iacr.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Cryptography",
+    "ccf": "B",
+    "nodi_score": 9.7,
+    "accepted_topics": [
+      "理论密码",
+      "密码协议",
+      "公钥密码",
+      "对称密码",
+      "零知识证明",
+      "应用密码"
+    ],
+    "note": "密码学三大之一，虽非 CCF A 但国际声誉极强。",
+    "enabled": true
+  },
+  {
+    "slug": "ches",
+    "name": "CHES",
+    "website": "https://ches.iacr.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Crypto Implementation / Hardware Security",
+    "ccf": "B",
+    "nodi_score": 9.4,
+    "accepted_topics": [
+      "密码实现",
+      "侧信道",
+      "硬件安全",
+      "嵌入式安全",
+      "可信执行",
+      "密码工程"
+    ],
+    "note": "密码实现、侧信道和硬件安全方向顶级会议。",
+    "enabled": true
+  },
+  {
+    "slug": "tcc",
+    "name": "TCC",
+    "website": "https://tcc.iacr.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Theory of Cryptography",
+    "ccf": "B",
+    "nodi_score": 9.3,
+    "accepted_topics": [
+      "理论密码",
+      "可证明安全",
+      "复杂性理论",
+      "密码协议",
+      "零知识证明"
+    ],
+    "note": "理论密码核心会议。",
+    "enabled": true
+  },
+  {
+    "slug": "pkc",
+    "name": "PKC",
+    "website": "https://pkc.iacr.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Public-Key Cryptography",
+    "ccf": "B",
+    "nodi_score": 9.1,
+    "accepted_topics": [
+      "公钥密码",
+      "签名",
+      "加密",
+      "密钥交换",
+      "密码协议",
+      "后量子密码"
+    ],
+    "note": "公钥密码方向强会。",
+    "enabled": true
+  },
+  {
+    "slug": "csf",
+    "name": "CSF",
+    "website": "https://www.ieee-security.org/TC/CSF/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Security Foundations",
+    "ccf": "B",
+    "nodi_score": 9.0,
+    "accepted_topics": [
+      "形式化安全",
+      "安全逻辑",
+      "协议验证",
+      "语言安全",
+      "信息流安全",
+      "安全基础理论"
+    ],
+    "note": "形式化安全和安全基础理论方向强会。",
+    "enabled": true
+  },
+  {
+    "slug": "pets",
+    "name": "PETS",
+    "website": "https://petsymposium.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Privacy",
+    "ccf": "C",
+    "nodi_score": 8.8,
+    "accepted_topics": [
+      "隐私保护",
+      "匿名通信",
+      "隐私攻击与防御",
+      "差分隐私",
+      "Web 隐私",
+      "用户隐私研究"
+    ],
+    "note": "隐私方向公认强会，方向匹配时权重高。",
+    "enabled": true
+  },
+  {
+    "slug": "eurosp",
+    "name": "EuroS&P",
+    "website": "https://www.ieee-security.org/TC/EuroSP/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Security / Privacy",
+    "ccf": "C",
+    "nodi_score": 8.5,
+    "accepted_topics": [
+      "系统安全",
+      "隐私",
+      "Web 安全",
+      "网络安全",
+      "软件安全",
+      "AI Security"
+    ],
+    "note": "IEEE S&P 欧洲分会，强于普通安全会议。",
+    "enabled": true
+  },
+  {
+    "slug": "raid",
+    "name": "RAID",
+    "website": "https://raid-symposium.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Intrusion / System Security",
+    "ccf": "B",
+    "nodi_score": 8.4,
+    "accepted_topics": [
+      "入侵检测",
+      "恶意行为分析",
+      "安全测量",
+      "系统安全",
+      "网络安全",
+      "威胁狩猎"
+    ],
+    "note": "入侵检测、恶意行为和系统安全方向强会。",
+    "enabled": true
+  },
+  {
+    "slug": "esorics",
+    "name": "ESORICS",
+    "website": "https://esorics.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Security",
+    "ccf": "B",
+    "nodi_score": 8.2,
+    "accepted_topics": [
+      "系统安全",
+      "网络安全",
+      "隐私",
+      "应用密码",
+      "软件安全",
+      "访问控制"
+    ],
+    "note": "欧洲老牌安全会议。",
+    "enabled": true
+  },
+  {
+    "slug": "acsac",
+    "name": "ACSAC",
+    "website": "https://www.acsac.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Applied Security",
+    "ccf": "B",
+    "nodi_score": 8.1,
+    "accepted_topics": [
+      "应用安全",
+      "系统安全",
+      "企业安全",
+      "软件安全",
+      "安全工程",
+      "网络防御"
+    ],
+    "note": "应用安全老牌会议，方向匹配时认可。",
+    "enabled": true
+  },
+  {
+    "slug": "dsn",
+    "name": "DSN",
+    "website": "https://dsn.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Dependability / Security",
+    "ccf": "B",
+    "nodi_score": 8.0,
+    "accepted_topics": [
+      "可靠性",
+      "容错系统",
+      "安全可靠交叉",
+      "分布式系统可靠性",
+      "弹性系统"
+    ],
+    "note": "可靠性、容错和安全交叉方向认可。",
+    "enabled": true
+  },
+  {
+    "slug": "soups",
+    "name": "SOUPS",
+    "website": "https://www.usenix.org/conferences/byname/925",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Usable Security",
+    "ccf": "C",
+    "nodi_score": 7.8,
+    "accepted_topics": [
+      "可用安全",
+      "隐私用户研究",
+      "安全交互",
+      "用户认证",
+      "钓鱼防护",
+      "人因安全"
+    ],
+    "note": "可用安全核心会议。",
+    "enabled": true
+  },
+  {
+    "slug": "dimva",
+    "name": "DIMVA",
+    "website": "https://dimva.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Malware / Detection",
+    "ccf": "C",
+    "nodi_score": 7.7,
+    "accepted_topics": [
+      "恶意软件",
+      "入侵检测",
+      "安全测量",
+      "威胁检测",
+      "攻击分析"
+    ],
+    "note": "恶意软件、入侵检测和安全测量方向认可。",
+    "enabled": true
+  },
+  {
+    "slug": "fc",
+    "name": "FC",
+    "website": "https://fc.ifca.ai/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Financial Cryptography",
+    "ccf": "C",
+    "nodi_score": 7.6,
+    "accepted_topics": [
+      "金融密码",
+      "区块链安全",
+      "数字货币",
+      "隐私支付",
+      "应用密码"
+    ],
+    "note": "金融密码、区块链与应用密码方向认可。",
+    "enabled": true
+  },
+  {
+    "slug": "asiaccs",
+    "name": "AsiaCCS",
+    "website": "https://asiaccs.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Security",
+    "ccf": "C",
+    "nodi_score": 7.4,
+    "accepted_topics": [
+      "系统安全",
+      "网络安全",
+      "隐私",
+      "软件安全",
+      "应用密码",
+      "AI Security"
+    ],
+    "note": "亚洲安全会议，不与安全四大等价。",
+    "enabled": true
+  },
+  {
+    "slug": "sosp",
+    "name": "SOSP",
+    "website": "https://sigops.org/s/conferences/sosp/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Operating Systems",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "操作系统",
+      "分布式系统",
+      "云基础设施",
+      "存储系统",
+      "系统设计与实现"
+    ],
+    "note": "操作系统旗舰会议。",
+    "enabled": true
+  },
+  {
+    "slug": "osdi",
+    "name": "OSDI",
+    "website": "https://www.usenix.org/conferences/byname/179",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Operating Systems / Systems",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "操作系统",
+      "分布式系统",
+      "云系统",
+      "系统设计",
+      "系统实现"
+    ],
+    "note": "系统设计旗舰，高校与工业界认可极高。",
+    "enabled": true
+  },
+  {
+    "slug": "sigcomm",
+    "name": "SIGCOMM",
+    "website": "https://conferences.sigcomm.org/sigcomm/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Computer Networks",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "计算机网络",
+      "网络协议",
+      "网络系统",
+      "互联网架构",
+      "数据中心网络",
+      "网络测量"
+    ],
+    "note": "计算机网络旗舰会议。",
+    "enabled": true
+  },
+  {
+    "slug": "nsdi",
+    "name": "NSDI",
+    "website": "https://www.usenix.org/conferences/byname/135",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Networked Systems",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "网络系统",
+      "分布式系统",
+      "云边系统",
+      "数据中心系统",
+      "系统安全交叉"
+    ],
+    "note": "网络系统顶会，系统、网络、云边和安全交叉价值高。",
+    "enabled": true
+  },
+  {
+    "slug": "isca",
+    "name": "ISCA",
+    "website": "https://iscaconf.org/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Computer Architecture",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "计算机体系结构",
+      "处理器设计",
+      "内存系统",
+      "加速器",
+      "体系结构安全"
+    ],
+    "note": "体系结构旗舰会议。",
+    "enabled": true
+  },
+  {
+    "slug": "micro",
+    "name": "MICRO",
+    "website": "https://microarch.org/micro/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Microarchitecture",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "微体系结构",
+      "处理器",
+      "内存层次",
+      "加速器",
+      "硬件安全"
+    ],
+    "note": "微体系结构旗舰会议。",
+    "enabled": true
+  },
+  {
+    "slug": "asplos",
+    "name": "ASPLOS",
+    "website": "https://www.asplos-conference.org/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Architecture / Systems / PL",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "体系结构",
+      "操作系统",
+      "编程语言",
+      "编译器",
+      "系统优化",
+      "AI 系统"
+    ],
+    "note": "体系结构、系统和 PL 交叉旗舰。",
+    "enabled": true
+  },
+  {
+    "slug": "hpca",
+    "name": "HPCA",
+    "website": "https://hpca-conf.org/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "High-Performance Architecture",
+    "ccf": "A",
+    "nodi_score": 9.8,
+    "accepted_topics": [
+      "高性能体系结构",
+      "处理器",
+      "内存系统",
+      "加速器",
+      "异构计算"
+    ],
+    "note": "高性能体系结构强顶会。",
+    "enabled": true
+  },
+  {
+    "slug": "fast",
+    "name": "FAST",
+    "website": "https://www.usenix.org/conferences/byname/63",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Storage Systems",
+    "ccf": "A",
+    "nodi_score": 9.8,
+    "accepted_topics": [
+      "存储系统",
+      "文件系统",
+      "键值存储",
+      "持久内存",
+      "云存储",
+      "数据可靠性"
+    ],
+    "note": "存储系统旗舰会议。",
+    "enabled": true
+  },
+  {
+    "slug": "sc",
+    "name": "SC",
+    "website": "https://supercomputing.org/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "HPC / Supercomputing",
+    "ccf": "A",
+    "nodi_score": 9.6,
+    "accepted_topics": [
+      "超算",
+      "HPC",
+      "并行计算",
+      "科学计算",
+      "性能优化",
+      "大规模系统"
+    ],
+    "note": "超算和 HPC 顶会，HPC 实验室权重很高。",
+    "enabled": true
+  },
+  {
+    "slug": "mobicom",
+    "name": "MobiCom",
+    "website": "https://www.sigmobile.org/mobicom/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Mobile Computing / Wireless",
+    "ccf": "A",
+    "nodi_score": 9.5,
+    "accepted_topics": [
+      "移动计算",
+      "无线网络",
+      "移动系统",
+      "边缘计算",
+      "传感网络"
+    ],
+    "note": "移动计算与无线网络旗舰。",
+    "enabled": true
+  },
+  {
+    "slug": "eurosys",
+    "name": "EuroSys",
+    "website": "https://www.eurosys.org/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Systems",
+    "ccf": "A",
+    "nodi_score": 9.5,
+    "accepted_topics": [
+      "操作系统",
+      "分布式系统",
+      "云系统",
+      "系统设计",
+      "系统性能"
+    ],
+    "note": "欧洲系统强会，系统方向强认可。",
+    "enabled": true
+  },
+  {
+    "slug": "atc",
+    "name": "USENIX ATC",
+    "website": "https://www.usenix.org/conferences/byname/131",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Systems",
+    "ccf": "A",
+    "nodi_score": 9.5,
+    "accepted_topics": [
+      "系统实现",
+      "操作系统",
+      "分布式系统",
+      "存储",
+      "性能优化",
+      "AI 系统基础设施"
+    ],
+    "note": "CCF 第七版为 ACM SIGOPS ATC，系统方向强会。",
+    "enabled": true
+  },
+  {
+    "slug": "imc",
+    "name": "IMC",
+    "website": "https://conferences.sigcomm.org/imc/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Internet Measurement",
+    "ccf": "B",
+    "nodi_score": 9.2,
+    "accepted_topics": [
+      "互联网测量",
+      "网络测量",
+      "安全测量",
+      "Web 测量",
+      "流量分析"
+    ],
+    "note": "互联网测量方向顶级会议。",
+    "enabled": true
+  },
+  {
+    "slug": "conext",
+    "name": "CoNEXT",
+    "website": "https://conferences.sigcomm.org/co-next/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Networking",
+    "ccf": "B",
+    "nodi_score": 9.1,
+    "accepted_topics": [
+      "网络系统",
+      "协议设计",
+      "网络测量",
+      "互联网架构",
+      "数据中心网络"
+    ],
+    "note": "网络系统强会。",
+    "enabled": true
+  },
+  {
+    "slug": "ppopp",
+    "name": "PPoPP",
+    "website": "https://ppopp.org/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Parallel Programming",
+    "ccf": "A",
+    "nodi_score": 9.0,
+    "accepted_topics": [
+      "并行程序设计",
+      "并行计算",
+      "编译优化",
+      "运行时系统",
+      "高性能计算"
+    ],
+    "note": "并行程序设计与并行计算方向核心。",
+    "enabled": true
+  },
+  {
+    "slug": "mobisys",
+    "name": "MobiSys",
+    "website": "https://www.sigmobile.org/mobisys/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Mobile Systems",
+    "ccf": "B",
+    "nodi_score": 9.0,
+    "accepted_topics": [
+      "移动系统",
+      "边缘系统",
+      "移动计算",
+      "IoT",
+      "传感系统"
+    ],
+    "note": "移动系统强会。",
+    "enabled": true
+  },
+  {
+    "slug": "infocom",
+    "name": "INFOCOM",
+    "website": "https://ieee-infocom.org/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Computer Networks",
+    "ccf": "A",
+    "nodi_score": 8.8,
+    "accepted_topics": [
+      "网络通信",
+      "网络协议",
+      "无线网络",
+      "边缘网络",
+      "网络优化"
+    ],
+    "note": "网络通信老牌主会，认可度取决于方向匹配。",
+    "enabled": true
+  },
+  {
+    "slug": "sigmetrics",
+    "name": "SIGMETRICS",
+    "website": "https://www.sigmetrics.org/sigmetrics/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Performance",
+    "ccf": "B",
+    "nodi_score": 8.7,
+    "accepted_topics": [
+      "性能建模",
+      "性能测量",
+      "排队理论",
+      "系统性能",
+      "网络性能"
+    ],
+    "note": "性能建模与测量强会。",
+    "enabled": true
+  },
+  {
+    "slug": "rtss",
+    "name": "RTSS",
+    "website": "https://rtss.org/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Real-Time Systems",
+    "ccf": "A",
+    "nodi_score": 8.7,
+    "accepted_topics": [
+      "实时系统",
+      "嵌入式系统",
+      "调度",
+      "实时安全",
+      "CPS"
+    ],
+    "note": "实时系统顶会，嵌入式和实时方向强认可。",
+    "enabled": true
+  },
+  {
+    "slug": "neurips",
+    "name": "NeurIPS",
+    "website": "https://neurips.cc/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Machine Learning / AI",
+    "ccf": "A",
+    "nodi_score": 9.7,
+    "accepted_topics": [
+      "机器学习",
+      "深度学习",
+      "基础模型",
+      "可信 AI",
+      "AI Safety",
+      "AI Security",
+      "优化"
+    ],
+    "note": "ML/AI 全球旗舰，若与安全或系统结合价值更高。",
+    "enabled": true
+  },
+  {
+    "slug": "icml",
+    "name": "ICML",
+    "website": "https://icml.cc/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Machine Learning",
+    "ccf": "A",
+    "nodi_score": 9.7,
+    "accepted_topics": [
+      "机器学习",
+      "深度学习",
+      "优化",
+      "泛化理论",
+      "强化学习",
+      "可信学习"
+    ],
+    "note": "机器学习旗舰。",
+    "enabled": true
+  },
+  {
+    "slug": "iclr",
+    "name": "ICLR",
+    "website": "https://iclr.cc/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Representation Learning / Deep Learning",
+    "ccf": "A",
+    "nodi_score": 9.7,
+    "accepted_topics": [
+      "表征学习",
+      "深度学习",
+      "大模型",
+      "生成模型",
+      "可信 AI",
+      "AI Safety"
+    ],
+    "note": "表征学习、深度学习和大模型方向硬通货。",
+    "enabled": true
+  },
+  {
+    "slug": "cvpr",
+    "name": "CVPR",
+    "website": "https://cvpr.thecvf.com/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Computer Vision",
+    "ccf": "A",
+    "nodi_score": 9.5,
+    "accepted_topics": [
+      "计算机视觉",
+      "图像识别",
+      "视频理解",
+      "三维视觉",
+      "多模态视觉",
+      "医学视觉"
+    ],
+    "note": "视觉顶会，CV 方向旗舰。",
+    "enabled": true
+  },
+  {
+    "slug": "acl",
+    "name": "ACL",
+    "website": "https://www.aclweb.org/portal/acl",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Natural Language Processing",
+    "ccf": "A",
+    "nodi_score": 9.3,
+    "accepted_topics": [
+      "NLP",
+      "大语言模型",
+      "机器翻译",
+      "文本生成",
+      "语言理解",
+      "计算语言学"
+    ],
+    "note": "NLP 顶会，仅主会 Long Paper 强认可。",
+    "enabled": true
+  },
+  {
+    "slug": "iccv",
+    "name": "ICCV",
+    "website": "https://iccv.thecvf.com/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Computer Vision",
+    "ccf": "A",
+    "nodi_score": 9.3,
+    "accepted_topics": [
+      "计算机视觉",
+      "图像理解",
+      "视频分析",
+      "三维视觉",
+      "多模态视觉"
+    ],
+    "note": "视觉顶会。",
+    "enabled": true
+  },
+  {
+    "slug": "colt",
+    "name": "COLT",
+    "website": "https://learningtheory.org/colt/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Learning Theory",
+    "ccf": "B",
+    "nodi_score": 9.1,
+    "accepted_topics": [
+      "学习理论",
+      "泛化理论",
+      "在线学习",
+      "统计学习",
+      "优化理论"
+    ],
+    "note": "学习理论核心会议。",
+    "enabled": true
+  },
+  {
+    "slug": "eccv",
+    "name": "ECCV",
+    "website": "https://eccv.ecva.net/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Computer Vision",
+    "ccf": "B",
+    "nodi_score": 9.0,
+    "accepted_topics": [
+      "计算机视觉",
+      "图像识别",
+      "视频理解",
+      "三维视觉",
+      "多模态视觉"
+    ],
+    "note": "视觉三大会之一。",
+    "enabled": true
+  },
+  {
+    "slug": "emnlp",
+    "name": "EMNLP",
+    "website": "https://www.aclweb.org/portal/emnlp",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Natural Language Processing",
+    "ccf": "B",
+    "nodi_score": 8.9,
+    "accepted_topics": [
+      "NLP",
+      "大语言模型",
+      "文本生成",
+      "信息抽取",
+      "机器翻译",
+      "语言理解"
+    ],
+    "note": "NLP 强会，主会 Long Paper 认可度高。",
+    "enabled": true
+  },
+  {
+    "slug": "aaai",
+    "name": "AAAI",
+    "website": "https://aaai.org/Conferences/AAAI/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "General AI",
+    "ccf": "A",
+    "nodi_score": 8.7,
+    "accepted_topics": [
+      "综合 AI",
+      "机器学习",
+      "规划",
+      "知识表示",
+      "多智能体",
+      "AI 应用"
+    ],
+    "note": "综合 AI 老牌主会，代表作需看贡献。",
+    "enabled": true
+  },
+  {
+    "slug": "icra",
+    "name": "ICRA",
+    "website": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Robotics",
+    "ccf": "B",
+    "nodi_score": 8.7,
+    "accepted_topics": [
+      "机器人",
+      "机器人感知",
+      "运动规划",
+      "控制",
+      "人机协作",
+      "机器人学习"
+    ],
+    "note": "机器人方向顶级主会之一。",
+    "enabled": true
+  },
+  {
+    "slug": "uai",
+    "name": "UAI",
+    "website": "https://www.auai.org/uai/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Probabilistic AI / Causal / Uncertainty",
+    "ccf": "B",
+    "nodi_score": 8.6,
+    "accepted_topics": [
+      "概率建模",
+      "不确定性",
+      "因果推断",
+      "贝叶斯学习",
+      "决策理论"
+    ],
+    "note": "概率建模、不确定性与因果方向强会。",
+    "enabled": true
+  },
+  {
+    "slug": "aistats",
+    "name": "AISTATS",
+    "website": "https://aistats.org/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "ML / Statistics",
+    "ccf": "C",
+    "nodi_score": 8.5,
+    "accepted_topics": [
+      "统计机器学习",
+      "概率模型",
+      "优化",
+      "学习理论",
+      "贝叶斯方法"
+    ],
+    "note": "统计机器学习方向口碑强。",
+    "enabled": true
+  },
+  {
+    "slug": "naacl",
+    "name": "NAACL",
+    "website": "https://www.aclweb.org/portal/naacl",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Natural Language Processing",
+    "ccf": "B",
+    "nodi_score": 8.4,
+    "accepted_topics": [
+      "NLP",
+      "大语言模型",
+      "语言理解",
+      "文本生成",
+      "机器翻译",
+      "信息抽取"
+    ],
+    "note": "ACL 系列强会。",
+    "enabled": true
+  },
+  {
+    "slug": "coling",
+    "name": "COLING",
+    "website": "https://coling.org/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Computational Linguistics",
+    "ccf": "B",
+    "nodi_score": 8.3,
+    "accepted_topics": [
+      "计算语言学",
+      "NLP",
+      "语言资源",
+      "文本处理",
+      "机器翻译"
+    ],
+    "note": "NLP 四大会之一。",
+    "enabled": true
+  },
+  {
+    "slug": "corl",
+    "name": "CoRL",
+    "website": "https://www.corl.org/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Robot Learning",
+    "ccf": "非 CCF",
+    "nodi_score": 8.2,
+    "accepted_topics": [
+      "机器人学习",
+      "强化学习",
+      "模仿学习",
+      "机器人控制",
+      "机器人感知"
+    ],
+    "note": "机器人学习方向国际强会。",
+    "enabled": true
+  },
+  {
+    "slug": "ijcai",
+    "name": "IJCAI",
+    "website": "https://ijcai.org/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "General AI",
+    "ccf": "B",
+    "nodi_score": 8.0,
+    "accepted_topics": [
+      "综合 AI",
+      "搜索",
+      "规划",
+      "知识表示",
+      "多智能体",
+      "机器学习"
+    ],
+    "note": "老牌综合 AI 会议，认可但低于 AAAI。",
+    "enabled": true
+  },
+  {
+    "slug": "iros",
+    "name": "IROS",
+    "website": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Robotics",
+    "ccf": "C",
+    "nodi_score": 7.8,
+    "accepted_topics": [
+      "机器人",
+      "机器人系统",
+      "控制",
+      "感知",
+      "运动规划",
+      "人机交互"
+    ],
+    "note": "机器人方向重要主会。",
+    "enabled": true
+  },
+  {
+    "slug": "aamas",
+    "name": "AAMAS",
+    "website": "https://aamas.org/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Multi-Agent Systems",
+    "ccf": "B",
+    "nodi_score": 7.8,
+    "accepted_topics": [
+      "多智能体",
+      "博弈",
+      "机制设计",
+      "协作学习",
+      "智能体系统"
+    ],
+    "note": "多智能体方向核心会议。",
+    "enabled": true
+  },
+  {
+    "slug": "kr",
+    "name": "KR",
+    "website": "https://kr.org/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Knowledge Representation",
+    "ccf": "B",
+    "nodi_score": 7.5,
+    "accepted_topics": [
+      "知识表示",
+      "逻辑推理",
+      "本体",
+      "符号 AI",
+      "规划"
+    ],
+    "note": "知识表示方向核心会议。",
+    "enabled": true
+  },
+  {
+    "slug": "icaps",
+    "name": "ICAPS",
+    "website": "https://www.icaps-conference.org/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Planning / Scheduling",
+    "ccf": "B",
+    "nodi_score": 7.5,
+    "accepted_topics": [
+      "规划",
+      "调度",
+      "自动规划",
+      "决策",
+      "搜索算法"
+    ],
+    "note": "规划调度方向核心会议。",
+    "enabled": true
+  },
+  {
+    "slug": "pldi",
+    "name": "PLDI",
+    "website": "https://pldi.org/",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Programming Languages / Compilers",
+    "ccf": "A",
+    "nodi_score": 9.6,
+    "accepted_topics": [
+      "程序语言",
+      "编译器",
+      "程序优化",
+      "运行时系统",
+      "程序分析",
+      "系统安全交叉"
+    ],
+    "note": "PL 与编译器旗舰，系统、安全、编译交叉价值高。",
+    "enabled": true
+  },
+  {
+    "slug": "popl",
+    "name": "POPL",
+    "website": "https://popl.mpi-sws.org/",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Programming Languages Theory",
+    "ccf": "A",
+    "nodi_score": 9.6,
+    "accepted_topics": [
+      "程序语言理论",
+      "类型系统",
+      "语义",
+      "验证",
+      "逻辑",
+      "形式化方法"
+    ],
+    "note": "PL 理论旗舰。",
+    "enabled": true
+  },
+  {
+    "slug": "oopsla",
+    "name": "OOPSLA",
+    "website": "https://www.sigplan.org/Conferences/OOPSLA/",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Programming Languages / Software Systems",
+    "ccf": "A",
+    "nodi_score": 9.3,
+    "accepted_topics": [
+      "程序语言",
+      "软件系统",
+      "语言实现",
+      "运行时",
+      "程序分析"
+    ],
+    "note": "PL 和软件系统强会。",
+    "enabled": true
+  },
+  {
+    "slug": "icse",
+    "name": "ICSE",
+    "website": "https://www.icse-conferences.org/",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Software Engineering",
+    "ccf": "A",
+    "nodi_score": 9.3,
+    "accepted_topics": [
+      "软件工程",
+      "软件测试",
+      "程序分析",
+      "代码智能",
+      "软件安全",
+      "软件维护"
+    ],
+    "note": "软件工程顶会。",
+    "enabled": true
+  },
+  {
+    "slug": "fse",
+    "name": "FSE",
+    "website": "https://conf.researchr.org/series/fse",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Software Engineering",
+    "ccf": "A",
+    "nodi_score": 9.2,
+    "accepted_topics": [
+      "软件工程",
+      "软件测试",
+      "程序分析",
+      "软件安全",
+      "代码智能",
+      "软件维护"
+    ],
+    "note": "软件工程顶会。",
+    "enabled": true
+  },
+  {
+    "slug": "fm",
+    "name": "FM",
+    "website": "https://formalmethods.github.io/",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Formal Methods",
+    "ccf": "A",
+    "nodi_score": 8.9,
+    "accepted_topics": [
+      "形式化方法",
+      "模型检查",
+      "程序验证",
+      "系统验证",
+      "安全验证"
+    ],
+    "note": "形式化方法顶级主会，与安全和验证方向相关。",
+    "enabled": true
+  },
+  {
+    "slug": "ase",
+    "name": "ASE",
+    "website": "https://conf.researchr.org/series/ase",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Automated Software Engineering",
+    "ccf": "A",
+    "nodi_score": 8.8,
+    "accepted_topics": [
+      "自动化软件工程",
+      "程序分析",
+      "软件测试",
+      "代码生成",
+      "软件维护"
+    ],
+    "note": "自动化软件工程强顶会。",
+    "enabled": true
+  },
+  {
+    "slug": "issta",
+    "name": "ISSTA",
+    "website": "https://conf.researchr.org/series/issta",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Software Testing / Analysis",
+    "ccf": "A",
+    "nodi_score": 8.8,
+    "accepted_topics": [
+      "软件测试",
+      "程序分析",
+      "动态分析",
+      "模糊测试",
+      "软件安全测试"
+    ],
+    "note": "软件测试与分析顶会。",
+    "enabled": true
+  },
+  {
+    "slug": "vmcai",
+    "name": "VMCAI",
+    "website": "https://www.etaps.org/",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Verification / Static Analysis",
+    "ccf": "B",
+    "nodi_score": 8.6,
+    "accepted_topics": [
+      "验证",
+      "抽象解释",
+      "静态分析",
+      "模型检查",
+      "程序逻辑"
+    ],
+    "note": "验证与抽象解释方向强会。",
+    "enabled": true
+  },
+  {
+    "slug": "sas",
+    "name": "SAS",
+    "website": "https://staticanalysis.org/",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Static Analysis",
+    "ccf": "B",
+    "nodi_score": 8.5,
+    "accepted_topics": [
+      "静态分析",
+      "抽象解释",
+      "程序验证",
+      "安全分析",
+      "程序语义"
+    ],
+    "note": "静态分析方向强会，安全分析相关性高。",
+    "enabled": true
+  },
+  {
+    "slug": "icfp",
+    "name": "ICFP",
+    "website": "https://icfpconference.org/",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Functional Programming",
+    "ccf": "B",
+    "nodi_score": 8.4,
+    "accepted_topics": [
+      "函数式编程",
+      "类型系统",
+      "程序语言",
+      "语言实现",
+      "程序验证"
+    ],
+    "note": "函数式编程核心会议。",
+    "enabled": true
+  },
+  {
+    "slug": "ecoop",
+    "name": "ECOOP",
+    "website": "https://www.ecoop.org/",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Programming Languages",
+    "ccf": "B",
+    "nodi_score": 8.3,
+    "accepted_topics": [
+      "程序语言",
+      "面向对象语言",
+      "类型系统",
+      "语言实现",
+      "程序分析"
+    ],
+    "note": "PL 老牌强会。",
+    "enabled": true
+  },
+  {
+    "slug": "middleware",
+    "name": "Middleware",
+    "website": "https://middleware-conf.github.io/",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Middleware / Distributed Systems",
+    "ccf": "B",
+    "nodi_score": 8.3,
+    "accepted_topics": [
+      "中间件",
+      "分布式系统",
+      "云系统",
+      "系统软件",
+      "服务计算"
+    ],
+    "note": "中间件和分布式系统方向强会。",
+    "enabled": true
+  },
+  {
+    "slug": "issre",
+    "name": "ISSRE",
+    "website": "https://issre.github.io/",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Software Reliability",
+    "ccf": "B",
+    "nodi_score": 7.5,
+    "accepted_topics": [
+      "软件可靠性",
+      "软件测试",
+      "缺陷预测",
+      "软件质量",
+      "可靠性工程"
+    ],
+    "note": "软件可靠性方向认可。",
+    "enabled": true
+  },
+  {
+    "slug": "msr",
+    "name": "MSR",
+    "website": "https://conf.researchr.org/series/msr",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Mining Software Repositories",
+    "ccf": "C",
+    "nodi_score": 7.4,
+    "accepted_topics": [
+      "软件仓库挖掘",
+      "开源生态",
+      "软件演化",
+      "代码分析",
+      "开发者行为"
+    ],
+    "note": "软件仓库挖掘方向强会。",
+    "enabled": true
+  },
+  {
+    "slug": "icsme",
+    "name": "ICSME",
+    "website": "https://conf.researchr.org/series/icsme",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Software Maintenance / Evolution",
+    "ccf": "B",
+    "nodi_score": 7.3,
+    "accepted_topics": [
+      "软件维护",
+      "软件演化",
+      "重构",
+      "代码理解",
+      "软件质量"
+    ],
+    "note": "软件维护演化方向认可。",
+    "enabled": true
+  },
+  {
+    "slug": "saner",
+    "name": "SANER",
+    "website": "https://conf.researchr.org/series/saner",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Software Analysis / Evolution",
+    "ccf": "B",
+    "nodi_score": 7.3,
+    "accepted_topics": [
+      "软件分析",
+      "软件演化",
+      "程序理解",
+      "代码质量",
+      "维护"
+    ],
+    "note": "软件分析与演化方向认可。",
+    "enabled": true
+  },
+  {
+    "slug": "re",
+    "name": "RE",
+    "website": "https://conf.researchr.org/series/RE",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Requirements Engineering",
+    "ccf": "B",
+    "nodi_score": 7.2,
+    "accepted_topics": [
+      "需求工程",
+      "需求建模",
+      "需求分析",
+      "软件工程管理"
+    ],
+    "note": "需求工程方向核心会议。",
+    "enabled": true
+  },
+  {
+    "slug": "icpc",
+    "name": "ICPC",
+    "website": "https://conf.researchr.org/series/icpc",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Program Comprehension",
+    "ccf": "B",
+    "nodi_score": 7.2,
+    "accepted_topics": [
+      "程序理解",
+      "代码摘要",
+      "代码搜索",
+      "代码智能",
+      "软件维护"
+    ],
+    "note": "程序理解方向会议。",
+    "enabled": true
+  },
+  {
+    "slug": "icst",
+    "name": "ICST",
+    "website": "https://conf.researchr.org/series/icst",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Software Testing",
+    "ccf": "C",
+    "nodi_score": 6.9,
+    "accepted_topics": [
+      "软件测试",
+      "测试生成",
+      "测试自动化",
+      "质量保障"
+    ],
+    "note": "软件测试方向会议，不等同 ISSTA。",
+    "enabled": true
+  },
+  {
+    "slug": "sigmod",
+    "name": "SIGMOD",
+    "website": "https://sigmod.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Database Systems",
+    "ccf": "A",
+    "nodi_score": 9.5,
+    "accepted_topics": [
+      "数据库系统",
+      "查询处理",
+      "事务",
+      "数据管理",
+      "数据系统",
+      "数据湖"
+    ],
+    "note": "数据库系统旗舰。",
+    "enabled": true
+  },
+  {
+    "slug": "vldb",
+    "name": "VLDB",
+    "website": "https://vldb.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Database Systems",
+    "ccf": "A",
+    "nodi_score": 9.5,
+    "accepted_topics": [
+      "数据库系统",
+      "数据管理",
+      "查询优化",
+      "事务",
+      "分布式数据库"
+    ],
+    "note": "数据库系统旗舰。",
+    "enabled": true
+  },
+  {
+    "slug": "kdd",
+    "name": "KDD",
+    "website": "https://kdd.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Data Mining / Applied ML",
+    "ccf": "A",
+    "nodi_score": 9.2,
+    "accepted_topics": [
+      "数据挖掘",
+      "应用机器学习",
+      "推荐系统",
+      "图挖掘",
+      "数据科学",
+      "数据驱动安全"
+    ],
+    "note": "数据挖掘强会，应用与数据科学影响广。",
+    "enabled": true
+  },
+  {
+    "slug": "sigir",
+    "name": "SIGIR",
+    "website": "https://sigir.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Information Retrieval",
+    "ccf": "A",
+    "nodi_score": 9.1,
+    "accepted_topics": [
+      "信息检索",
+      "搜索",
+      "推荐",
+      "排序",
+      "问答",
+      "用户行为建模"
+    ],
+    "note": "信息检索顶会。",
+    "enabled": true
+  },
+  {
+    "slug": "icde",
+    "name": "ICDE",
+    "website": "https://ieee-icde.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Data Engineering",
+    "ccf": "A",
+    "nodi_score": 9.0,
+    "accepted_topics": [
+      "数据工程",
+      "数据库系统",
+      "数据管理",
+      "流数据",
+      "数据集成"
+    ],
+    "note": "数据工程强会，系统与数据管理认可度高。",
+    "enabled": true
+  },
+  {
+    "slug": "www",
+    "name": "WWW",
+    "website": "https://www.thewebconf.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Web / Search / Social / Recsys",
+    "ccf": "A",
+    "nodi_score": 8.8,
+    "accepted_topics": [
+      "Web",
+      "搜索",
+      "社交网络",
+      "推荐系统",
+      "Web 安全",
+      "Web 数据挖掘"
+    ],
+    "note": "Web 强会，需看主会论文类型和贡献深度。",
+    "enabled": true
+  },
+  {
+    "slug": "pods",
+    "name": "PODS",
+    "website": "https://sigmod.org/pods-home/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Database Theory",
+    "ccf": "B",
+    "nodi_score": 8.7,
+    "accepted_topics": [
+      "数据库理论",
+      "查询语言",
+      "复杂性",
+      "数据逻辑",
+      "数据模型"
+    ],
+    "note": "数据库理论核心会议。",
+    "enabled": true
+  },
+  {
+    "slug": "cidr",
+    "name": "CIDR",
+    "website": "https://www.cidrdb.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Innovative Database Research",
+    "ccf": "B",
+    "nodi_score": 8.6,
+    "accepted_topics": [
+      "数据库创新系统",
+      "数据架构",
+      "查询处理",
+      "新型数据管理"
+    ],
+    "note": "数据库小而强的创新会议。",
+    "enabled": true
+  },
+  {
+    "slug": "wsdm",
+    "name": "WSDM",
+    "website": "https://www.wsdm-conference.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Web Search / Data Mining",
+    "ccf": "B",
+    "nodi_score": 8.3,
+    "accepted_topics": [
+      "Web 搜索",
+      "数据挖掘",
+      "推荐系统",
+      "用户建模",
+      "社交网络"
+    ],
+    "note": "Web search 与 data mining 强会。",
+    "enabled": true
+  },
+  {
+    "slug": "recsys",
+    "name": "RecSys",
+    "website": "https://recsys.acm.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Recommender Systems",
+    "ccf": "B",
+    "nodi_score": 8.2,
+    "accepted_topics": [
+      "推荐系统",
+      "排序",
+      "用户建模",
+      "个性化",
+      "在线实验",
+      "推荐公平性"
+    ],
+    "note": "推荐系统方向核心会议。",
+    "enabled": true
+  },
+  {
+    "slug": "cikm",
+    "name": "CIKM",
+    "website": "https://cikm.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Information / Knowledge Management",
+    "ccf": "B",
+    "nodi_score": 8.1,
+    "accepted_topics": [
+      "信息检索",
+      "知识管理",
+      "数据挖掘",
+      "数据库",
+      "Web 数据"
+    ],
+    "note": "综合性强会。",
+    "enabled": true
+  },
+  {
+    "slug": "icdm",
+    "name": "ICDM",
+    "website": "https://www.ieee-icdm.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Data Mining",
+    "ccf": "B",
+    "nodi_score": 7.8,
+    "accepted_topics": [
+      "数据挖掘",
+      "图挖掘",
+      "异常检测",
+      "时序挖掘",
+      "应用机器学习"
+    ],
+    "note": "数据挖掘老牌会议。",
+    "enabled": true
+  },
+  {
+    "slug": "iswc",
+    "name": "ISWC",
+    "website": "https://iswc.semanticweb.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Semantic Web",
+    "ccf": "B",
+    "nodi_score": 7.7,
+    "accepted_topics": [
+      "语义网",
+      "知识图谱",
+      "本体",
+      "链接数据",
+      "知识推理"
+    ],
+    "note": "语义网方向核心会议，方向匹配时认可。",
+    "enabled": true
+  },
+  {
+    "slug": "sdm",
+    "name": "SDM",
+    "website": "https://www.siam.org/conferences-events/siam-conferences/sdm/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Data Mining",
+    "ccf": "B",
+    "nodi_score": 7.6,
+    "accepted_topics": [
+      "数据挖掘",
+      "算法数据科学",
+      "图挖掘",
+      "统计学习",
+      "应用数据科学"
+    ],
+    "note": "数据挖掘方向认可。",
+    "enabled": true
+  },
+  {
+    "slug": "edbt",
+    "name": "EDBT",
+    "website": "https://edbt.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Database Systems",
+    "ccf": "B",
+    "nodi_score": 7.5,
+    "accepted_topics": [
+      "数据库系统",
+      "数据管理",
+      "查询处理",
+      "分布式数据库"
+    ],
+    "note": "欧洲数据库方向会议。",
+    "enabled": true
+  },
+  {
+    "slug": "icdt",
+    "name": "ICDT",
+    "website": "https://icdt.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Database Theory",
+    "ccf": "B",
+    "nodi_score": 7.4,
+    "accepted_topics": [
+      "数据库理论",
+      "查询语言",
+      "数据逻辑",
+      "复杂性理论"
+    ],
+    "note": "数据库理论方向会议。",
+    "enabled": true
+  },
+  {
+    "slug": "ecir",
+    "name": "ECIR",
+    "website": "https://www.ecir.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Information Retrieval",
+    "ccf": "C",
+    "nodi_score": 7.3,
+    "accepted_topics": [
+      "信息检索",
+      "搜索",
+      "推荐",
+      "用户建模",
+      "交互式检索"
+    ],
+    "note": "欧洲 IR 强会。",
+    "enabled": true
+  },
+  {
+    "slug": "sigspatial",
+    "name": "SIGSPATIAL",
+    "website": "https://sigspatial.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Spatial Data",
+    "ccf": "C",
+    "nodi_score": 7.2,
+    "accepted_topics": [
+      "空间数据",
+      "地理信息系统",
+      "空间索引",
+      "移动轨迹",
+      "位置服务"
+    ],
+    "note": "空间数据方向强会，限方向认可。",
+    "enabled": true
+  },
+  {
+    "slug": "chiir",
+    "name": "CHIIR",
+    "website": "https://sigir.org/chiir/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Interactive IR",
+    "ccf": "非 CCF",
+    "nodi_score": 7.1,
+    "accepted_topics": [
+      "交互式信息检索",
+      "用户搜索行为",
+      "搜索界面",
+      "HCI 与 IR 交叉"
+    ],
+    "note": "交互式信息检索方向会议。",
+    "enabled": true
+  },
+  {
+    "slug": "stoc",
+    "name": "STOC",
+    "website": "https://acm-stoc.org/",
+    "category": "理论计算机科学",
+    "direction": "Theory",
+    "ccf": "A",
+    "nodi_score": 9.8,
+    "accepted_topics": [
+      "理论计算机科学",
+      "算法",
+      "复杂性",
+      "组合",
+      "图论",
+      "学习理论"
+    ],
+    "note": "理论计算机科学旗舰。",
+    "enabled": true
+  },
+  {
+    "slug": "focs",
+    "name": "FOCS",
+    "website": "https://focs.computer.org/",
+    "category": "理论计算机科学",
+    "direction": "Theory",
+    "ccf": "A",
+    "nodi_score": 9.8,
+    "accepted_topics": [
+      "理论计算机科学",
+      "算法",
+      "复杂性",
+      "随机化",
+      "优化",
+      "学习理论"
+    ],
+    "note": "理论计算机科学旗舰。",
+    "enabled": true
+  },
+  {
+    "slug": "soda",
+    "name": "SODA",
+    "website": "https://www.siam.org/conferences-events/siam-conferences/soda/",
+    "category": "理论计算机科学",
+    "direction": "Algorithms",
+    "ccf": "A",
+    "nodi_score": 9.6,
+    "accepted_topics": [
+      "算法",
+      "数据结构",
+      "优化",
+      "随机算法",
+      "图算法",
+      "近似算法"
+    ],
+    "note": "算法顶会。",
+    "enabled": true
+  },
+  {
+    "slug": "cav",
+    "name": "CAV",
+    "website": "https://i-cav.org/",
+    "category": "理论计算机科学",
+    "direction": "Computer-Aided Verification",
+    "ccf": "A",
+    "nodi_score": 9.5,
+    "accepted_topics": [
+      "模型检查",
+      "形式化验证",
+      "程序验证",
+      "系统验证",
+      "硬件验证",
+      "安全验证"
+    ],
+    "note": "计算机辅助验证顶会，与系统安全和形式化验证相关。",
+    "enabled": true
+  },
+  {
+    "slug": "lics",
+    "name": "LICS",
+    "website": "https://lics.siglog.org/",
+    "category": "理论计算机科学",
+    "direction": "Logic in CS",
+    "ccf": "A",
+    "nodi_score": 9.1,
+    "accepted_topics": [
+      "逻辑",
+      "类型理论",
+      "程序语义",
+      "证明理论",
+      "自动机",
+      "形式方法"
+    ],
+    "note": "逻辑与理论计算机科学强会。",
+    "enabled": true
+  },
+  {
+    "slug": "ccc",
+    "name": "CCC",
+    "website": "https://computationalcomplexity.org/",
+    "category": "理论计算机科学",
+    "direction": "Computational Complexity",
+    "ccf": "B",
+    "nodi_score": 8.7,
+    "accepted_topics": [
+      "计算复杂性",
+      "复杂性理论",
+      "布尔函数",
+      "证明复杂性"
+    ],
+    "note": "计算复杂性核心会议。",
+    "enabled": true
+  },
+  {
+    "slug": "itcs",
+    "name": "ITCS",
+    "website": "https://itcs-conf.org/",
+    "category": "理论计算机科学",
+    "direction": "Innovations in Theoretical CS",
+    "ccf": "非 CCF",
+    "nodi_score": 8.5,
+    "accepted_topics": [
+      "理论计算机科学",
+      "算法",
+      "复杂性",
+      "博弈",
+      "学习理论",
+      "经济计算"
+    ],
+    "note": "理论方向强会。",
+    "enabled": true
+  },
+  {
+    "slug": "socg",
+    "name": "SoCG",
+    "website": "https://www.computational-geometry.org/",
+    "category": "理论计算机科学",
+    "direction": "Computational Geometry",
+    "ccf": "B",
+    "nodi_score": 8.4,
+    "accepted_topics": [
+      "计算几何",
+      "几何算法",
+      "拓扑算法",
+      "空间数据结构"
+    ],
+    "note": "计算几何核心会议。",
+    "enabled": true
+  },
+  {
+    "slug": "esa",
+    "name": "ESA",
+    "website": "https://algo-conference.org/",
+    "category": "理论计算机科学",
+    "direction": "Algorithms",
+    "ccf": "B",
+    "nodi_score": 8.3,
+    "accepted_topics": [
+      "算法",
+      "数据结构",
+      "图算法",
+      "近似算法",
+      "随机算法"
+    ],
+    "note": "欧洲算法强会。",
+    "enabled": true
+  },
+  {
+    "slug": "icalp",
+    "name": "ICALP",
+    "website": "https://eatcs.org/index.php/icalp",
+    "category": "理论计算机科学",
+    "direction": "Theory / Algorithms / Automata",
+    "ccf": "B",
+    "nodi_score": 8.3,
+    "accepted_topics": [
+      "理论计算机科学",
+      "算法",
+      "自动机",
+      "复杂性",
+      "逻辑"
+    ],
+    "note": "欧洲理论计算机科学强会。",
+    "enabled": true
+  },
+  {
+    "slug": "fmcad",
+    "name": "FMCAD",
+    "website": "https://fmcad.org/",
+    "category": "理论计算机科学",
+    "direction": "Formal Methods in CAD",
+    "ccf": "B",
+    "nodi_score": 8.1,
+    "accepted_topics": [
+      "硬件验证",
+      "形式化方法",
+      "模型检查",
+      "系统验证",
+      "CAD 验证"
+    ],
+    "note": "形式化硬件和系统验证方向认可。",
+    "enabled": true
+  },
+  {
+    "slug": "sat",
+    "name": "SAT",
+    "website": "https://satisfiability.org/SAT/",
+    "category": "理论计算机科学",
+    "direction": "Satisfiability",
+    "ccf": "B",
+    "nodi_score": 7.9,
+    "accepted_topics": [
+      "SAT",
+      "约束求解",
+      "SMT",
+      "组合搜索",
+      "求解器工程"
+    ],
+    "note": "SAT 方向核心会议。",
+    "enabled": true
+  },
+  {
+    "slug": "concur",
+    "name": "CONCUR",
+    "website": "https://concur-conference.org/",
+    "category": "理论计算机科学",
+    "direction": "Concurrency Theory",
+    "ccf": "B",
+    "nodi_score": 7.8,
+    "accepted_topics": [
+      "并发理论",
+      "进程代数",
+      "模型检查",
+      "并发系统",
+      "形式语义"
+    ],
+    "note": "并发理论方向会议。",
+    "enabled": true
+  },
+  {
+    "slug": "hscc",
+    "name": "HSCC",
+    "website": "https://hscc.acm.org/",
+    "category": "理论计算机科学",
+    "direction": "Hybrid Systems",
+    "ccf": "B",
+    "nodi_score": 7.7,
+    "accepted_topics": [
+      "混合系统",
+      "控制",
+      "CPS",
+      "形式化验证",
+      "实时系统"
+    ],
+    "note": "混合系统方向会议。",
+    "enabled": true
+  },
+  {
+    "slug": "siggraph",
+    "name": "SIGGRAPH",
+    "website": "https://www.siggraph.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Computer Graphics",
+    "ccf": "A",
+    "nodi_score": 9.4,
+    "accepted_topics": [
+      "计算机图形学",
+      "渲染",
+      "动画",
+      "几何处理",
+      "视觉计算",
+      "交互图形"
+    ],
+    "note": "图形学旗舰。",
+    "enabled": true
+  },
+  {
+    "slug": "chi",
+    "name": "CHI",
+    "website": "https://chi.acm.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Human-Computer Interaction",
+    "ccf": "A",
+    "nodi_score": 9.2,
+    "accepted_topics": [
+      "人机交互",
+      "用户研究",
+      "交互系统",
+      "可用性",
+      "社会计算",
+      "AI 交互"
+    ],
+    "note": "HCI 顶会。",
+    "enabled": true
+  },
+  {
+    "slug": "acm-mm",
+    "name": "ACM MM",
+    "website": "https://acmmm.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Multimedia",
+    "ccf": "A",
+    "nodi_score": 8.8,
+    "accepted_topics": [
+      "多媒体",
+      "视频理解",
+      "音频分析",
+      "多模态学习",
+      "检索",
+      "生成媒体"
+    ],
+    "note": "多媒体顶会，需看贡献深度和主会类型。",
+    "enabled": true
+  },
+  {
+    "slug": "uist",
+    "name": "UIST",
+    "website": "https://uist.acm.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "User Interface Software",
+    "ccf": "A",
+    "nodi_score": 8.7,
+    "accepted_topics": [
+      "用户界面",
+      "交互技术",
+      "输入设备",
+      "交互系统",
+      "HCI 工具"
+    ],
+    "note": "交互技术顶会。",
+    "enabled": true
+  },
+  {
+    "slug": "vis",
+    "name": "IEEE VIS",
+    "website": "https://ieeevis.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Visualization",
+    "ccf": "A",
+    "nodi_score": 8.7,
+    "accepted_topics": [
+      "可视化",
+      "视觉分析",
+      "信息可视化",
+      "科学可视化",
+      "数据分析"
+    ],
+    "note": "可视化顶会。",
+    "enabled": true
+  },
+  {
+    "slug": "cscw",
+    "name": "CSCW",
+    "website": "https://cscw.acm.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Collaborative / Social Computing",
+    "ccf": "A",
+    "nodi_score": 8.6,
+    "accepted_topics": [
+      "协同计算",
+      "社会计算",
+      "在线社区",
+      "人机协作",
+      "群体智能"
+    ],
+    "note": "协同计算与社会计算顶会。",
+    "enabled": true
+  },
+  {
+    "slug": "ubicomp",
+    "name": "UbiComp",
+    "website": "https://ubicomp.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Ubiquitous Computing",
+    "ccf": "A",
+    "nodi_score": 8.5,
+    "accepted_topics": [
+      "普适计算",
+      "移动感知",
+      "IoT",
+      "可穿戴",
+      "智能环境",
+      "人机交互"
+    ],
+    "note": "普适计算强会。",
+    "enabled": true
+  },
+  {
+    "slug": "vr",
+    "name": "IEEE VR",
+    "website": "https://ieeevr.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Virtual Reality",
+    "ccf": "A",
+    "nodi_score": 8.3,
+    "accepted_topics": [
+      "虚拟现实",
+      "增强现实",
+      "沉浸式交互",
+      "三维交互",
+      "VR 系统"
+    ],
+    "note": "VR 方向顶级主会。",
+    "enabled": true
+  },
+  {
+    "slug": "eurographics",
+    "name": "Eurographics",
+    "website": "https://www.eg.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Computer Graphics",
+    "ccf": "B",
+    "nodi_score": 8.2,
+    "accepted_topics": [
+      "计算机图形学",
+      "渲染",
+      "动画",
+      "几何处理",
+      "图形系统"
+    ],
+    "note": "图形学欧洲强会。",
+    "enabled": true
+  },
+  {
+    "slug": "eurovis",
+    "name": "EuroVis",
+    "website": "https://www.eurovis.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Visualization",
+    "ccf": "B",
+    "nodi_score": 8.2,
+    "accepted_topics": [
+      "可视化",
+      "视觉分析",
+      "信息可视化",
+      "科学可视化"
+    ],
+    "note": "可视化欧洲强会。",
+    "enabled": true
+  },
+  {
+    "slug": "miccai",
+    "name": "MICCAI",
+    "website": "https://conferences.miccai.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Medical Imaging",
+    "ccf": "B",
+    "nodi_score": 8.1,
+    "accepted_topics": [
+      "医学图像",
+      "医学影像分析",
+      "图像分割",
+      "医学 AI",
+      "计算机辅助诊断"
+    ],
+    "note": "医学图像顶级方向会，限方向认可。",
+    "enabled": true
+  },
+  {
+    "slug": "ismb",
+    "name": "ISMB",
+    "website": "https://www.iscb.org/ismb",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Computational Biology",
+    "ccf": "B",
+    "nodi_score": 8.0,
+    "accepted_topics": [
+      "计算生物学",
+      "生物信息学",
+      "组学分析",
+      "蛋白质",
+      "系统生物学"
+    ],
+    "note": "计算生物方向强会，限方向认可。",
+    "enabled": true
+  },
+  {
+    "slug": "recomb",
+    "name": "RECOMB",
+    "website": "https://recomb.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Computational Biology",
+    "ccf": "B",
+    "nodi_score": 8.0,
+    "accepted_topics": [
+      "计算分子生物学",
+      "算法生物学",
+      "组学",
+      "蛋白质",
+      "生物网络"
+    ],
+    "note": "计算分子生物学强会。",
+    "enabled": true
+  },
+  {
+    "slug": "ismar",
+    "name": "ISMAR",
+    "website": "https://ismar.net/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "AR / MR",
+    "ccf": "B",
+    "nodi_score": 7.8,
+    "accepted_topics": [
+      "增强现实",
+      "混合现实",
+      "XR 系统",
+      "三维交互",
+      "感知与显示"
+    ],
+    "note": "AR/MR 方向强会。",
+    "enabled": true
+  },
+  {
+    "slug": "sgp",
+    "name": "SGP",
+    "website": "https://sgp2026.github.io/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Geometry Processing",
+    "ccf": "B",
+    "nodi_score": 7.6,
+    "accepted_topics": [
+      "几何处理",
+      "网格处理",
+      "形状分析",
+      "几何学习",
+      "三维建模"
+    ],
+    "note": "图形学子方向强会。",
+    "enabled": true
+  },
+  {
+    "slug": "egsr",
+    "name": "EGSR",
+    "website": "https://www.egsr-conference.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Rendering",
+    "ccf": "B",
+    "nodi_score": 7.6,
+    "accepted_topics": [
+      "渲染",
+      "光照模拟",
+      "图形算法",
+      "实时渲染",
+      "物理渲染"
+    ],
+    "note": "渲染方向强会。",
+    "enabled": true
+  },
+  {
+    "slug": "sca",
+    "name": "SCA",
+    "website": "https://www.siggraph.org/learn/conferences/symposium-on-computer-animation/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Animation",
+    "ccf": "B",
+    "nodi_score": 7.4,
+    "accepted_topics": [
+      "计算机动画",
+      "物理仿真",
+      "角色动画",
+      "运动合成",
+      "图形系统"
+    ],
+    "note": "计算机动画方向会议。",
+    "enabled": true
+  },
+  {
+    "slug": "dis",
+    "name": "DIS",
+    "website": "https://dis.acm.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "HCI Design",
+    "ccf": "C",
+    "nodi_score": 7.4,
+    "accepted_topics": [
+      "交互设计",
+      "HCI",
+      "设计研究",
+      "用户体验",
+      "交互系统"
+    ],
+    "note": "HCI 设计方向强会。",
+    "enabled": true
+  },
+  {
+    "slug": "vrst",
+    "name": "VRST",
+    "website": "https://vrst.acm.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "VR Systems",
+    "ccf": "C",
+    "nodi_score": 7.3,
+    "accepted_topics": [
+      "VR 系统",
+      "AR/VR",
+      "沉浸式交互",
+      "三维用户界面",
+      "虚拟环境"
+    ],
+    "note": "VR 系统方向强会。",
+    "enabled": true
+  }
+]

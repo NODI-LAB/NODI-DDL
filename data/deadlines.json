@@ -1,0 +1,3754 @@
+[
+  {
+    "slug": "ieee-sp",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.ieee-security.org/TC/SP-Index.html",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "usenix-security",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.usenix.org/conferences/byname/108",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "ccs",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.sigsac.org/ccs.html",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "ndss",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.ndss-symposium.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "crypto",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://crypto.iacr.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "eurocrypt",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://eurocrypt.iacr.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "asiacrypt",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://asiacrypt.iacr.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "ches",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://ches.iacr.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "tcc",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://tcc.iacr.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "pkc",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://pkc.iacr.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "csf",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.ieee-security.org/TC/CSF/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "pets",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://petsymposium.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "eurosp",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.ieee-security.org/TC/EuroSP/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "raid",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://raid-symposium.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "esorics",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://esorics.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "acsac",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.acsac.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "dsn",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://dsn.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "soups",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.usenix.org/conferences/byname/925",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "dimva",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://dimva.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "fc",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://fc.ifca.ai/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "asiaccs",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://asiaccs.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "sosp",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://sigops.org/s/conferences/sosp/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "osdi",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.usenix.org/conferences/byname/179",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "sigcomm",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://conferences.sigcomm.org/sigcomm/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "nsdi",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.usenix.org/conferences/byname/135",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "isca",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://iscaconf.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "micro",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://microarch.org/micro/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "asplos",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.asplos-conference.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "hpca",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://hpca-conf.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "fast",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.usenix.org/conferences/byname/63",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "sc",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://supercomputing.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "mobicom",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.sigmobile.org/mobicom/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "eurosys",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.eurosys.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "atc",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.usenix.org/conferences/byname/131",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "imc",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://conferences.sigcomm.org/imc/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "conext",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://conferences.sigcomm.org/co-next/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "ppopp",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://ppopp.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "mobisys",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.sigmobile.org/mobisys/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "infocom",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://ieee-infocom.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "sigmetrics",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.sigmetrics.org/sigmetrics/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "rtss",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://rtss.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "neurips",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://neurips.cc/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "icml",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://icml.cc/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "iclr",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://iclr.cc/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "cvpr",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://cvpr.thecvf.com/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "acl",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.aclweb.org/portal/acl",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "iccv",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://iccv.thecvf.com/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "colt",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://learningtheory.org/colt/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "eccv",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://eccv.ecva.net/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "emnlp",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.aclweb.org/portal/emnlp",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "aaai",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://aaai.org/Conferences/AAAI/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "icra",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "uai",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.auai.org/uai/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "aistats",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://aistats.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "naacl",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.aclweb.org/portal/naacl",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "coling",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://coling.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "corl",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.corl.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "ijcai",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://ijcai.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "iros",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "aamas",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://aamas.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "kr",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://kr.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "icaps",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.icaps-conference.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "pldi",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://pldi.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "popl",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://popl.mpi-sws.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "oopsla",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.sigplan.org/Conferences/OOPSLA/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "icse",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.icse-conferences.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "fse",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://conf.researchr.org/series/fse",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "fm",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://formalmethods.github.io/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "ase",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://conf.researchr.org/series/ase",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "issta",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://conf.researchr.org/series/issta",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "vmcai",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.etaps.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "sas",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://staticanalysis.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "icfp",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://icfpconference.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "ecoop",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.ecoop.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "middleware",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://middleware-conf.github.io/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "issre",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://issre.github.io/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "msr",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://conf.researchr.org/series/msr",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "icsme",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://conf.researchr.org/series/icsme",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "saner",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://conf.researchr.org/series/saner",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "re",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://conf.researchr.org/series/RE",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "icpc",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://conf.researchr.org/series/icpc",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "icst",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://conf.researchr.org/series/icst",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "sigmod",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://sigmod.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "vldb",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://vldb.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "kdd",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://kdd.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "sigir",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://sigir.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "icde",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://ieee-icde.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "www",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.thewebconf.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "pods",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://sigmod.org/pods-home/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "cidr",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.cidrdb.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "wsdm",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.wsdm-conference.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "recsys",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://recsys.acm.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "cikm",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://cikm.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "icdm",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.ieee-icdm.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "iswc",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://iswc.semanticweb.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "sdm",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.siam.org/conferences-events/siam-conferences/sdm/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "edbt",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://edbt.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "icdt",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://icdt.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "ecir",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.ecir.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "sigspatial",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://sigspatial.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "chiir",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://sigir.org/chiir/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "stoc",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://acm-stoc.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "focs",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://focs.computer.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "soda",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.siam.org/conferences-events/siam-conferences/soda/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "cav",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://i-cav.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "lics",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://lics.siglog.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "ccc",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://computationalcomplexity.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "itcs",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://itcs-conf.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "socg",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.computational-geometry.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "esa",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://algo-conference.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "icalp",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://eatcs.org/index.php/icalp",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "fmcad",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://fmcad.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "sat",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://satisfiability.org/SAT/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "concur",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://concur-conference.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "hscc",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://hscc.acm.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "siggraph",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.siggraph.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "chi",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://chi.acm.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "acm-mm",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://acmmm.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "uist",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://uist.acm.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "vis",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://ieeevis.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "cscw",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://cscw.acm.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "ubicomp",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://ubicomp.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "vr",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://ieeevr.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "eurographics",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.eg.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "eurovis",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.eurovis.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "miccai",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://conferences.miccai.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "ismb",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.iscb.org/ismb",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "recomb",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://recomb.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "ismar",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://ismar.net/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "sgp",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://sgp2026.github.io/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "egsr",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.egsr-conference.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "sca",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://www.siggraph.org/learn/conferences/symposium-on-computer-animation/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "dis",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://dis.acm.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  },
+  {
+    "slug": "vrst",
+    "year": null,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "TBD",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "TBD",
+    "source_url": "https://vrst.acm.org/",
+    "last_checked_at": null,
+    "last_updated_at": null,
+    "confidence": null,
+    "internal_status": "tbd",
+    "notes": ""
+  }
+]
