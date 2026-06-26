@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: ConferencePageProps): Promise
   const conference = getConferenceBySlug(slug);
 
   return {
-    title: conference ? `${conference.name} | NODIDDL` : "Conference | NODIDDL",
+    title: conference ? conference.name : "Conference",
     description: conference?.note ?? "NODI conference detail"
   };
 }

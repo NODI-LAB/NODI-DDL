@@ -1,6 +1,6 @@
-# NODIDDL
+# NODI Conference Deadlines
 
-NODIDDL is the NODI Lab conference deadline dashboard. It tracks lab-recognized conferences with CCF ratings, NODI scores, suitable submission areas, conference dates, abstract deadlines, paper deadlines, countdowns, and locations.
+NODI Conference Deadlines is the NODI Lab conference deadline dashboard. It tracks lab-recognized conferences with CCF ratings, NODI scores, suitable submission areas, conference dates, abstract deadlines, paper deadlines, countdowns, and locations.
 
 This is not a general-purpose conference DDL list. The NODI score is an internal planning signal that combines CCF rating, international reputation, flagship status in a field, fit with NODI research directions, representative-paper value, long-term development value, and domestic evaluation context.
 

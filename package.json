@@ -2,7 +2,7 @@
   "name": "nodiddl",
   "version": "0.1.0",
   "private": true,
-  "description": "NODI Conference Deadline Dashboard",
+  "description": "NODI Conference Deadlines",
   "packageManager": "pnpm@11.7.0",
   "pnpm": {
     "ignoredBuiltDependencies": [

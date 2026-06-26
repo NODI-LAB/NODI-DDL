@@ -3,7 +3,7 @@ import Link from "next/link";
 import { BookOpen, Database, GitBranch, RefreshCcw } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "关于 | NODIDDL"
+  title: "关于"
 };
 
 const items = [
@@ -28,9 +28,9 @@ export default function AboutPage() {
   return (
     <div className="space-y-6">
       <section>
-        <h1 className="text-3xl font-semibold tracking-normal text-ink">关于 NODIDDL</h1>
+        <h1 className="text-3xl font-semibold tracking-normal text-ink">关于 NODI Conference Deadlines</h1>
         <p className="mt-3 max-w-4xl text-base leading-7 text-neutral-700">
-          NODIDDL 是 NODI 实验室内部的会议投稿规划工具，用来集中查看认可会议、NODI 综合评分、
+          NODI Conference Deadlines 是 NODI 实验室内部的会议投稿规划工具，用来集中查看认可会议、NODI 综合评分、
           CCF 评级、适合投稿领域、会议日期、投稿 deadline、倒计时和地点。
         </p>
       </section>

@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { StandardPanel } from "@/components/StandardPanel";
 
 export const metadata: Metadata = {
-  title: "NODI 评分标准 | NODIDDL"
+  title: "NODI 评分标准"
 };
 
 export default function StandardsPage() {
