@@ -28,6 +28,22 @@ type ConferenceTableProps = {
 
 const columnHelper = createColumnHelper<MergedConference>();
 
+function CompactText({ value, strong = false }: { value: string | null | undefined; strong?: boolean }) {
+  const display = value || "TBD";
+
+  return (
+    <span
+      className={cn(
+        "block break-words text-sm leading-5 text-neutral-700",
+        strong && "font-medium text-neutral-800"
+      )}
+      title={display}
+    >
+      {display}
+    </span>
+  );
+}
+
 export function ConferenceTable({ conferences, categories }: ConferenceTableProps) {
   const [filters, setFilters] = useState<ConferenceFilters>({
     direction: "all",
@@ -46,7 +62,7 @@ export function ConferenceTable({ conferences, categories }: ConferenceTableProp
     columnHelper.accessor("name", {
       header: "会议名",
       cell: ({ row }) => (
-        <div className="min-w-44">
+        <div className="min-w-0">
           <div className="flex items-center gap-2">
             <a
               href={row.original.website}
@@ -72,8 +88,8 @@ export function ConferenceTable({ conferences, categories }: ConferenceTableProp
     columnHelper.accessor("direction", {
       header: "方向",
       cell: ({ getValue, row }) => (
-        <div className="min-w-40">
-          <p className="font-medium text-neutral-800">{getValue()}</p>
+        <div className="min-w-0">
+          <p className="break-words font-medium leading-6 text-neutral-800">{getValue()}</p>
           <p className="mt-1 text-xs text-neutral-500">{row.original.category}</p>
         </div>
       )
@@ -99,22 +115,22 @@ export function ConferenceTable({ conferences, categories }: ConferenceTableProp
     columnHelper.accessor("accepted_topics", {
       header: "适合投稿领域",
       cell: ({ getValue }) => (
-        <span className="block min-w-56 max-w-80 text-sm leading-6 text-neutral-700" title={getValue().join("、")}>
+        <span className="block break-words text-sm leading-6 text-neutral-700" title={getValue().join("、")}>
           {formatTopics(getValue(), 5)}
         </span>
       )
     }),
     columnHelper.accessor("conference_date.display", {
       header: "会议日期",
-      cell: ({ getValue }) => <span className="whitespace-nowrap text-sm text-neutral-700">{getValue() || "TBD"}</span>
+      cell: ({ getValue }) => <CompactText value={getValue()} />
     }),
     columnHelper.accessor("abstract_deadline.display", {
       header: "摘要截止",
-      cell: ({ getValue }) => <span className="whitespace-nowrap text-sm text-neutral-700">{getValue() || "TBD"}</span>
+      cell: ({ getValue }) => <CompactText value={getValue()} />
     }),
     columnHelper.accessor("paper_deadline.display", {
       header: "全文截止",
-      cell: ({ getValue }) => <span className="whitespace-nowrap text-sm font-medium text-neutral-800">{getValue() || "TBD"}</span>
+      cell: ({ getValue }) => <CompactText value={getValue()} strong />
     }),
     columnHelper.accessor("paper_deadline.datetime", {
       header: "倒计时",
@@ -122,7 +138,7 @@ export function ConferenceTable({ conferences, categories }: ConferenceTableProp
     }),
     columnHelper.accessor("location", {
       header: "地点",
-      cell: ({ getValue }) => <span className="whitespace-nowrap text-sm text-neutral-700">{getValue() || "TBD"}</span>
+      cell: ({ getValue }) => <CompactText value={getValue()} />
     })
   ], []);
 
@@ -151,14 +167,26 @@ export function ConferenceTable({ conferences, categories }: ConferenceTableProp
 
       <div className="overflow-hidden rounded-lg border border-line bg-white shadow-soft">
         <div className="overflow-x-auto">
-          <table className="min-w-[1180px] border-separate border-spacing-0 text-left">
+          <table className="w-full min-w-[1320px] table-fixed border-separate border-spacing-0 text-left">
+            <colgroup>
+              <col style={{ width: "145px" }} />
+              <col style={{ width: "150px" }} />
+              <col style={{ width: "80px" }} />
+              <col style={{ width: "80px" }} />
+              <col style={{ width: "215px" }} />
+              <col style={{ width: "135px" }} />
+              <col style={{ width: "125px" }} />
+              <col style={{ width: "125px" }} />
+              <col style={{ width: "105px" }} />
+              <col style={{ width: "160px" }} />
+            </colgroup>
             <thead className="bg-neutral-50">
               {table.getHeaderGroups().map((headerGroup) => (
                 <tr key={headerGroup.id}>
                   {headerGroup.headers.map((header) => (
                     <th
                       key={header.id}
-                      className="border-b border-line px-4 py-3 text-xs font-semibold uppercase tracking-normal text-neutral-500"
+                      className="border-b border-line px-3 py-3 text-xs font-semibold uppercase leading-4 tracking-normal text-neutral-500 first:pl-4 last:pr-4"
                     >
                       {header.isPlaceholder ? null : flexRender(header.column.columnDef.header, header.getContext())}
                     </th>
@@ -170,7 +198,7 @@ export function ConferenceTable({ conferences, categories }: ConferenceTableProp
               {table.getRowModel().rows.map((row) => (
                 <tr key={row.id} className="transition hover:bg-emerald-50/40">
                   {row.getVisibleCells().map((cell) => (
-                    <td key={cell.id} className="border-b border-line px-4 py-4 align-top">
+                    <td key={cell.id} className="border-b border-line px-3 py-4 align-top first:pl-4 last:pr-4">
                       {flexRender(cell.column.columnDef.cell, cell.getContext())}
                     </td>
                   ))}
