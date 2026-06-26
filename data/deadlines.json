@@ -1,3754 +1,3754 @@
 [
   {
-    "slug": "ieee-sp",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.ieee-security.org/TC/SP-Index.html",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "usenix-security",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.usenix.org/conferences/byname/108",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "ccs",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.sigsac.org/ccs.html",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "ndss",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.ndss-symposium.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "crypto",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://crypto.iacr.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "eurocrypt",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://eurocrypt.iacr.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "asiacrypt",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://asiacrypt.iacr.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "ches",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://ches.iacr.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "tcc",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://tcc.iacr.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "pkc",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://pkc.iacr.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "csf",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.ieee-security.org/TC/CSF/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "pets",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://petsymposium.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "eurosp",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.ieee-security.org/TC/EuroSP/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "raid",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://raid-symposium.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "esorics",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://esorics.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "acsac",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.acsac.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "dsn",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://dsn.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "soups",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.usenix.org/conferences/byname/925",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "dimva",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://dimva.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "fc",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://fc.ifca.ai/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "asiaccs",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://asiaccs.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "sosp",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://sigops.org/s/conferences/sosp/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "osdi",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.usenix.org/conferences/byname/179",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "sigcomm",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://conferences.sigcomm.org/sigcomm/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "nsdi",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.usenix.org/conferences/byname/135",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "isca",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://iscaconf.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "micro",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://microarch.org/micro/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "asplos",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.asplos-conference.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "hpca",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://hpca-conf.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "fast",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.usenix.org/conferences/byname/63",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "sc",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://supercomputing.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "mobicom",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.sigmobile.org/mobicom/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "eurosys",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.eurosys.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "atc",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.usenix.org/conferences/byname/131",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "imc",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://conferences.sigcomm.org/imc/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "conext",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://conferences.sigcomm.org/co-next/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "ppopp",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://ppopp.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "mobisys",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.sigmobile.org/mobisys/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "infocom",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://ieee-infocom.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "sigmetrics",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.sigmetrics.org/sigmetrics/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "rtss",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://rtss.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "neurips",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://neurips.cc/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "icml",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://icml.cc/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "iclr",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://iclr.cc/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "cvpr",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://cvpr.thecvf.com/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "acl",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.aclweb.org/portal/acl",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "iccv",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://iccv.thecvf.com/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "colt",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://learningtheory.org/colt/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "eccv",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://eccv.ecva.net/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "emnlp",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.aclweb.org/portal/emnlp",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
     "slug": "aaai",
-    "year": null,
+    "year": 2027,
     "conference_date": {
       "start": null,
       "end": null,
-      "display": "TBD"
+      "display": "February 16-23, 2027"
     },
     "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
+      "datetime": "2026-07-20T23:59:59-12:00",
+      "display": "2026-07-20 23:59:59 UTC-12",
+      "timezone": "UTC-12",
       "mandatory": null
     },
     "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
+      "datetime": "2026-07-27T23:59:59-12:00",
+      "display": "2026-07-27 23:59:59 UTC-12",
+      "timezone": "UTC-12",
       "mandatory": null
     },
-    "location": "TBD",
+    "location": "Montréal, Québec, Canada",
     "source_url": "https://aaai.org/Conferences/AAAI/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "icra",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "uai",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.auai.org/uai/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "aistats",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://aistats.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "naacl",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.aclweb.org/portal/naacl",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "coling",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://coling.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "corl",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.corl.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "ijcai",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://ijcai.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "iros",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: AAAI 2027。"
   },
   {
     "slug": "aamas",
-    "year": null,
+    "year": 2026,
     "conference_date": {
       "start": null,
       "end": null,
-      "display": "TBD"
+      "display": "May 27-29, 2026"
     },
     "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
+      "datetime": "2025-10-01T23:59:59-12:00",
+      "display": "2025-10-01 23:59:59 UTC-12",
+      "timezone": "UTC-12",
       "mandatory": null
     },
     "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
+      "datetime": "2025-10-08T23:59:59-12:00",
+      "display": "2025-10-08 23:59:59 UTC-12",
+      "timezone": "UTC-12",
       "mandatory": null
     },
-    "location": "TBD",
+    "location": "Paphos, Cyprus",
     "source_url": "https://aamas.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: AAMAS 2026 已截止；当前未见 2027 记录。"
   },
   {
-    "slug": "kr",
-    "year": null,
+    "slug": "acl",
+    "year": 2026,
     "conference_date": {
       "start": null,
       "end": null,
-      "display": "TBD"
+      "display": "July 2-7, 2026"
     },
     "abstract_deadline": {
       "datetime": null,
-      "display": "TBD",
+      "display": "—",
       "timezone": null,
       "mandatory": null
     },
     "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://kr.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "icaps",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.icaps-conference.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "pldi",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://pldi.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "popl",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://popl.mpi-sws.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "oopsla",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.sigplan.org/Conferences/OOPSLA/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "icse",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.icse-conferences.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "fse",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://conf.researchr.org/series/fse",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "fm",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://formalmethods.github.io/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "ase",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://conf.researchr.org/series/ase",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "issta",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://conf.researchr.org/series/issta",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "vmcai",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.etaps.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "sas",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://staticanalysis.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "icfp",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://icfpconference.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "ecoop",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.ecoop.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "middleware",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://middleware-conf.github.io/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "issre",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://issre.github.io/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "msr",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://conf.researchr.org/series/msr",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "icsme",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://conf.researchr.org/series/icsme",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "saner",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://conf.researchr.org/series/saner",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "re",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://conf.researchr.org/series/RE",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "icpc",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://conf.researchr.org/series/icpc",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "icst",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://conf.researchr.org/series/icst",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "sigmod",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://sigmod.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "vldb",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://vldb.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "kdd",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://kdd.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "sigir",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://sigir.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "icde",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://ieee-icde.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "www",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.thewebconf.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "pods",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://sigmod.org/pods-home/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "cidr",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.cidrdb.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "wsdm",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.wsdm-conference.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "recsys",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://recsys.acm.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "cikm",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://cikm.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "icdm",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.ieee-icdm.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "iswc",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://iswc.semanticweb.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "sdm",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.siam.org/conferences-events/siam-conferences/sdm/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "edbt",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://edbt.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "icdt",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://icdt.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "ecir",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.ecir.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "sigspatial",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://sigspatial.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "chiir",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://sigir.org/chiir/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "stoc",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://acm-stoc.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "focs",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://focs.computer.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "soda",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.siam.org/conferences-events/siam-conferences/soda/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "cav",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://i-cav.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "lics",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://lics.siglog.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "ccc",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://computationalcomplexity.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "itcs",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://itcs-conf.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "socg",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.computational-geometry.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "esa",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://algo-conference.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "icalp",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://eatcs.org/index.php/icalp",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "fmcad",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://fmcad.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "sat",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://satisfiability.org/SAT/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "concur",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://concur-conference.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "hscc",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://hscc.acm.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "siggraph",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.siggraph.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "chi",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://chi.acm.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
+      "datetime": "2026-01-05T23:59:59-12:00",
+      "display": "2026-01-05 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "San Diego, California, United States",
+    "source_url": "https://www.aclweb.org/portal/acl",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ACL 2026 已截止；当前未见 2027 记录。"
   },
   {
     "slug": "acm-mm",
-    "year": null,
+    "year": 2026,
     "conference_date": {
       "start": null,
       "end": null,
-      "display": "TBD"
+      "display": "November 10-14, 2026"
     },
     "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
+      "datetime": "2026-03-25T23:59:59-12:00",
+      "display": "2026-03-25 23:59:59 AoE",
+      "timezone": "AoE",
       "mandatory": null
     },
     "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
+      "datetime": "2026-04-01T23:59:59-12:00",
+      "display": "2026-04-01 23:59:59 AoE",
+      "timezone": "AoE",
       "mandatory": null
     },
-    "location": "TBD",
+    "location": "Rio de Janeiro, Brazil",
     "source_url": "https://acmmm.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ACM MM 2026 已截止；当前未见 2027 记录。"
   },
   {
-    "slug": "uist",
-    "year": null,
+    "slug": "acsac",
+    "year": 2026,
     "conference_date": {
       "start": null,
       "end": null,
-      "display": "TBD"
+      "display": "December 7-11, 2026"
     },
     "abstract_deadline": {
       "datetime": null,
-      "display": "TBD",
+      "display": "—",
       "timezone": null,
       "mandatory": null
     },
     "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
+      "datetime": "2026-05-26T23:59:59-12:00",
+      "display": "2026-05-26 23:59:59 UTC-12",
+      "timezone": "UTC-12",
       "mandatory": null
     },
-    "location": "TBD",
-    "source_url": "https://uist.acm.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
+    "location": "Los Angeles, California, USA",
+    "source_url": "https://www.acsac.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ACSAC 2026 已截止；当前未见 2027 记录。"
   },
   {
-    "slug": "vis",
-    "year": null,
+    "slug": "aistats",
+    "year": 2026,
     "conference_date": {
       "start": null,
       "end": null,
-      "display": "TBD"
+      "display": "May 2-5, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-09-25T23:59:59-12:00",
+      "display": "2025-09-25 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-10-02T23:59:59-12:00",
+      "display": "2025-10-02 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Morocco",
+    "source_url": "https://aistats.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: AISTATS 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "ase",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "October 12 - 16, 2026"
     },
     "abstract_deadline": {
       "datetime": null,
-      "display": "TBD",
+      "display": "—",
       "timezone": null,
       "mandatory": null
     },
     "paper_deadline": {
+      "datetime": "2026-03-26T23:59:59-12:00",
+      "display": "2026-03-26 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Munich, Germany",
+    "source_url": "https://conf.researchr.org/series/ase",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ASE 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "asiaccs",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 12-16, 2027"
+    },
+    "abstract_deadline": {
       "datetime": null,
-      "display": "TBD",
+      "display": "—",
       "timezone": null,
       "mandatory": null
     },
-    "location": "TBD",
-    "source_url": "https://ieeevis.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
+    "paper_deadline": {
+      "datetime": "2026-08-21T23:59:59-12:00",
+      "display": "2026-08-21 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Macau, China",
+    "source_url": "https://asiaccs.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: AsiaCCS 2027 first round；second round 为 2026-12-11。"
+  },
+  {
+    "slug": "asiacrypt",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "December 7-11, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-05-22T11:59:59+00:00",
+      "display": "2026-05-22 11:59:59 UTC",
+      "timezone": "UTC",
+      "mandatory": null
+    },
+    "location": "Hong Kong, China",
+    "source_url": "https://asiacrypt.iacr.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ASIACRYPT 2026已截止；2027 CFP未在当前ccfddl记录中出现。"
+  },
+  {
+    "slug": "asplos",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 11-15, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-09T23:59:59-12:00",
+      "display": "2026-09-09 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Crete, Greece",
+    "source_url": "https://www.asplos-conference.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ASPLOS 2027 September Cycle；April Cycle已过。"
+  },
+  {
+    "slug": "atc",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "November 15-18, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-06-11T11:59:59+00:00",
+      "display": "2026-06-11 11:59:59 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "location": "Hyatt Hotel, Shatin, Hong Kong, China",
+    "source_url": "https://www.usenix.org/conferences/byname/131",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: USENIX ATC 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "cav",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 26-29, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-01-28T23:59:59-12:00",
+      "display": "2026-01-28 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Lisbon, Portugal",
+    "source_url": "https://i-cav.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CAV 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "ccc",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "August 3-6, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-02-06T23:59:59-12:00",
+      "display": "2026-02-06 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Lisbon, Portugal",
+    "source_url": "https://computationalcomplexity.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "官方 CCC 2026 CFP：submission deadline 2026-02-06 23:59 AoE；当前未检索到 2027 具体 DDL，按规则使用 2026，已截止。"
+  },
+  {
+    "slug": "ccs",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "November 15-19, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-04-29T23:59:59-12:00",
+      "display": "2026-04-29 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "World Forum, Hague, Netherlands",
+    "source_url": "https://www.sigsac.org/ccs.html",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CCS 2026第二轮已截止；未用过期项作为未来DDL。"
+  },
+  {
+    "slug": "ches",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-15T23:59:59-12:00",
+      "display": "2026-07-15 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBD, Americas",
+    "source_url": "https://ches.iacr.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CHES/TCHES 2027 volume 1；后续还有 2026-10-15、2027-01-15、2027-04-15。"
+  },
+  {
+    "slug": "chi",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "May 10 - 14, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-10T23:59:59-12:00",
+      "display": "2026-09-10 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "David L. Lawrence Convention Center, Pittsburgh, USA",
+    "source_url": "https://chi.acm.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CHI 2027。"
+  },
+  {
+    "slug": "chiir",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "March 22-26, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-10-08T23:59:59-12:00",
+      "display": "2025-10-08 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-10-15T23:59:59-12:00",
+      "display": "2025-10-15 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Seattle, WA, USA",
+    "source_url": "https://sigir.org/chiir/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "官方 CHIIR 2026 页面：Full/Perspective Papers abstract 2025-10-08，full submission 2025-10-15；当前未检索到 2027 记录，按规则使用 2026，已截止。"
+  },
+  {
+    "slug": "cidr",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "January 24-27, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-08-04T23:59:59-07:00",
+      "display": "2026-08-04 23:59:59 UTC-7",
+      "timezone": "UTC-7",
+      "mandatory": null
+    },
+    "location": "Amsterdam, The Netherlands",
+    "source_url": "https://www.cidrdb.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CIDR 2027。"
+  },
+  {
+    "slug": "cikm",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "November 7-11, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-05-16T23:59:59-12:00",
+      "display": "2026-05-16 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-05-23T23:59:59-12:00",
+      "display": "2026-05-23 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Rome, Italy",
+    "source_url": "https://cikm.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CIKM 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "coling",
+    "year": 2025,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "Jan 19 - Jan 24, 2025"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2024-09-16T23:59:59-12:00",
+      "display": "2024-09-16 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Abu Dhabi, UAE",
+    "source_url": "https://coling.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: COLING 未见 2026/2027 记录，最新收录为 2025，已截止。"
+  },
+  {
+    "slug": "colt",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "June 29 - July 3, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-02-04T16:59:59-12:00",
+      "display": "2026-02-04 16:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "San Diego, California",
+    "source_url": "https://learningtheory.org/colt/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: COLT 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "concur",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "Sep 1-4, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-04-20T23:59:59-12:00",
+      "display": "2026-04-20 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-04-27T23:59:59-12:00",
+      "display": "2026-04-27 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Liverpool, UK",
+    "source_url": "https://concur-conference.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CONCUR 2026；当前未检索到 2027 记录，按规则使用 2026，已截止。"
+  },
+  {
+    "slug": "conext",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "December 7-10, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-05-29T23:59:59-12:00",
+      "display": "2026-05-29 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-06-05T23:59:59-12:00",
+      "display": "2026-06-05 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Utrecht, The Netherlands",
+    "source_url": "https://conferences.sigcomm.org/co-next/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CoNEXT 2026 June Cycle 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "corl",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "November 10-12, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-05-25T23:59:59-12:00",
+      "display": "2026-05-25 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-05-28T23:59:59-12:00",
+      "display": "2026-05-28 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Austin, Texas, USA",
+    "source_url": "https://www.corl.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CoRL 2026；当前未检索到 2027 记录，按规则使用 2026，已截止。"
+  },
+  {
+    "slug": "crypto",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "August 17-20, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-02-12T23:59:59-12:00",
+      "display": "2026-02-12 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Santa Barbara, USA",
+    "source_url": "https://crypto.iacr.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CRYPTO 2026已截止；2027 CFP未在当前ccfddl记录中出现。"
   },
   {
     "slug": "cscw",
-    "year": null,
+    "year": 2026,
     "conference_date": {
       "start": null,
       "end": null,
-      "display": "TBD"
+      "display": "October 10-14, 2026"
     },
     "abstract_deadline": {
       "datetime": null,
-      "display": "TBD",
+      "display": "—",
       "timezone": null,
       "mandatory": null
     },
     "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
+      "datetime": "2025-05-13T23:59:59-12:00",
+      "display": "2025-05-13 23:59:59 AoE",
+      "timezone": "AoE",
       "mandatory": null
     },
-    "location": "TBD",
+    "location": "Salt Lake City, Utah, USA",
     "source_url": "https://cscw.acm.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CSCW 2026 已截止；当前未见 2027 记录。"
   },
   {
-    "slug": "ubicomp",
-    "year": null,
+    "slug": "csf",
+    "year": 2026,
     "conference_date": {
       "start": null,
       "end": null,
-      "display": "TBD"
+      "display": "July 26-29, 2026"
     },
     "abstract_deadline": {
       "datetime": null,
-      "display": "TBD",
+      "display": "—",
       "timezone": null,
       "mandatory": null
     },
     "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
+      "datetime": "2026-01-29T23:59:59-12:00",
+      "display": "2026-01-29 23:59:59 UTC-12",
+      "timezone": "UTC-12",
       "mandatory": null
     },
-    "location": "TBD",
-    "source_url": "https://ubicomp.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
+    "location": "Lisbon, Portugal",
+    "source_url": "https://www.ieee-security.org/TC/CSF/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CSF/CSFW 2026 Winter deadline已截止；2027 CFP未在当前ccfddl记录中出现。"
   },
   {
-    "slug": "vr",
-    "year": null,
+    "slug": "cvpr",
+    "year": 2026,
     "conference_date": {
       "start": null,
       "end": null,
-      "display": "TBD"
+      "display": "June 3-7, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-11-06T23:59:00-12:00",
+      "display": "2025-11-06 23:59:00 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-11-13T23:59:00-12:00",
+      "display": "2025-11-13 23:59:00 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Denver, Colorado, United States",
+    "source_url": "https://cvpr.thecvf.com/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CVPR 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "dimva",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 1-3, 2026"
     },
     "abstract_deadline": {
       "datetime": null,
-      "display": "TBD",
+      "display": "—",
       "timezone": null,
       "mandatory": null
     },
     "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
+      "datetime": "2026-02-18T23:59:59-12:00",
+      "display": "2026-02-18 23:59:59 AoE",
+      "timezone": "AoE",
       "mandatory": null
     },
-    "location": "TBD",
-    "source_url": "https://ieeevr.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "eurographics",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.eg.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "eurovis",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.eurovis.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "miccai",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://conferences.miccai.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "ismb",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.iscb.org/ismb",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "recomb",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://recomb.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "ismar",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://ismar.net/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "sgp",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://sgp2026.github.io/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "egsr",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.egsr-conference.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
-  },
-  {
-    "slug": "sca",
-    "year": null,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "TBD"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": null,
-      "display": "TBD",
-      "timezone": null,
-      "mandatory": null
-    },
-    "location": "TBD",
-    "source_url": "https://www.siggraph.org/learn/conferences/symposium-on-computer-animation/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
+    "location": "Chania, Greece",
+    "source_url": "https://dimva.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: DIMVA 2026 Cycle 2 已截止；当前未见 2027 记录。"
   },
   {
     "slug": "dis",
-    "year": null,
+    "year": 2026,
     "conference_date": {
       "start": null,
       "end": null,
-      "display": "TBD"
+      "display": "June 13 - 17, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-01-09T23:59:59-12:00",
+      "display": "2026-01-09 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-01-19T23:59:59-12:00",
+      "display": "2026-01-19 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Singapore",
+    "source_url": "https://dis.acm.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: DIS 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "dsn",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "June 22-25, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-11-27T23:59:59-12:00",
+      "display": "2025-11-27 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-12-04T23:59:59-12:00",
+      "display": "2025-12-04 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Charlotte, USA",
+    "source_url": "https://dsn.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: DSN 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "eccv",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "September 8 - 13, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-02-26T14:00:00-08:00",
+      "display": "2026-02-26 14:00:00 UTC-8",
+      "timezone": "UTC-8",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-03-05T14:00:00-08:00",
+      "display": "2026-03-05 14:00:00 UTC-8",
+      "timezone": "UTC-8",
+      "mandatory": null
+    },
+    "location": "Malmö, Sweden",
+    "source_url": "https://eccv.ecva.net/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ECCV 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "ecir",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "March 30 - April 01, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-09-25T23:59:59-12:00",
+      "display": "2025-09-25 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-10-02T23:59:59-12:00",
+      "display": "2025-10-02 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Delft, The Netherlands",
+    "source_url": "https://www.ecir.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ECIR 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "ecoop",
+    "year": 2025,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "June 30 - July 4, 2025"
     },
     "abstract_deadline": {
       "datetime": null,
-      "display": "TBD",
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-03-05T23:59:59-12:00",
+      "display": "2025-03-05 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Bergen, Norway",
+    "source_url": "https://www.ecoop.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ECOOP 最新收录为 2025 Round 2，已截止；当前未见 2026/2027 记录。"
+  },
+  {
+    "slug": "edbt",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 6-9, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-07T23:59:59-12:00",
+      "display": "2026-10-07 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Lille, France",
+    "source_url": "https://edbt.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: EDBT 2027 third deadline；前两轮为 2026-02-04/2026-06-10。"
+  },
+  {
+    "slug": "egsr",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 1-3, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-04-08T23:59:59+00:00",
+      "display": "2026-04-08 23:59:59 UTC",
+      "timezone": "UTC",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-04-15T23:59:59+00:00",
+      "display": "2026-04-15 23:59:59 UTC",
+      "timezone": "UTC",
+      "mandatory": null
+    },
+    "location": "Bordeaux, France",
+    "source_url": "https://www.egsr-conference.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: EGSR 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "emnlp",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "October 24 - 29, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-05-25T23:59:59-12:00",
+      "display": "2026-05-25 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Budapest, Hungary",
+    "source_url": "https://www.aclweb.org/portal/emnlp",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: EMNLP 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "esa",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "未检索到 2027/2026 公开会议日期"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "未检索到公开摘要截止",
       "timezone": null,
       "mandatory": null
     },
     "paper_deadline": {
       "datetime": null,
-      "display": "TBD",
+      "display": "未检索到公开全文截止",
       "timezone": null,
       "mandatory": null
     },
-    "location": "TBD",
-    "source_url": "https://dis.acm.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
+    "location": "未检索到公开地点",
+    "source_url": "https://algo-conference.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "本轮未能在 ccfddl 已收录 YAML 或会议官网公开入口中确认 2027/2026 主会 DDL；未伪造日期，需后续脚本/人工复核。"
+  },
+  {
+    "slug": "esorics",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "September 14-18, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-04-21T23:59:59-12:00",
+      "display": "2026-04-21 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Rome, Italy",
+    "source_url": "https://esorics.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ESORICS 2026 Second Submission deadline 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "eurocrypt",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 11-15, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-17T23:59:59-12:00",
+      "display": "2026-09-17 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Eindhoven, Netherlands",
+    "source_url": "https://eurocrypt.iacr.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: EUROCRYPT 2027。"
+  },
+  {
+    "slug": "eurographics",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "May 4-8, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-09-22T23:59:59+00:00",
+      "display": "2025-09-22 23:59:59 UTC",
+      "timezone": "UTC",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-09-26T23:59:59+00:00",
+      "display": "2025-09-26 23:59:59 UTC",
+      "timezone": "UTC",
+      "mandatory": null
+    },
+    "location": "Aachen, Germany",
+    "source_url": "https://www.eg.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: Eurographics 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "eurosp",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 6-10, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-11-20T23:59:59-12:00",
+      "display": "2025-11-20 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Lisbon, Portugal",
+    "source_url": "https://www.ieee-security.org/TC/EuroSP/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: EuroS&P 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "eurosys",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 19-24, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-09-17T23:59:59-12:00",
+      "display": "2026-09-17 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-24T23:59:59-12:00",
+      "display": "2026-09-24 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Rabat, Morocco",
+    "source_url": "https://www.eurosys.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: EuroSys 2027 Fall Submission Deadline；Spring deadline 已过。"
+  },
+  {
+    "slug": "eurovis",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "June 8-12, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-11-26T23:59:59-12:00",
+      "display": "2025-11-26 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-12-03T23:59:59-12:00",
+      "display": "2025-12-03 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Nottingham, United Kingdom",
+    "source_url": "https://www.eurovis.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: EuroVis 2026；原记录 full deadline 年份疑似误写，按摘要截止后一周修正为 2025-12-03，已截止。"
+  },
+  {
+    "slug": "fast",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "FEBRUARY 23-25, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-15T23:59:00-12:00",
+      "display": "2026-09-15 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Renton, WA, USA",
+    "source_url": "https://www.usenix.org/conferences/byname/63",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: FAST 2027 Fall deadline；Spring deadline 已过。"
+  },
+  {
+    "slug": "fc",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "February 8-12, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-17T23:59:59-12:00",
+      "display": "2026-09-17 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Barbados (tentative)",
+    "source_url": "https://fc.ifca.ai/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: Financial Crypto 2027。"
+  },
+  {
+    "slug": "fm",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "May 18-22, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-11-25T23:59:00-12:00",
+      "display": "2025-11-25 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-12-02T23:59:00-12:00",
+      "display": "2025-12-02 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Tokyo, Japan",
+    "source_url": "https://formalmethods.github.io/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: FM 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "fmcad",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "Sep. 14-18, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-04-20T23:59:59-12:00",
+      "display": "2026-04-20 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-04-26T23:59:59-12:00",
+      "display": "2026-04-26 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Graz, Austria",
+    "source_url": "https://fmcad.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: FMCAD 2026；原 YAML 中 abstract/deadline 顺序疑似字段异常，按常规语义修正为 abstract 2026-04-20 / full 2026-04-26，已截止。"
+  },
+  {
+    "slug": "focs",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "November 8-11, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-04-01T21:00:00+00:00",
+      "display": "2026-04-01 21:00:00 UTC",
+      "timezone": "UTC",
+      "mandatory": null
+    },
+    "location": "New York City, NY, USA",
+    "source_url": "https://focs.computer.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: FOCS 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "fse",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 12-16, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-02T23:59:59-12:00",
+      "display": "2026-10-02 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Shenzhen, China",
+    "source_url": "https://conf.researchr.org/series/fse",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: FSE 2027。"
+  },
+  {
+    "slug": "hpca",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "Feb 25-Mar 1, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-07-25T23:59:59+00:00",
+      "display": "2025-07-25 23:59:59 UTC",
+      "timezone": "UTC",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-08-01T23:59:59+00:00",
+      "display": "2025-08-01 23:59:59 UTC",
+      "timezone": "UTC",
+      "mandatory": null
+    },
+    "location": "Sydney, NSW, Australia",
+    "source_url": "https://hpca-conf.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: HPCA 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "hscc",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "May 11-14, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-11-06T23:59:59-12:00",
+      "display": "2025-11-06 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-11-13T23:59:59-12:00",
+      "display": "2025-11-13 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Saint Malo, France",
+    "source_url": "https://hscc.acm.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: HSCC 2026；当前未检索到 2027 记录，按规则使用 2026，已截止。"
+  },
+  {
+    "slug": "icalp",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 6-10, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-02-06T23:59:59-12:00",
+      "display": "2026-02-06 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "London, UK",
+    "source_url": "https://eatcs.org/index.php/icalp",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICALP 2026；当前未检索到 2027 记录，按规则使用 2026，已截止。"
+  },
+  {
+    "slug": "icaps",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "June 27 - July 2, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-12-02T23:59:59-12:00",
+      "display": "2025-12-02 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-12-08T23:59:59-12:00",
+      "display": "2025-12-08 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Dublin, Ireland",
+    "source_url": "https://www.icaps-conference.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICAPS 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "iccv",
+    "year": 2025,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "October 19-25, 2025"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-03-04T09:59:59+00:00",
+      "display": "2025-03-04 09:59:59 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-03-08T09:59:59+00:00",
+      "display": "2025-03-08 09:59:59 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "location": "Honolulu, Hawaii",
+    "source_url": "https://iccv.thecvf.com/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICCV 为奇数年主会；未见 2027 记录，最新收录为 2025，已截止。"
+  },
+  {
+    "slug": "icde",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "May 17-21, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-11-11T17:00:00-07:00",
+      "display": "2026-11-11 17:00:00 UTC-7",
+      "timezone": "UTC-7",
+      "mandatory": null
+    },
+    "location": "Copenhagen, Denmark",
+    "source_url": "https://ieee-icde.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICDE 2027 second round；first round已过。"
+  },
+  {
+    "slug": "icdm",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "November 12-15, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-05-30T23:59:59-12:00",
+      "display": "2026-05-30 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-06-06T23:59:59-12:00",
+      "display": "2026-06-06 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Shenyang, China",
+    "source_url": "https://www.ieee-icdm.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICDM 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "icdt",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 6-9, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-07T23:59:59-12:00",
+      "display": "2026-10-07 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Lille, France",
+    "source_url": "https://icdt.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICDT 与 EDBT 联合会议；使用 EDBT/ICDT 2027 公开日期，需后续核验 ICDT 独立 CFP。"
+  },
+  {
+    "slug": "icfp",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "August 24 - 29, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-02-19T23:59:59-12:00",
+      "display": "2026-02-19 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Indiana University Indianapolis, United States",
+    "source_url": "https://icfpconference.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICFP 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "iclr",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "May 01-05, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-09-19T23:59:59-12:00",
+      "display": "2025-09-19 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-09-24T23:59:59-12:00",
+      "display": "2025-09-24 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Brazil",
+    "source_url": "https://iclr.cc/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICLR 2026已截止；检索 ICLR 2027 未发现稳定官方DDL。"
+  },
+  {
+    "slug": "icml",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 6-12, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-01-24T11:59:59+00:00",
+      "display": "2026-01-24 11:59:59 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-01-29T11:59:59+00:00",
+      "display": "2026-01-29 11:59:59 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "location": "Seoul, Korea",
+    "source_url": "https://icml.cc/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICML 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "icpc",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 12-13, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-10-19T23:59:59-12:00",
+      "display": "2025-10-19 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-10-23T23:59:59-12:00",
+      "display": "2025-10-23 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Rio de Janeiro, Brazil",
+    "source_url": "https://conf.researchr.org/series/icpc",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICPC 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "icra",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "Jun 1-5, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-09-15T23:59:00-08:00",
+      "display": "2025-09-15 23:59:00 UTC-8",
+      "timezone": "UTC-8",
+      "mandatory": null
+    },
+    "location": "Vienna, Austria",
+    "source_url": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICRA 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "icse",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 25-May 01, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-06-23T23:59:59-12:00",
+      "display": "2026-06-23 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-06-30T23:59:59-12:00",
+      "display": "2026-06-30 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Dublin, Ireland",
+    "source_url": "https://www.icse-conferences.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICSE 2027 Single Submission Cycle。"
+  },
+  {
+    "slug": "icsme",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "September 14-18, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-02-27T23:59:59-12:00",
+      "display": "2026-02-27 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-03-06T23:59:59-12:00",
+      "display": "2026-03-06 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Benevento, Italy",
+    "source_url": "https://conf.researchr.org/series/icsme",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICSME 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "icst",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "May 18-22, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-12-22T23:59:59-12:00",
+      "display": "2025-12-22 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Daejeon, South Korea",
+    "source_url": "https://conf.researchr.org/series/icst",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICST 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "ieee-sp",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "未公开"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-11-10T23:59:59-12:00",
+      "display": "2026-11-10 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-11-17T23:59:59-12:00",
+      "display": "2026-11-17 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Montreal, Canada",
+    "source_url": "https://www.ieee-security.org/TC/SP-Index.html",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: S&P 2027 second submission cycle; first cycle已过。"
+  },
+  {
+    "slug": "ijcai",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "August 15-21, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-01-12T23:59:59-12:00",
+      "display": "2026-01-12 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-01-19T23:59:59-12:00",
+      "display": "2026-01-19 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Bremen, Germany",
+    "source_url": "https://ijcai.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: IJCAI 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "imc",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "November 03-06, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-04-22T23:59:59-12:00",
+      "display": "2026-04-22 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-04-29T23:59:59-12:00",
+      "display": "2026-04-29 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Karlsruhe, Germany",
+    "source_url": "https://conferences.sigcomm.org/imc/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: IMC 2026 Cycle 2 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "infocom",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "May 24 - 27, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-07-24T23:59:59-12:00",
+      "display": "2026-07-24 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-31T23:59:59-12:00",
+      "display": "2026-07-31 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Honolulu, HI, USA",
+    "source_url": "https://ieee-infocom.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: INFOCOM 2027。"
+  },
+  {
+    "slug": "iros",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "September 27 - October 1, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-03-02T23:59:59-08:00",
+      "display": "2026-03-02 23:59:59 UTC-8",
+      "timezone": "UTC-8",
+      "mandatory": null
+    },
+    "location": "Pittsburgh, PA, USA",
+    "source_url": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: IROS 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "isca",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "June 27-July 1, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-11-10T23:59:59-12:00",
+      "display": "2025-11-10 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-11-17T23:59:59-12:00",
+      "display": "2025-11-17 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Raleigh, USA",
+    "source_url": "https://iscaconf.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ISCA 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "ismar",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "Oct 5-9, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-03-09T23:59:59-12:00",
+      "display": "2026-03-09 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-03-16T23:59:59-12:00",
+      "display": "2026-03-16 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Bari, Italy",
+    "source_url": "https://ismar.net/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ISMAR 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "ismb",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 18-22, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "未公开",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "未公开",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "Copenhagen, Denmark",
+    "source_url": "https://www.iscb.org/ismb",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "公开会议信息显示 ISMB/ECCB 2027 日期/地点已公开，但 proceedings/main paper 截止未检索到；需后续复核。"
+  },
+  {
+    "slug": "issre",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "October 20-23, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-04-10T23:59:59-12:00",
+      "display": "2026-04-10 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-04-17T23:59:59-12:00",
+      "display": "2026-04-17 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Limassol, Cyprus",
+    "source_url": "https://issre.github.io/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ISSRE 2026；原记录 full deadline 年份疑似误写，按 2026 会议周期修正为 2026-04-17，已截止。"
+  },
+  {
+    "slug": "issta",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "October 3-9, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-01-29T23:59:59-12:00",
+      "display": "2026-01-29 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Oakland, California, United States",
+    "source_url": "https://conf.researchr.org/series/issta",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ISSTA 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "iswc",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "October 25-29, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-05-02T23:59:59-12:00",
+      "display": "2026-05-02 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-05-07T23:59:59-12:00",
+      "display": "2026-05-07 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Bari, Italy",
+    "source_url": "https://iswc.semanticweb.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ISWC 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "itcs",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "未检索到 2027/2026 公开会议日期"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "未检索到公开摘要截止",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "未检索到公开全文截止",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "未检索到公开地点",
+    "source_url": "https://itcs-conf.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "本轮未能在 ccfddl 已收录 YAML 或会议官网公开入口中确认 2027/2026 主会 DDL；未伪造日期，需后续脚本/人工复核。"
+  },
+  {
+    "slug": "kdd",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "August 2027 (exact dates TBD)"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-07-19T23:59:59-12:00",
+      "display": "2026-07-19 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-26T23:59:59-12:00",
+      "display": "2026-07-26 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "San Jose, California, USA",
+    "source_url": "https://kdd.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: KDD/SIGKDD 2027 first round。"
+  },
+  {
+    "slug": "kr",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 20-23, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-02-08T23:59:59-12:00",
+      "display": "2026-02-08 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-02-13T23:59:59-12:00",
+      "display": "2026-02-13 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Lisbon, Portugal",
+    "source_url": "https://kr.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: KR 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "lics",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 20-23, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-01-15T23:59:59-12:00",
+      "display": "2026-01-15 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-01-22T23:59:59-12:00",
+      "display": "2026-01-22 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Lisbon, Portugal",
+    "source_url": "https://lics.siglog.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: LICS 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "miccai",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "September 26-October 1, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "未公开",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "未公开",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "Auckland",
+    "source_url": "https://conferences.miccai.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "公开会议信息显示 MICCAI 2027 日期/地点已公开，但主会摘要/全文截止未检索到；需后续复核。"
+  },
+  {
+    "slug": "micro",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "October 31-November 4, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-03-31T23:59:59-04:00",
+      "display": "2026-03-31 23:59:59 UTC-4",
+      "timezone": "UTC-4",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-04-07T23:59:59-04:00",
+      "display": "2026-04-07 23:59:59 UTC-4",
+      "timezone": "UTC-4",
+      "mandatory": null
+    },
+    "location": "Athens, Greece",
+    "source_url": "https://microarch.org/micro/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: MICRO 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "middleware",
+    "year": 2022,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "November 7-11, 2022"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2022-03-15T23:59:59-12:00",
+      "display": "2022-03-15 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Fairmont Le Château Frontenac, Québec City, Québec, Canada",
+    "source_url": "https://middleware-conf.github.io/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: Middleware 当前文件仅收录 2022，已截止；需官网二次确认最新主会。"
+  },
+  {
+    "slug": "mobicom",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "November, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-03-06T23:59:59-12:00",
+      "display": "2026-03-06 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-03-13T23:59:59-12:00",
+      "display": "2026-03-13 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Austin, Texas, USA",
+    "source_url": "https://www.sigmobile.org/mobicom/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: MobiCom 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "mobisys",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "June 21-25, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-11-28T23:59:59-12:00",
+      "display": "2025-11-28 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-12-05T23:59:59-12:00",
+      "display": "2025-12-05 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Cambridge, UK",
+    "source_url": "https://www.sigmobile.org/mobisys/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: MobiSys 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "msr",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 13-14, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-10-20T23:59:59-12:00",
+      "display": "2025-10-20 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-10-23T23:59:59-12:00",
+      "display": "2025-10-23 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Rio de Janeiro, Brazil",
+    "source_url": "https://conf.researchr.org/series/msr",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: MSR 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "naacl",
+    "year": 2025,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 29-May 4, 2025"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2024-10-15T23:59:59-12:00",
+      "display": "2024-10-15 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Albuquerque, New Mexico, USA",
+    "source_url": "https://www.aclweb.org/portal/naacl",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: NAACL 非每年收录；未见 2026/2027 记录，最新为 2025，已截止。"
+  },
+  {
+    "slug": "ndss",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "March 22 - March 26, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-08-19T23:59:59-12:00",
+      "display": "2026-08-19 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Seoul, Republic of Korea",
+    "source_url": "https://www.ndss-symposium.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: NDSS 2027 Fall deadline；Summer已过。"
+  },
+  {
+    "slug": "neurips",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "December 6, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-05-05T11:59:00+00:00",
+      "display": "2026-05-05 11:59:00 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-05-07T11:59:00+00:00",
+      "display": "2026-05-07 11:59:00 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "location": "Sydney, Australia",
+    "source_url": "https://neurips.cc/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: NeurIPS 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "nsdi",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "May 11-13, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-09-10T23:59:59-04:00",
+      "display": "2026-09-10 23:59:59 UTC-4",
+      "timezone": "UTC-4",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-17T23:59:59-04:00",
+      "display": "2026-09-17 23:59:59 UTC-4",
+      "timezone": "UTC-4",
+      "mandatory": null
+    },
+    "location": "Providence, RI, USA",
+    "source_url": "https://www.usenix.org/conferences/byname/135",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: NSDI 2027 second cycle；first cycle已过。"
+  },
+  {
+    "slug": "oopsla",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "October 3-9, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-03-17T23:59:59-12:00",
+      "display": "2026-03-17 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Oakland, California, United States",
+    "source_url": "https://www.sigplan.org/Conferences/OOPSLA/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: OOPSLA 2026 Round 2 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "osdi",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 7-9, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-12-01T22:59:59+00:00",
+      "display": "2026-12-01 22:59:59 UTC",
+      "timezone": "UTC",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-12-08T22:59:59+00:00",
+      "display": "2026-12-08 22:59:59 UTC",
+      "timezone": "UTC",
+      "mandatory": null
+    },
+    "location": "Baltimore, MD, USA",
+    "source_url": "https://www.usenix.org/conferences/byname/179",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: OSDI 2027。"
+  },
+  {
+    "slug": "pets",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 19-24, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-08-31T23:59:59-12:00",
+      "display": "2026-08-31 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Delft, The Netherlands",
+    "source_url": "https://petsymposium.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: PETS 2027 Issue 2 Paper Submission Deadline；Issue 1 已过，后续还有 2026-11-30/2027-02-28。"
+  },
+  {
+    "slug": "pkc",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "May 25-28, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-10-24T23:59:59-12:00",
+      "display": "2025-10-24 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "West Palm Beach, USA",
+    "source_url": "https://pkc.iacr.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: PKC 2026已截止；2027 CFP未在当前ccfddl记录中出现。"
+  },
+  {
+    "slug": "pldi",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "June 15-19, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-11-13T23:59:59-12:00",
+      "display": "2025-11-13 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Boulder, Colorado, United States",
+    "source_url": "https://pldi.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: PLDI 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "pods",
+    "year": 2025,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "June 22-27, 2025"
+    },
+    "abstract_deadline": {
+      "datetime": "2024-12-02T17:00:00-07:00",
+      "display": "2024-12-02 17:00:00 UTC-7",
+      "timezone": "UTC-7",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2024-12-09T17:00:00-07:00",
+      "display": "2024-12-09 17:00:00 UTC-7",
+      "timezone": "UTC-7",
+      "mandatory": null
+    },
+    "location": "Berlin, Germany",
+    "source_url": "https://sigmod.org/pods-home/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: PODS 当前文件最新为 2025 second cycle，已截止；需官网确认 2026/2027。"
+  },
+  {
+    "slug": "popl",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "January 10-16, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-09T23:59:59-12:00",
+      "display": "2026-07-09 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Mexico City",
+    "source_url": "https://popl.mpi-sws.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: POPL 2027。"
+  },
+  {
+    "slug": "ppopp",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "Jan 31-Feb 4, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-09-01T23:59:59-12:00",
+      "display": "2025-09-01 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Sydney, Australia",
+    "source_url": "https://ppopp.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: PPoPP 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "raid",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "October 11-14, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-04-16T23:59:59-12:00",
+      "display": "2026-04-16 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Lancaster, UK",
+    "source_url": "https://raid-symposium.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: RAID 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "re",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "August 17-21, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-02-16T23:59:59-12:00",
+      "display": "2026-02-16 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-02-23T23:59:59-12:00",
+      "display": "2026-02-23 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Montreal, Canada",
+    "source_url": "https://conf.researchr.org/series/RE",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: RE 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "recomb",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "2026（具体日期未公开）"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "未公开",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "未公开",
+      "timezone": null,
+      "mandatory": null
+    },
+    "location": "Thessaloniki, Greece",
+    "source_url": "https://recomb.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "公开会议信息显示 RECOMB 2026 地点为 Thessaloniki, Greece；具体日期和论文截止未检索到；需后续复核。"
+  },
+  {
+    "slug": "recsys",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "September 28 - October 2, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-04-14T23:59:59-12:00",
+      "display": "2026-04-14 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-04-21T23:59:59-12:00",
+      "display": "2026-04-21 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Minneapolis, Minnesota, USA",
+    "source_url": "https://recsys.acm.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: RecSys 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "rtss",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "December 9-11, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-05-21T23:59:59-12:00",
+      "display": "2026-05-21 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Yokohama, Japan",
+    "source_url": "https://rtss.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: RTSS 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "saner",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "March 9-12, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-09-21T23:59:59-12:00",
+      "display": "2026-09-21 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-25T23:59:59-12:00",
+      "display": "2026-09-25 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Richmond, Virginia, United States",
+    "source_url": "https://conf.researchr.org/series/saner",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SANER 2027。"
+  },
+  {
+    "slug": "sas",
+    "year": 2025,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "October 12-18, 2025"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-05-04T23:59:59-12:00",
+      "display": "2025-05-04 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Singapore",
+    "source_url": "https://staticanalysis.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SAS 最新收录为 2025，已截止；当前未见 2026/2027 记录。"
+  },
+  {
+    "slug": "sat",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 20 - July 23, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-03-02T23:59:59-12:00",
+      "display": "2026-03-02 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-03-10T23:59:59-12:00",
+      "display": "2026-03-10 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Lisbon, Portugal",
+    "source_url": "https://satisfiability.org/SAT/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SAT 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "sc",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "November 15-20, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-04-01T23:59:59-12:00",
+      "display": "2026-04-01 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-04-08T23:59:00-12:00",
+      "display": "2026-04-08 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "McCormick Place, Chicago, Illinois, USA",
+    "source_url": "https://supercomputing.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SC 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "sca",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 8-10, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-04-10T23:59:59-12:00",
+      "display": "2026-04-10 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-04-17T23:59:59-12:00",
+      "display": "2026-04-17 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Barcelona, Spain",
+    "source_url": "https://www.siggraph.org/learn/conferences/symposium-on-computer-animation/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SCA 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "sdm",
+    "year": 2025,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "May 1-3, 2025"
+    },
+    "abstract_deadline": {
+      "datetime": "2024-09-27T23:59:59-08:00",
+      "display": "2024-09-27 23:59:59 UTC-8",
+      "timezone": "UTC-8",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2024-10-04T23:59:59-08:00",
+      "display": "2024-10-04 23:59:59 UTC-8",
+      "timezone": "UTC-8",
+      "mandatory": null
+    },
+    "location": "Alexandria, Virginia, USA",
+    "source_url": "https://www.siam.org/conferences-events/siam-conferences/sdm/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SDM 最新收录为 2025，已截止；当前未见 2026/2027 记录。"
+  },
+  {
+    "slug": "sgp",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 1 - 3, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-04-13T23:59:59+00:00",
+      "display": "2026-04-13 23:59:59 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-04-15T23:59:59+00:00",
+      "display": "2026-04-15 23:59:59 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "location": "Bern, Switzerland",
+    "source_url": "https://sgp2026.github.io/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SGP 2026 Second round 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "sigcomm",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "August 17 - 21, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-01-30T23:59:59-12:00",
+      "display": "2026-01-30 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-02-06T23:59:59-12:00",
+      "display": "2026-02-06 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Denver, Colorado, USA",
+    "source_url": "https://conferences.sigcomm.org/sigcomm/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SIGCOMM 2026已截止；下一轮未在当前ccfddl记录中出现。"
+  },
+  {
+    "slug": "siggraph",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 19 - 23, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-01-15T22:00:00+00:00",
+      "display": "2026-01-15 22:00:00 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-01-22T22:00:00+00:00",
+      "display": "2026-01-22 22:00:00 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "location": "Los Angeles, California",
+    "source_url": "https://www.siggraph.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SIGGRAPH 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "sigir",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 20-24, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-01-15T23:59:59-12:00",
+      "display": "2026-01-15 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-01-22T23:59:59-12:00",
+      "display": "2026-01-22 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Melbourne, Australia",
+    "source_url": "https://sigir.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SIGIR 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "sigmetrics",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "June 7-11, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-07-03T23:59:00-12:00",
+      "display": "2026-07-03 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-10T23:59:00-12:00",
+      "display": "2026-07-10 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Atlanta, Georgia, USA",
+    "source_url": "https://www.sigmetrics.org/sigmetrics/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SIGMETRICS 2027 summer round；后续还有 fall/winter。"
+  },
+  {
+    "slug": "sigmod",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "June 13-19, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-07-10T23:59:00-12:00",
+      "display": "2026-07-10 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-17T23:59:00-12:00",
+      "display": "2026-07-17 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Huntington Beach, CA, USA",
+    "source_url": "https://sigmod.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SIGMOD 2027 Round 3 是下一轮；后续还有 2026-10-17。"
+  },
+  {
+    "slug": "sigspatial",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "November 3-6, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-05-22T23:59:59-07:00",
+      "display": "2026-05-22 23:59:59 UTC-7",
+      "timezone": "UTC-7",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-05-29T23:59:59-07:00",
+      "display": "2026-05-29 23:59:59 UTC-7",
+      "timezone": "UTC-7",
+      "mandatory": null
+    },
+    "location": "Riverside, CA, USA",
+    "source_url": "https://sigspatial.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SIGSPATIAL 2026；当前未检索到 2027 记录，按规则使用 2026，已截止。"
+  },
+  {
+    "slug": "socg",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "June 2-5, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-11-25T23:59:00-12:00",
+      "display": "2025-11-25 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-12-02T23:59:00-12:00",
+      "display": "2025-12-02 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "New Brunswick, New Jersey, USA",
+    "source_url": "https://www.computational-geometry.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SoCG 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "soda",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "January 24-27, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-09T23:59:59-12:00",
+      "display": "2026-07-09 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Philadelphia, Pennsylvania, USA",
+    "source_url": "https://www.siam.org/conferences-events/siam-conferences/soda/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SODA 2027。"
+  },
+  {
+    "slug": "sosp",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "September 29 - October 2, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-03-26T23:59:59-12:00",
+      "display": "2026-03-26 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-04-01T23:59:59-12:00",
+      "display": "2026-04-01 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Prague, Czechia",
+    "source_url": "https://sigops.org/s/conferences/sosp/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SOSP 2026已截止；2027/2028 CFP未在ccfddl当前记录中出现。"
+  },
+  {
+    "slug": "soups",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "August 23-26, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-02-12T23:59:59-12:00",
+      "display": "2026-02-12 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-02-19T23:59:59-12:00",
+      "display": "2026-02-19 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Hannover, Germany",
+    "source_url": "https://www.usenix.org/conferences/byname/925",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SOUPS 2026 Paper Submission 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "stoc",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "June 22-26, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-11-04T16:59:59-05:00",
+      "display": "2025-11-04 16:59:59 UTC-5",
+      "timezone": "UTC-5",
+      "mandatory": null
+    },
+    "location": "Salt Lake City, Utah, USA",
+    "source_url": "https://acm-stoc.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: STOC 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "tcc",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "November 10-13, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-05-19T23:59:59-12:00",
+      "display": "2026-05-19 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "New York City, USA",
+    "source_url": "https://tcc.iacr.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: TCC 2026已截止；2027 CFP未在当前ccfddl记录中出现。"
+  },
+  {
+    "slug": "uai",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "August 17-21, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-02-25T23:59:59-12:00",
+      "display": "2026-02-25 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Amsterdam, Netherlands",
+    "source_url": "https://www.auai.org/uai/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: UAI 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "ubicomp",
+    "year": 2025,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "October 12-16, 2025"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-11-01T23:59:59-12:00",
+      "display": "2025-11-01 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Espoo, Finland",
+    "source_url": "https://ubicomp.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: UbiComp/ISWC 最新完整收录为 2025 fourth round，已截止；当前未见 2026/2027 记录。"
+  },
+  {
+    "slug": "uist",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "November 2 - 5, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-03-24T23:59:59-12:00",
+      "display": "2026-03-24 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-03-31T23:59:59-12:00",
+      "display": "2026-03-31 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "GM Renaissance Center, Detroit, MI, USA",
+    "source_url": "https://uist.acm.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: UIST 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "usenix-security",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "August 11-13, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-08-18T23:59:59-12:00",
+      "display": "2026-08-18 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-08-25T23:59:59-12:00",
+      "display": "2026-08-25 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Denver, CO, USA",
+    "source_url": "https://www.usenix.org/conferences/byname/108",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: USENIX Security 2027 Cycle 1。"
+  },
+  {
+    "slug": "vis",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "November 9-13, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-03-21T23:59:59-12:00",
+      "display": "2026-03-21 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-03-31T23:59:59-12:00",
+      "display": "2026-03-31 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Boston, Massachusetts, USA",
+    "source_url": "https://ieeevis.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: IEEE VIS 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "vldb",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "August 23 - August 27, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "2026-07-25 17:00:00 PT",
+      "timezone": "PT",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": null,
+      "display": "2026-08-01 17:00:00 PT",
+      "timezone": "PT",
+      "mandatory": null
+    },
+    "location": "Athens, Greece",
+    "source_url": "https://vldb.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: VLDB 2027 monthly cycle，下一轮为 2026-08-01；后续到 2027-03-01。"
+  },
+  {
+    "slug": "vmcai",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "January 12-13, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-09-15T23:59:59-12:00",
+      "display": "2025-09-15 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Rennes, France",
+    "source_url": "https://www.etaps.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: VMCAI 2026 已截止；当前未见 2027 记录。"
+  },
+  {
+    "slug": "vr",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "February 27 - March 3, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-08-24T23:59:59-12:00",
+      "display": "2026-08-24 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-08-31T23:59:59-12:00",
+      "display": "2026-08-31 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Melbourne, Australia",
+    "source_url": "https://ieeevr.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: IEEE VR 2027。"
   },
   {
     "slug": "vrst",
-    "year": null,
+    "year": 2027,
     "conference_date": {
       "start": null,
       "end": null,
-      "display": "TBD"
+      "display": "未检索到 2027/2026 公开会议日期"
     },
     "abstract_deadline": {
       "datetime": null,
-      "display": "TBD",
+      "display": "未检索到公开摘要截止",
       "timezone": null,
       "mandatory": null
     },
     "paper_deadline": {
       "datetime": null,
-      "display": "TBD",
+      "display": "未检索到公开全文截止",
       "timezone": null,
       "mandatory": null
     },
-    "location": "TBD",
+    "location": "未检索到公开地点",
     "source_url": "https://vrst.acm.org/",
-    "last_checked_at": null,
-    "last_updated_at": null,
-    "confidence": null,
-    "internal_status": "tbd",
-    "notes": ""
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "本轮未能在 ccfddl 已收录 YAML 或会议官网公开入口中确认 2027/2026 主会 DDL；未伪造日期，需后续脚本/人工复核。"
+  },
+  {
+    "slug": "wsdm",
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "February 15 - 19, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-08-17T23:59:59-12:00",
+      "display": "2026-08-17 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-08-24T23:59:59-12:00",
+      "display": "2026-08-24 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Cordis, Hong Kong SAR, China",
+    "source_url": "https://www.wsdm-conference.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: WSDM 2027。"
+  },
+  {
+    "slug": "www",
+    "year": 2026,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 13-17, 2026"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-09-30T23:59:59-12:00",
+      "display": "2025-09-30 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2025-10-07T23:59:59-12:00",
+      "display": "2025-10-07 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Dubai, UAE",
+    "source_url": "https://www.thewebconf.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: WWW/TheWebConf 2027 仅地点公开且 deadline/date 为 TBD；按规则使用 2026，已截止。"
   }
 ]

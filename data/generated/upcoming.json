@@ -1,1 +1,1336 @@
-[]
+[
+  {
+    "slug": "icse",
+    "name": "ICSE",
+    "website": "https://www.icse-conferences.org/",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Software Engineering",
+    "ccf": "A",
+    "nodi_score": 9.3,
+    "accepted_topics": [
+      "软件工程",
+      "软件测试",
+      "程序分析",
+      "代码智能",
+      "软件安全",
+      "软件维护"
+    ],
+    "note": "软件工程顶会。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 25-May 01, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-06-23T23:59:59-12:00",
+      "display": "2026-06-23 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-06-30T23:59:59-12:00",
+      "display": "2026-06-30 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Dublin, Ireland",
+    "source_url": "https://www.icse-conferences.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICSE 2027 Single Submission Cycle。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "popl",
+    "name": "POPL",
+    "website": "https://popl.mpi-sws.org/",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Programming Languages Theory",
+    "ccf": "A",
+    "nodi_score": 9.6,
+    "accepted_topics": [
+      "程序语言理论",
+      "类型系统",
+      "语义",
+      "验证",
+      "逻辑",
+      "形式化方法"
+    ],
+    "note": "PL 理论旗舰。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "January 10-16, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-09T23:59:59-12:00",
+      "display": "2026-07-09 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Mexico City",
+    "source_url": "https://popl.mpi-sws.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: POPL 2027。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "soda",
+    "name": "SODA",
+    "website": "https://www.siam.org/conferences-events/siam-conferences/soda/",
+    "category": "理论计算机科学",
+    "direction": "Algorithms",
+    "ccf": "A",
+    "nodi_score": 9.6,
+    "accepted_topics": [
+      "算法",
+      "数据结构",
+      "优化",
+      "随机算法",
+      "图算法",
+      "近似算法"
+    ],
+    "note": "算法顶会。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "January 24-27, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-09T23:59:59-12:00",
+      "display": "2026-07-09 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Philadelphia, Pennsylvania, USA",
+    "source_url": "https://www.siam.org/conferences-events/siam-conferences/soda/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SODA 2027。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "sigmetrics",
+    "name": "SIGMETRICS",
+    "website": "https://www.sigmetrics.org/sigmetrics/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Performance",
+    "ccf": "B",
+    "nodi_score": 8.7,
+    "accepted_topics": [
+      "性能建模",
+      "性能测量",
+      "排队理论",
+      "系统性能",
+      "网络性能"
+    ],
+    "note": "性能建模与测量强会。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "June 7-11, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-07-03T23:59:00-12:00",
+      "display": "2026-07-03 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-10T23:59:00-12:00",
+      "display": "2026-07-10 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Atlanta, Georgia, USA",
+    "source_url": "https://www.sigmetrics.org/sigmetrics/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SIGMETRICS 2027 summer round；后续还有 fall/winter。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "ches",
+    "name": "CHES",
+    "website": "https://ches.iacr.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Crypto Implementation / Hardware Security",
+    "ccf": "B",
+    "nodi_score": 9.4,
+    "accepted_topics": [
+      "密码实现",
+      "侧信道",
+      "硬件安全",
+      "嵌入式安全",
+      "可信执行",
+      "密码工程"
+    ],
+    "note": "密码实现、侧信道和硬件安全方向顶级会议。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBD, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-15T23:59:59-12:00",
+      "display": "2026-07-15 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBD, Americas",
+    "source_url": "https://ches.iacr.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CHES/TCHES 2027 volume 1；后续还有 2026-10-15、2027-01-15、2027-04-15。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "sigmod",
+    "name": "SIGMOD",
+    "website": "https://sigmod.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Database Systems",
+    "ccf": "A",
+    "nodi_score": 9.5,
+    "accepted_topics": [
+      "数据库系统",
+      "查询处理",
+      "事务",
+      "数据管理",
+      "数据系统",
+      "数据湖"
+    ],
+    "note": "数据库系统旗舰。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "June 13-19, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-07-10T23:59:00-12:00",
+      "display": "2026-07-10 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-17T23:59:00-12:00",
+      "display": "2026-07-17 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Huntington Beach, CA, USA",
+    "source_url": "https://sigmod.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SIGMOD 2027 Round 3 是下一轮；后续还有 2026-10-17。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "kdd",
+    "name": "KDD",
+    "website": "https://kdd.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Data Mining / Applied ML",
+    "ccf": "A",
+    "nodi_score": 9.2,
+    "accepted_topics": [
+      "数据挖掘",
+      "应用机器学习",
+      "推荐系统",
+      "图挖掘",
+      "数据科学",
+      "数据驱动安全"
+    ],
+    "note": "数据挖掘强会，应用与数据科学影响广。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "August 2027 (exact dates TBD)"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-07-19T23:59:59-12:00",
+      "display": "2026-07-19 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-26T23:59:59-12:00",
+      "display": "2026-07-26 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "San Jose, California, USA",
+    "source_url": "https://kdd.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: KDD/SIGKDD 2027 first round。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "aaai",
+    "name": "AAAI",
+    "website": "https://aaai.org/Conferences/AAAI/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "General AI",
+    "ccf": "A",
+    "nodi_score": 8.7,
+    "accepted_topics": [
+      "综合 AI",
+      "机器学习",
+      "规划",
+      "知识表示",
+      "多智能体",
+      "AI 应用"
+    ],
+    "note": "综合 AI 老牌主会，代表作需看贡献。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "February 16-23, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-07-20T23:59:59-12:00",
+      "display": "2026-07-20 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-27T23:59:59-12:00",
+      "display": "2026-07-27 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Montréal, Québec, Canada",
+    "source_url": "https://aaai.org/Conferences/AAAI/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: AAAI 2027。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "infocom",
+    "name": "INFOCOM",
+    "website": "https://ieee-infocom.org/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Computer Networks",
+    "ccf": "A",
+    "nodi_score": 8.8,
+    "accepted_topics": [
+      "网络通信",
+      "网络协议",
+      "无线网络",
+      "边缘网络",
+      "网络优化"
+    ],
+    "note": "网络通信老牌主会，认可度取决于方向匹配。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "May 24 - 27, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-07-24T23:59:59-12:00",
+      "display": "2026-07-24 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-31T23:59:59-12:00",
+      "display": "2026-07-31 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Honolulu, HI, USA",
+    "source_url": "https://ieee-infocom.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: INFOCOM 2027。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "cidr",
+    "name": "CIDR",
+    "website": "https://www.cidrdb.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Innovative Database Research",
+    "ccf": "B",
+    "nodi_score": 8.6,
+    "accepted_topics": [
+      "数据库创新系统",
+      "数据架构",
+      "查询处理",
+      "新型数据管理"
+    ],
+    "note": "数据库小而强的创新会议。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "January 24-27, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-08-04T23:59:59-07:00",
+      "display": "2026-08-04 23:59:59 UTC-7",
+      "timezone": "UTC-7",
+      "mandatory": null
+    },
+    "location": "Amsterdam, The Netherlands",
+    "source_url": "https://www.cidrdb.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CIDR 2027。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "ndss",
+    "name": "NDSS",
+    "website": "https://www.ndss-symposium.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Network / System Security",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "网络安全",
+      "系统安全",
+      "Web 安全",
+      "协议安全",
+      "入侵检测",
+      "安全测量"
+    ],
+    "note": "网络与系统安全顶会。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "March 22 - March 26, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-08-19T23:59:59-12:00",
+      "display": "2026-08-19 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Seoul, Republic of Korea",
+    "source_url": "https://www.ndss-symposium.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: NDSS 2027 Fall deadline；Summer已过。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "asiaccs",
+    "name": "AsiaCCS",
+    "website": "https://asiaccs.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Security",
+    "ccf": "C",
+    "nodi_score": 7.4,
+    "accepted_topics": [
+      "系统安全",
+      "网络安全",
+      "隐私",
+      "软件安全",
+      "应用密码",
+      "AI Security"
+    ],
+    "note": "亚洲安全会议，不与安全四大等价。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 12-16, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-08-21T23:59:59-12:00",
+      "display": "2026-08-21 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Macau, China",
+    "source_url": "https://asiaccs.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: AsiaCCS 2027 first round；second round 为 2026-12-11。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "wsdm",
+    "name": "WSDM",
+    "website": "https://www.wsdm-conference.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Web Search / Data Mining",
+    "ccf": "B",
+    "nodi_score": 8.3,
+    "accepted_topics": [
+      "Web 搜索",
+      "数据挖掘",
+      "推荐系统",
+      "用户建模",
+      "社交网络"
+    ],
+    "note": "Web search 与 data mining 强会。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "February 15 - 19, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-08-17T23:59:59-12:00",
+      "display": "2026-08-17 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-08-24T23:59:59-12:00",
+      "display": "2026-08-24 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Cordis, Hong Kong SAR, China",
+    "source_url": "https://www.wsdm-conference.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: WSDM 2027。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "usenix-security",
+    "name": "USENIX Security",
+    "website": "https://www.usenix.org/conferences/byname/108",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Security / Privacy",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "系统安全",
+      "Web 安全",
+      "软件安全",
+      "隐私攻击与防御",
+      "安全测量",
+      "真实世界攻击与防御系统"
+    ],
+    "note": "安全四大之一，系统安全、Web 安全、隐私方向硬通货。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "August 11-13, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-08-18T23:59:59-12:00",
+      "display": "2026-08-18 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-08-25T23:59:59-12:00",
+      "display": "2026-08-25 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Denver, CO, USA",
+    "source_url": "https://www.usenix.org/conferences/byname/108",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: USENIX Security 2027 Cycle 1。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "pets",
+    "name": "PETS",
+    "website": "https://petsymposium.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Privacy",
+    "ccf": "C",
+    "nodi_score": 8.8,
+    "accepted_topics": [
+      "隐私保护",
+      "匿名通信",
+      "隐私攻击与防御",
+      "差分隐私",
+      "Web 隐私",
+      "用户隐私研究"
+    ],
+    "note": "隐私方向公认强会，方向匹配时权重高。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 19-24, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-08-31T23:59:59-12:00",
+      "display": "2026-08-31 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Delft, The Netherlands",
+    "source_url": "https://petsymposium.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: PETS 2027 Issue 2 Paper Submission Deadline；Issue 1 已过，后续还有 2026-11-30/2027-02-28。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "vr",
+    "name": "IEEE VR",
+    "website": "https://ieeevr.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Virtual Reality",
+    "ccf": "A",
+    "nodi_score": 8.3,
+    "accepted_topics": [
+      "虚拟现实",
+      "增强现实",
+      "沉浸式交互",
+      "三维交互",
+      "VR 系统"
+    ],
+    "note": "VR 方向顶级主会。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "February 27 - March 3, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-08-24T23:59:59-12:00",
+      "display": "2026-08-24 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-08-31T23:59:59-12:00",
+      "display": "2026-08-31 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Melbourne, Australia",
+    "source_url": "https://ieeevr.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: IEEE VR 2027。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "asplos",
+    "name": "ASPLOS",
+    "website": "https://www.asplos-conference.org/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Architecture / Systems / PL",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "体系结构",
+      "操作系统",
+      "编程语言",
+      "编译器",
+      "系统优化",
+      "AI 系统"
+    ],
+    "note": "体系结构、系统和 PL 交叉旗舰。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 11-15, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-09T23:59:59-12:00",
+      "display": "2026-09-09 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Crete, Greece",
+    "source_url": "https://www.asplos-conference.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ASPLOS 2027 September Cycle；April Cycle已过。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "chi",
+    "name": "CHI",
+    "website": "https://chi.acm.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Human-Computer Interaction",
+    "ccf": "A",
+    "nodi_score": 9.2,
+    "accepted_topics": [
+      "人机交互",
+      "用户研究",
+      "交互系统",
+      "可用性",
+      "社会计算",
+      "AI 交互"
+    ],
+    "note": "HCI 顶会。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "May 10 - 14, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-10T23:59:59-12:00",
+      "display": "2026-09-10 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "David L. Lawrence Convention Center, Pittsburgh, USA",
+    "source_url": "https://chi.acm.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CHI 2027。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "fast",
+    "name": "FAST",
+    "website": "https://www.usenix.org/conferences/byname/63",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Storage Systems",
+    "ccf": "A",
+    "nodi_score": 9.8,
+    "accepted_topics": [
+      "存储系统",
+      "文件系统",
+      "键值存储",
+      "持久内存",
+      "云存储",
+      "数据可靠性"
+    ],
+    "note": "存储系统旗舰会议。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "FEBRUARY 23-25, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-15T23:59:00-12:00",
+      "display": "2026-09-15 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Renton, WA, USA",
+    "source_url": "https://www.usenix.org/conferences/byname/63",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: FAST 2027 Fall deadline；Spring deadline 已过。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "nsdi",
+    "name": "NSDI",
+    "website": "https://www.usenix.org/conferences/byname/135",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Networked Systems",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "网络系统",
+      "分布式系统",
+      "云边系统",
+      "数据中心系统",
+      "系统安全交叉"
+    ],
+    "note": "网络系统顶会，系统、网络、云边和安全交叉价值高。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "May 11-13, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-09-10T23:59:59-04:00",
+      "display": "2026-09-10 23:59:59 UTC-4",
+      "timezone": "UTC-4",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-17T23:59:59-04:00",
+      "display": "2026-09-17 23:59:59 UTC-4",
+      "timezone": "UTC-4",
+      "mandatory": null
+    },
+    "location": "Providence, RI, USA",
+    "source_url": "https://www.usenix.org/conferences/byname/135",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: NSDI 2027 second cycle；first cycle已过。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "eurocrypt",
+    "name": "EUROCRYPT",
+    "website": "https://eurocrypt.iacr.org/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Cryptography",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "理论密码",
+      "密码协议",
+      "可证明安全",
+      "公钥密码",
+      "安全多方计算",
+      "零知识证明"
+    ],
+    "note": "密码学最高级别会议之一。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 11-15, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-17T23:59:59-12:00",
+      "display": "2026-09-17 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Eindhoven, Netherlands",
+    "source_url": "https://eurocrypt.iacr.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: EUROCRYPT 2027。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "fc",
+    "name": "FC",
+    "website": "https://fc.ifca.ai/",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Financial Cryptography",
+    "ccf": "C",
+    "nodi_score": 7.6,
+    "accepted_topics": [
+      "金融密码",
+      "区块链安全",
+      "数字货币",
+      "隐私支付",
+      "应用密码"
+    ],
+    "note": "金融密码、区块链与应用密码方向认可。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "February 8-12, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-17T23:59:59-12:00",
+      "display": "2026-09-17 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "location": "Barbados (tentative)",
+    "source_url": "https://fc.ifca.ai/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: Financial Crypto 2027。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "eurosys",
+    "name": "EuroSys",
+    "website": "https://www.eurosys.org/",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Systems",
+    "ccf": "A",
+    "nodi_score": 9.5,
+    "accepted_topics": [
+      "操作系统",
+      "分布式系统",
+      "云系统",
+      "系统设计",
+      "系统性能"
+    ],
+    "note": "欧洲系统强会，系统方向强认可。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 19-24, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-09-17T23:59:59-12:00",
+      "display": "2026-09-17 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-24T23:59:59-12:00",
+      "display": "2026-09-24 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Rabat, Morocco",
+    "source_url": "https://www.eurosys.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: EuroSys 2027 Fall Submission Deadline；Spring deadline 已过。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "saner",
+    "name": "SANER",
+    "website": "https://conf.researchr.org/series/saner",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Software Analysis / Evolution",
+    "ccf": "B",
+    "nodi_score": 7.3,
+    "accepted_topics": [
+      "软件分析",
+      "软件演化",
+      "程序理解",
+      "代码质量",
+      "维护"
+    ],
+    "note": "软件分析与演化方向认可。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "March 9-12, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-09-21T23:59:59-12:00",
+      "display": "2026-09-21 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-25T23:59:59-12:00",
+      "display": "2026-09-25 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Richmond, Virginia, United States",
+    "source_url": "https://conf.researchr.org/series/saner",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SANER 2027。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "fse",
+    "name": "FSE",
+    "website": "https://conf.researchr.org/series/fse",
+    "category": "软件工程 / 程序语言 / 形式化方法",
+    "direction": "Software Engineering",
+    "ccf": "A",
+    "nodi_score": 9.2,
+    "accepted_topics": [
+      "软件工程",
+      "软件测试",
+      "程序分析",
+      "软件安全",
+      "代码智能",
+      "软件维护"
+    ],
+    "note": "软件工程顶会。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 12-16, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-02T23:59:59-12:00",
+      "display": "2026-10-02 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Shenzhen, China",
+    "source_url": "https://conf.researchr.org/series/fse",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: FSE 2027。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "edbt",
+    "name": "EDBT",
+    "website": "https://edbt.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Database Systems",
+    "ccf": "B",
+    "nodi_score": 7.5,
+    "accepted_topics": [
+      "数据库系统",
+      "数据管理",
+      "查询处理",
+      "分布式数据库"
+    ],
+    "note": "欧洲数据库方向会议。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 6-9, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-07T23:59:59-12:00",
+      "display": "2026-10-07 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Lille, France",
+    "source_url": "https://edbt.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: EDBT 2027 third deadline；前两轮为 2026-02-04/2026-06-10。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "icdt",
+    "name": "ICDT",
+    "website": "https://icdt.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Database Theory",
+    "ccf": "B",
+    "nodi_score": 7.4,
+    "accepted_topics": [
+      "数据库理论",
+      "查询语言",
+      "数据逻辑",
+      "复杂性理论"
+    ],
+    "note": "数据库理论方向会议。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "April 6-9, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-07T23:59:59-12:00",
+      "display": "2026-10-07 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Lille, France",
+    "source_url": "https://icdt.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICDT 与 EDBT 联合会议；使用 EDBT/ICDT 2027 公开日期，需后续核验 ICDT 独立 CFP。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "icde",
+    "name": "ICDE",
+    "website": "https://ieee-icde.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Data Engineering",
+    "ccf": "A",
+    "nodi_score": 9.0,
+    "accepted_topics": [
+      "数据工程",
+      "数据库系统",
+      "数据管理",
+      "流数据",
+      "数据集成"
+    ],
+    "note": "数据工程强会，系统与数据管理认可度高。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "May 17-21, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-11-11T17:00:00-07:00",
+      "display": "2026-11-11 17:00:00 UTC-7",
+      "timezone": "UTC-7",
+      "mandatory": null
+    },
+    "location": "Copenhagen, Denmark",
+    "source_url": "https://ieee-icde.org/",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICDE 2027 second round；first round已过。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "ieee-sp",
+    "name": "IEEE S&P",
+    "website": "https://www.ieee-security.org/TC/SP-Index.html",
+    "category": "安全 / 隐私 / 密码学",
+    "direction": "Security / Privacy",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "系统安全",
+      "网络安全",
+      "隐私",
+      "安全测量",
+      "AI Security",
+      "可用安全"
+    ],
+    "note": "安全四大之一，高校与工业界均高度认可。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "未公开"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-11-10T23:59:59-12:00",
+      "display": "2026-11-10 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-11-17T23:59:59-12:00",
+      "display": "2026-11-17 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Montreal, Canada",
+    "source_url": "https://www.ieee-security.org/TC/SP-Index.html",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: S&P 2027 second submission cycle; first cycle已过。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "osdi",
+    "name": "OSDI",
+    "website": "https://www.usenix.org/conferences/byname/179",
+    "category": "系统 / 网络 / 体系结构 / 存储 / HPC / 实时系统",
+    "direction": "Operating Systems / Systems",
+    "ccf": "A",
+    "nodi_score": 10.0,
+    "accepted_topics": [
+      "操作系统",
+      "分布式系统",
+      "云系统",
+      "系统设计",
+      "系统实现"
+    ],
+    "note": "系统设计旗舰，高校与工业界认可极高。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "July 7-9, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-12-01T22:59:59+00:00",
+      "display": "2026-12-01 22:59:59 UTC",
+      "timezone": "UTC",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-12-08T22:59:59+00:00",
+      "display": "2026-12-08 22:59:59 UTC",
+      "timezone": "UTC",
+      "mandatory": null
+    },
+    "location": "Baltimore, MD, USA",
+    "source_url": "https://www.usenix.org/conferences/byname/179",
+    "last_checked_at": "2026-06-26T15:40:41Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.95,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: OSDI 2027。",
+    "website_source": "nodi"
+  }
+]
