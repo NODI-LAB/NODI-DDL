@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import Image from "next/image";
 import Link from "next/link";
+import { assetPath } from "@/lib/assets";
 import "./globals.css";
 
 const siteTitle = "NODI Conference Deadlines";
@@ -15,11 +16,11 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "/nodi-lab-icon.png",
+        url: assetPath("/nodi-lab-icon.png"),
         type: "image/png"
       }
     ],
-    apple: "/nodi-lab-icon.png"
+    apple: assetPath("/nodi-lab-icon.png")
   }
 };
 
@@ -31,11 +32,11 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
           <div className="mx-auto flex max-w-7xl flex-col gap-4 px-4 py-4 sm:px-6 lg:flex-row lg:items-center lg:justify-between lg:px-8">
             <Link href="/" className="flex items-center gap-3">
               <Image
-                src="/nodi-lab-icon.png"
+                src={assetPath("/nodi-lab-icon.png")}
                 alt="NODI Lab"
                 width={34}
                 height={34}
-                className="h-9 w-9 rounded-full"
+                className="h-9 w-9 rounded-full object-contain"
                 priority
               />
               <span className="text-xl font-semibold tracking-normal text-ink">{siteTitle}</span>
