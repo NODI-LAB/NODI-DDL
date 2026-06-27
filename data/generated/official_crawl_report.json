@@ -1,0 +1,767 @@
+[
+  {
+    "slug": "ieee-sp",
+    "url": "https://www.ieee-security.org/TC/SP-Index.html",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "usenix-security",
+    "url": "https://www.usenix.org/conferences/byname/108",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "ccs",
+    "url": "https://www.sigsac.org/ccs.html",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "ndss",
+    "url": "https://www.ndss-symposium.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "crypto",
+    "url": "https://crypto.iacr.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "eurocrypt",
+    "url": "https://eurocrypt.iacr.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "asiacrypt",
+    "url": "https://asiacrypt.iacr.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "ches",
+    "url": "https://ches.iacr.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "tcc",
+    "url": "https://tcc.iacr.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "pkc",
+    "url": "https://pkc.iacr.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "csf",
+    "url": "https://www.ieee-security.org/TC/CSF/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "pets",
+    "url": "https://petsymposium.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "eurosp",
+    "url": "https://www.ieee-security.org/TC/EuroSP/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "raid",
+    "url": "https://raid-symposium.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "esorics",
+    "url": "https://esorics.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "acsac",
+    "url": "https://www.acsac.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "dsn",
+    "url": "https://dsn.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "soups",
+    "url": "https://www.usenix.org/conferences/byname/925",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "dimva",
+    "url": "https://dimva.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "fc",
+    "url": "https://fc.ifca.ai/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "asiaccs",
+    "url": "https://asiaccs.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "sosp",
+    "url": "https://sigops.org/s/conferences/sosp/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "osdi",
+    "url": "https://www.usenix.org/conferences/byname/179",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "sigcomm",
+    "url": "https://conferences.sigcomm.org/sigcomm/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "nsdi",
+    "url": "https://www.usenix.org/conferences/byname/135",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "isca",
+    "url": "https://iscaconf.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "micro",
+    "url": "https://microarch.org/micro/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "asplos",
+    "url": "https://www.asplos-conference.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "hpca",
+    "url": "https://hpca-conf.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "fast",
+    "url": "https://www.usenix.org/conferences/byname/63",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "sc",
+    "url": "https://supercomputing.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "mobicom",
+    "url": "https://www.sigmobile.org/mobicom/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "eurosys",
+    "url": "https://www.eurosys.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "atc",
+    "url": "https://www.usenix.org/conferences/byname/131",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "imc",
+    "url": "https://conferences.sigcomm.org/imc/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "conext",
+    "url": "https://conferences.sigcomm.org/co-next/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "ppopp",
+    "url": "https://ppopp.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "mobisys",
+    "url": "https://www.sigmobile.org/mobisys/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "infocom",
+    "url": "https://ieee-infocom.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "sigmetrics",
+    "url": "https://www.sigmetrics.org/sigmetrics/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "rtss",
+    "url": "https://rtss.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "neurips",
+    "url": "https://neurips.cc/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "icml",
+    "url": "https://icml.cc/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "iclr",
+    "url": "https://iclr.cc/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "cvpr",
+    "url": "https://cvpr.thecvf.com/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "acl",
+    "url": "https://www.aclweb.org/portal/acl",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "iccv",
+    "url": "https://iccv.thecvf.com/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "colt",
+    "url": "https://learningtheory.org/colt/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "eccv",
+    "url": "https://eccv.ecva.net/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "emnlp",
+    "url": "https://www.aclweb.org/portal/emnlp",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "aaai",
+    "url": "https://aaai.org/Conferences/AAAI/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "icra",
+    "url": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "uai",
+    "url": "https://www.auai.org/uai/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "aistats",
+    "url": "https://aistats.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "naacl",
+    "url": "https://www.aclweb.org/portal/naacl",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "coling",
+    "url": "https://coling.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "corl",
+    "url": "https://www.corl.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "ijcai",
+    "url": "https://ijcai.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "iros",
+    "url": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "aamas",
+    "url": "https://aamas.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "kr",
+    "url": "https://kr.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "icaps",
+    "url": "https://www.icaps-conference.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "pldi",
+    "url": "https://pldi.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "popl",
+    "url": "https://popl.mpi-sws.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "oopsla",
+    "url": "https://www.sigplan.org/Conferences/OOPSLA/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "icse",
+    "url": "https://www.icse-conferences.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "fse",
+    "url": "https://conf.researchr.org/series/fse",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "fm",
+    "url": "https://formalmethods.github.io/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "ase",
+    "url": "https://conf.researchr.org/series/ase",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "issta",
+    "url": "https://conf.researchr.org/series/issta",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "vmcai",
+    "url": "https://www.etaps.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "sas",
+    "url": "https://staticanalysis.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "icfp",
+    "url": "https://icfpconference.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "ecoop",
+    "url": "https://www.ecoop.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "middleware",
+    "url": "https://middleware-conf.github.io/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "issre",
+    "url": "https://issre.github.io/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "msr",
+    "url": "https://conf.researchr.org/series/msr",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "icsme",
+    "url": "https://conf.researchr.org/series/icsme",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "saner",
+    "url": "https://conf.researchr.org/series/saner",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "re",
+    "url": "https://conf.researchr.org/series/RE",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "icpc",
+    "url": "https://conf.researchr.org/series/icpc",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "icst",
+    "url": "https://conf.researchr.org/series/icst",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "sigmod",
+    "url": "https://sigmod.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "vldb",
+    "url": "https://vldb.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "kdd",
+    "url": "https://kdd.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "sigir",
+    "url": "https://sigir.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "icde",
+    "url": "https://ieee-icde.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "www",
+    "url": "https://www.thewebconf.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "pods",
+    "url": "https://sigmod.org/pods-home/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "cidr",
+    "url": "https://www.cidrdb.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "wsdm",
+    "url": "https://www.wsdm-conference.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "recsys",
+    "url": "https://recsys.acm.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "cikm",
+    "url": "https://cikm.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "icdm",
+    "url": "https://www.ieee-icdm.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "iswc",
+    "url": "https://iswc.semanticweb.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "sdm",
+    "url": "https://www.siam.org/conferences-events/siam-conferences/sdm/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "edbt",
+    "url": "https://edbt.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "icdt",
+    "url": "https://icdt.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "ecir",
+    "url": "https://www.ecir.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "sigspatial",
+    "url": "https://sigspatial.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "chiir",
+    "url": "https://sigir.org/chiir/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "stoc",
+    "url": "https://acm-stoc.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "focs",
+    "url": "https://focs.computer.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "soda",
+    "url": "https://www.siam.org/conferences-events/siam-conferences/soda/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "cav",
+    "url": "https://i-cav.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "lics",
+    "url": "https://lics.siglog.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "ccc",
+    "url": "https://computationalcomplexity.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "itcs",
+    "url": "https://itcs-conf.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "socg",
+    "url": "https://www.computational-geometry.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "esa",
+    "url": "https://algo-conference.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "icalp",
+    "url": "https://eatcs.org/index.php/icalp",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "fmcad",
+    "url": "https://fmcad.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "sat",
+    "url": "https://satisfiability.org/SAT/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "concur",
+    "url": "https://concur-conference.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "hscc",
+    "url": "https://hscc.acm.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "siggraph",
+    "url": "https://www.siggraph.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "chi",
+    "url": "https://chi.acm.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "acm-mm",
+    "url": "https://acmmm.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "uist",
+    "url": "https://uist.acm.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "vis",
+    "url": "https://ieeevis.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "cscw",
+    "url": "https://cscw.acm.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "ubicomp",
+    "url": "https://ubicomp.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "vr",
+    "url": "https://ieeevr.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "eurographics",
+    "url": "https://www.eg.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "eurovis",
+    "url": "https://www.eurovis.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "miccai",
+    "url": "https://conferences.miccai.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "ismb",
+    "url": "https://www.iscb.org/ismb",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "recomb",
+    "url": "https://recomb.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "ismar",
+    "url": "https://ismar.net/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "sgp",
+    "url": "https://sgp2026.github.io/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "egsr",
+    "url": "https://www.egsr-conference.org/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "sca",
+    "url": "https://www.siggraph.org/learn/conferences/symposium-on-computer-animation/",
+    "status": "fetch_failed"
+  },
+  {
+    "slug": "dis",
+    "url": "https://dis.acm.org/",
+    "status": "ok",
+    "candidate_count": 0
+  },
+  {
+    "slug": "vrst",
+    "url": "https://vrst.acm.org/",
+    "status": "ok",
+    "candidate_count": 0
+  }
+]
