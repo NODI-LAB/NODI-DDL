@@ -1,4 +1,11 @@
 {
+  "mlciv_sources": [
+    {
+      "name": "mlciv ai deadlines",
+      "url": "https://mlciv.com/ai-deadlines/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI,EDU",
+      "format": "html"
+    }
+  ],
   "ccfddl_sources": [
     {
       "name": "ccfddl conferences yml",

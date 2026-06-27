@@ -167,7 +167,7 @@ export function ConferenceTable({ conferences, categories }: ConferenceTableProp
 
       <div className="overflow-hidden rounded-lg border border-line bg-white shadow-soft">
         <div className="overflow-x-auto">
-          <table className="w-full min-w-[1320px] table-fixed border-separate border-spacing-0 text-left">
+          <table className="w-full min-w-[1410px] table-fixed border-separate border-spacing-0 text-left">
             <colgroup>
               <col style={{ width: "145px" }} />
               <col style={{ width: "150px" }} />
@@ -177,7 +177,7 @@ export function ConferenceTable({ conferences, categories }: ConferenceTableProp
               <col style={{ width: "135px" }} />
               <col style={{ width: "125px" }} />
               <col style={{ width: "125px" }} />
-              <col style={{ width: "105px" }} />
+              <col style={{ width: "195px" }} />
               <col style={{ width: "160px" }} />
             </colgroup>
             <thead className="bg-neutral-50">

@@ -1,0 +1,701 @@
+[
+  {
+    "slug": "aaai",
+    "title": "AAAI",
+    "year": 2027,
+    "website": "https://aaai.org/conference/aaai/aaai-27/",
+    "conference_date": {
+      "start": "2027-02-16",
+      "end": "2027-02-23",
+      "display": "February 16-23, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-28T23:59:59-12:00",
+      "display": "2026-07-28 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Montréal, Canada",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://aaai.org/conference/aaai/aaai-27/",
+    "source_record_id": "aaai27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.88,
+    "notes": "Supplementary material and code due July 31, 2026. Final notification Nov 30, 2026. All deadlines AoE (UTC-12). More info here."
+  },
+  {
+    "slug": "acl",
+    "title": "ACL",
+    "year": 2027,
+    "website": "https://2027.aclweb.org/",
+    "conference_date": {
+      "start": "2027-07-01",
+      "end": "2027-07-31",
+      "display": "July 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2027-01-05T23:59:59-12:00",
+      "display": "2027-01-05 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://2027.aclweb.org/",
+    "source_record_id": "acl27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical ACL pattern (past deadlines — 2026 Jan 5, 2025 Feb 15, 2024 Feb 15). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "acm-mm",
+    "title": "MM",
+    "year": 2027,
+    "website": "https://2027.acmmm.org/",
+    "conference_date": {
+      "start": "2027-10-28",
+      "end": "2027-11-01",
+      "display": "October 28 - November 1, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2027-04-08T23:59:59-12:00",
+      "display": "2027-04-08 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://2027.acmmm.org/",
+    "source_record_id": "mm27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical MM pattern (past deadlines — 2025 Apr 8, 2024 Apr 8, 2023 Apr 30). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "aistats",
+    "title": "AISTATS",
+    "year": 2027,
+    "website": "https://virtual.aistats.org/Conferences/2027/CallForPapers",
+    "conference_date": {
+      "start": "2027-05-02",
+      "end": "2027-05-05",
+      "display": "May 2-5, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-02T23:59:59-12:00",
+      "display": "2026-10-02 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://virtual.aistats.org/Conferences/2027/CallForPapers",
+    "source_record_id": "aistats27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical AISTATS pattern (past deadlines — 2025 Oct 2, 2024 Oct 10, 2023 Oct 16). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "chi",
+    "title": "CHI",
+    "year": 2027,
+    "website": "https://chi2027.acm.org/authors/papers/",
+    "conference_date": {
+      "start": "2027-05-10",
+      "end": "2027-05-14",
+      "display": "May 10-14, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-10T23:59:59-12:00",
+      "display": "2026-09-10 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Pittsburgh, Pennsylvania, USA",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://chi2027.acm.org/authors/papers/",
+    "source_record_id": "chi27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.88,
+    "notes": "CHI 2027 papers (AoE): no abstract deadline. Submission site opens July 30, 2026; full paper deadline September 10, 2026 (includes videos and supplementary materials). Revise-and-resubmit phase with resubmission December 3, 2026; final notification December 17, 2026. More info here."
+  },
+  {
+    "slug": "cikm",
+    "title": "CIKM",
+    "year": 2027,
+    "website": "http://www.cikmconference.org/",
+    "conference_date": {
+      "start": "2027-11-01",
+      "end": "2027-11-30",
+      "display": "November 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2027-05-23T23:59:59-12:00",
+      "display": "2027-05-23 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Sydney, Australia",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "http://www.cikmconference.org/",
+    "source_record_id": "CIKM27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical CIKM pattern (past deadlines — 2026 May 23, 2025 May 23, 2024 May 20). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "coling",
+    "title": "COLING",
+    "year": 2027,
+    "website": "https://2027.coling-iccl.org/",
+    "conference_date": {
+      "start": "2027-05-09",
+      "end": "2027-05-14",
+      "display": "May 9-14, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-12T23:59:00-12:00",
+      "display": "2026-10-12 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Macau, China",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://2027.coling-iccl.org/",
+    "source_record_id": "coling27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted — COLING 2027 expected to use ARR, with commitment from the October 2026 cycle (ARR submission deadline Oct 12, 2026). Host Macau and dates May 9-14 confirmed; ARR participation not yet officially announced. Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "cvpr",
+    "title": "CVPR",
+    "year": 2027,
+    "website": "https://cvpr.thecvf.com/Conferences/2027/CallForPapers",
+    "conference_date": {
+      "start": "2027-06-17",
+      "end": "2027-06-21",
+      "display": "June 17-21, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2026-11-13T23:59:59-12:00",
+      "display": "2026-11-13 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://cvpr.thecvf.com/Conferences/2027/CallForPapers",
+    "source_record_id": "cvpr27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical CVPR pattern (past deadlines — 2025 Nov 13, 2024 Nov 15, 2023 Nov 17). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "ecir",
+    "title": "ECIR",
+    "year": 2027,
+    "website": "https://www.ecir2027.co.uk/call-for-full-papers",
+    "conference_date": {
+      "start": "2027-03-21",
+      "end": "2027-03-25",
+      "display": "March 21-25, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-02T23:59:59+00:00",
+      "display": "2026-10-02 23:59:59 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "location": "Southampton, UK",
+    "timezone": "UTC+0",
+    "source": "mlciv",
+    "source_url": "https://www.ecir2027.co.uk/call-for-full-papers",
+    "source_record_id": "ecir27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.88,
+    "notes": "Full paper abstract and paper deadlines are 11:59 pm GMT. More info here."
+  },
+  {
+    "slug": "emnlp",
+    "title": "EMNLP",
+    "year": 2027,
+    "website": "https://2027.emnlp.org/",
+    "conference_date": {
+      "start": "2027-10-24",
+      "end": "2027-10-29",
+      "display": "October 24-29, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2027-05-25T23:59:59-12:00",
+      "display": "2027-05-25 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://2027.emnlp.org/",
+    "source_record_id": "emnlp27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical EMNLP pattern (past deadlines — 2026 May 25, 2025 May 19, 2024 Jun 15). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "iccv",
+    "title": "ICCV",
+    "year": 2027,
+    "website": "https://iccv.thecvf.com/",
+    "conference_date": {
+      "start": "2027-10-02",
+      "end": "2027-10-08",
+      "display": "October 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2027-03-07T23:59:59-12:00",
+      "display": "2027-03-07 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Hong Kong",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://iccv.thecvf.com/",
+    "source_record_id": "iccv27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical ICCV biennial pattern (past deadlines — 2025 Mar 7, 2023 Mar 8). Host city Hong Kong confirmed by CVF; dates and deadline not yet announced. Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "icde",
+    "title": "ICDE-2",
+    "year": 2027,
+    "website": "https://icde2027.github.io/important-dates.html",
+    "conference_date": {
+      "start": "2027-05-17",
+      "end": "2027-05-21",
+      "display": "May 17-21, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2026-11-11T17:00:00-08:00",
+      "display": "2026-11-11 17:00:00 America/Los_Angeles",
+      "timezone": "America/Los_Angeles",
+      "mandatory": null
+    },
+    "location": "Copenhagen, Denmark",
+    "timezone": "America/Los_Angeles",
+    "source": "mlciv",
+    "source_url": "https://icde2027.github.io/important-dates.html",
+    "source_record_id": "icde27-2",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.88,
+    "notes": "Research track round 2. All deadlines 5:00 p.m. Pacific Time. More info here."
+  },
+  {
+    "slug": "icdm",
+    "title": "ICDM",
+    "year": 2027,
+    "website": "http://icdm2027.neu.edu.cn/",
+    "conference_date": {
+      "start": "2027-11-12",
+      "end": "2027-11-15",
+      "display": "November 12-15, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2027-06-06T23:59:59-12:00",
+      "display": "2027-06-06 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "http://icdm2027.neu.edu.cn/",
+    "source_record_id": "icdm27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical ICDM pattern (past deadlines — 2026 Jun 6, 2025 Jun 6, 2024 Jun 14). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "iclr",
+    "title": "ICLR",
+    "year": 2027,
+    "website": "https://iclr.cc/Conferences/2027/CallForPapers",
+    "conference_date": {
+      "start": "2027-04-24",
+      "end": "2027-04-28",
+      "display": "Apr 24-28, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-24T23:59:59-12:00",
+      "display": "2026-09-24 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://iclr.cc/Conferences/2027/CallForPapers",
+    "source_record_id": "iclr27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical ICLR pattern (past deadlines — 2025 Sep 24, 2024 Oct 1, 2023 Sep 28). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "icml",
+    "title": "ICML",
+    "year": 2027,
+    "website": "https://icml.cc/Conferences/2027",
+    "conference_date": {
+      "start": "2027-07-01",
+      "end": "2027-07-31",
+      "display": "July 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2027-01-28T23:59:59-08:00",
+      "display": "2027-01-28 23:59:59 America/Los_Angeles",
+      "timezone": "America/Los_Angeles",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "America/Los_Angeles",
+    "source": "mlciv",
+    "source_url": "https://icml.cc/Conferences/2027",
+    "source_record_id": "icml27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical ICML pattern (past deadlines — 2026 Jan 28, 2024 Feb 1, 2023 Jan 26). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "icra",
+    "title": "ICRA",
+    "year": 2027,
+    "website": "https://2027.ieee-icra.org/contribute/",
+    "conference_date": {
+      "start": "2027-06-01",
+      "end": "2027-06-05",
+      "display": "June 1-5, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-15T23:59:59-07:00",
+      "display": "2026-09-15 23:59:59 America/Los_Angeles",
+      "timezone": "America/Los_Angeles",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "America/Los_Angeles",
+    "source": "mlciv",
+    "source_url": "https://2027.ieee-icra.org/contribute/",
+    "source_record_id": "icra27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical ICRA pattern (past deadlines — 2025 Sep 15, 2024 Sep 15, 2023 Sep 15). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "ijcai",
+    "title": "IJCAI",
+    "year": 2027,
+    "website": "https://2027.ijcai.org/",
+    "conference_date": {
+      "start": "2027-08-01",
+      "end": "2027-08-31",
+      "display": "August 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2027-01-19T23:59:59-12:00",
+      "display": "2027-01-19 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://2027.ijcai.org/",
+    "source_record_id": "ijcai27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical IJCAI pattern (past deadlines — 2025 Jan 23, 2024 Jan 17, 2023 Jan 18). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "iros",
+    "title": "IROS",
+    "year": 2027,
+    "website": "https://iros2027-abudhabi.org/",
+    "conference_date": {
+      "start": "2027-10-14",
+      "end": "2027-10-18",
+      "display": "October 14-18, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2027-03-01T23:59:59-08:00",
+      "display": "2027-03-01 23:59:59 America/Los_Angeles",
+      "timezone": "America/Los_Angeles",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "America/Los_Angeles",
+    "source": "mlciv",
+    "source_url": "https://iros2027-abudhabi.org/",
+    "source_record_id": "iros27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical IROS pattern (past deadlines — 2025 Mar 1, 2024 Mar 1, 2023 Mar 1). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "kdd",
+    "title": "KDD-2",
+    "year": 2027,
+    "website": "https://kdd2027.kdd.org/",
+    "conference_date": {
+      "start": "2027-08-03",
+      "end": "2027-08-07",
+      "display": "August 25-29, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2027-02-10T23:59:59-12:00",
+      "display": "2027-02-10 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://kdd2027.kdd.org/",
+    "source_record_id": "kdd26-227",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical KDD-2 pattern (past deadlines — 2026 Feb 10, 2025 Feb 10). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "naacl",
+    "title": "NAACL",
+    "year": 2027,
+    "website": "https://naacl.org/",
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBA"
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-12T23:59:00-12:00",
+      "display": "2026-10-12 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://naacl.org/",
+    "source_record_id": "naacl27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted — NAACL 2027 expected to use ARR, with commitment from the October 2026 cycle (ARR submission deadline Oct 12, 2026). Conference dates and venue not yet announced; ARR participation not yet officially confirmed. Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "neurips",
+    "title": "NeurIPS",
+    "year": 2027,
+    "website": "https://neurips.cc/Conferences/FutureMeetings",
+    "conference_date": {
+      "start": "2027-12-01",
+      "end": "2027-12-31",
+      "display": "December 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2027-05-06T23:59:59+00:00",
+      "display": "2027-05-06 23:59:59 UTC",
+      "timezone": "UTC",
+      "mandatory": null
+    },
+    "location": "Europe",
+    "timezone": "UTC",
+    "source": "mlciv",
+    "source_url": "https://neurips.cc/Conferences/FutureMeetings",
+    "source_record_id": "neurips27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical NeurIPS pattern (past deadlines — 2026 May 6, 2025 May 16, 2024 May 22). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "recsys",
+    "title": "RecSys",
+    "year": 2027,
+    "website": "https://recsys.acm.org/recsys26/recsys-26-call-for-contributions/",
+    "conference_date": {
+      "start": "2027-09-28",
+      "end": "2027-10-02",
+      "display": "September 28 - October 2, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2027-04-21T23:59:59-12:00",
+      "display": "2027-04-21 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://recsys.acm.org/recsys26/recsys-26-call-for-contributions/",
+    "source_record_id": "recsys27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical RecSys pattern (past deadlines — 2026 Apr 21, 2023 Apr 21, 2022 May 3). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "siggraph",
+    "title": "SIGGRAPH",
+    "year": 2027,
+    "website": "https://s2027.siggraph.org/",
+    "conference_date": {
+      "start": "2027-07-28",
+      "end": "2027-08-01",
+      "display": "July 28 - August 1, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2027-01-24T23:59:59+00:00",
+      "display": "2027-01-24 23:59:59 GMT",
+      "timezone": "GMT",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "GMT",
+    "source": "mlciv",
+    "source_url": "https://s2027.siggraph.org/",
+    "source_record_id": "siggraph27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical SIGGRAPH pattern (past deadlines — 2025 Jan 24, 2024 Jan 24, 2023 Jan 24). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "sigir",
+    "title": "SIGIR",
+    "year": 2027,
+    "website": "https://sigir2027.org/en-AU/pages/attending/key-dates",
+    "conference_date": {
+      "start": "2027-07-20",
+      "end": "2027-07-24",
+      "display": "July 20-24, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2027-01-22T23:59:59-12:00",
+      "display": "2027-01-22 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://sigir2027.org/en-AU/pages/attending/key-dates",
+    "source_record_id": "sigir27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical SIGIR pattern (past deadlines — 2026 Jan 22, 2024 Jan 25, 2023 Jan 31). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "sigmod",
+    "title": "SIGMOD-3",
+    "year": 2027,
+    "website": "https://2027.sigmod.org/",
+    "conference_date": {
+      "start": "2027-06-13",
+      "end": "2027-06-19",
+      "display": "June 13-19, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-17T23:59:00-12:00",
+      "display": "2026-07-17 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Huntington Beach, California, USA",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://2027.sigmod.org/",
+    "source_record_id": "sigmod27-3",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.88
+  },
+  {
+    "slug": "uai",
+    "title": "UAI",
+    "year": 2027,
+    "website": "https://www.auai.org/uai2027/",
+    "conference_date": {
+      "start": "2027-07-01",
+      "end": "2027-07-31",
+      "display": "July 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2027-02-25T23:59:59-12:00",
+      "display": "2027-02-25 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://www.auai.org/uai2027/",
+    "source_record_id": "uai27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical UAI pattern (past deadlines — 2026 Feb 25, 2025 Jan 5, 2024 Feb 9). Please verify on the official conference website. More info here."
+  },
+  {
+    "slug": "wsdm",
+    "title": "WSDM",
+    "year": 2027,
+    "website": "https://wsdm-conference.org/2027/",
+    "conference_date": {
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "display": "February 15-19, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2026-08-24T23:59:59-12:00",
+      "display": "2026-08-24 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Hong Kong",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://wsdm-conference.org/2027/",
+    "source_record_id": "wsdm27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.88,
+    "notes": "Notification Nov 2, 2026. All deadlines are 11:59 pm AoE. More info here."
+  },
+  {
+    "slug": "www",
+    "title": "WWW",
+    "year": 2027,
+    "website": "https://www2027.thewebconf.org/",
+    "conference_date": {
+      "start": "2027-04-01",
+      "end": "2027-04-30",
+      "display": "TBA, 2027"
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-13T23:59:59-12:00",
+      "display": "2026-10-13 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Dublin, Ireland",
+    "timezone": "AoE",
+    "source": "mlciv",
+    "source_url": "https://www2027.thewebconf.org/",
+    "source_record_id": "www27",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "confidence": 0.68,
+    "notes": "Predicted deadline based on historical WWW pattern (past deadlines — 2025 Oct 13, 2022 Oct 13). Please verify on the official conference website. More info here."
+  }
+]

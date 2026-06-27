@@ -243,8 +243,8 @@
     "enabled": true,
     "year": 2027,
     "conference_date": {
-      "start": null,
-      "end": null,
+      "start": "2027-06-13",
+      "end": "2027-06-19",
       "display": "June 13-19, 2027"
     },
     "abstract_deadline": {
@@ -259,58 +259,13 @@
       "timezone": "AoE",
       "mandatory": null
     },
-    "location": "Huntington Beach, CA, USA",
-    "source_url": "https://sigmod.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
+    "location": "Huntington Beach, California, USA",
+    "source_url": "https://2027.sigmod.org/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
+    "confidence": 0.88,
     "internal_status": "agent_checked",
     "notes": "ccfddl: SIGMOD 2027 Round 3 是下一轮；后续还有 2026-10-17。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "kdd",
-    "name": "KDD",
-    "website": "https://kdd.org/",
-    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
-    "direction": "Data Mining / Applied ML",
-    "ccf": "A",
-    "nodi_score": 9.2,
-    "accepted_topics": [
-      "数据挖掘",
-      "应用机器学习",
-      "推荐系统",
-      "图挖掘",
-      "数据科学",
-      "数据驱动安全"
-    ],
-    "note": "数据挖掘强会，应用与数据科学影响广。",
-    "enabled": true,
-    "year": 2027,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "August 2027 (exact dates TBD)"
-    },
-    "abstract_deadline": {
-      "datetime": "2026-07-19T23:59:59-12:00",
-      "display": "2026-07-19 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2026-07-26T23:59:59-12:00",
-      "display": "2026-07-26 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "location": "San Jose, California, USA",
-    "source_url": "https://kdd.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: KDD/SIGKDD 2027 first round。",
     "website_source": "nodi"
   },
   {
@@ -333,8 +288,8 @@
     "enabled": true,
     "year": 2027,
     "conference_date": {
-      "start": null,
-      "end": null,
+      "start": "2027-02-16",
+      "end": "2027-02-23",
       "display": "February 16-23, 2027"
     },
     "abstract_deadline": {
@@ -344,16 +299,16 @@
       "mandatory": null
     },
     "paper_deadline": {
-      "datetime": "2026-07-27T23:59:59-12:00",
-      "display": "2026-07-27 23:59:59 UTC-12",
-      "timezone": "UTC-12",
+      "datetime": "2026-07-28T23:59:59-12:00",
+      "display": "2026-07-28 23:59:59 AoE",
+      "timezone": "AoE",
       "mandatory": null
     },
-    "location": "Montréal, Québec, Canada",
-    "source_url": "https://aaai.org/Conferences/AAAI/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
+    "location": "Montréal, Canada",
+    "source_url": "https://aaai.org/conference/aaai/aaai-27/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
+    "confidence": 0.88,
     "internal_status": "agent_checked",
     "notes": "ccfddl: AAAI 2027。",
     "website_source": "nodi"
@@ -554,9 +509,9 @@
     "enabled": true,
     "year": 2027,
     "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "February 15 - 19, 2027"
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "display": "February 15-19, 2027"
     },
     "abstract_deadline": {
       "datetime": "2026-08-17T23:59:59-12:00",
@@ -566,15 +521,15 @@
     },
     "paper_deadline": {
       "datetime": "2026-08-24T23:59:59-12:00",
-      "display": "2026-08-24 23:59:59 UTC-12",
-      "timezone": "UTC-12",
+      "display": "2026-08-24 23:59:59 AoE",
+      "timezone": "AoE",
       "mandatory": null
     },
-    "location": "Cordis, Hong Kong SAR, China",
-    "source_url": "https://www.wsdm-conference.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
+    "location": "Hong Kong",
+    "source_url": "https://wsdm-conference.org/2027/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
+    "confidence": 0.88,
     "internal_status": "agent_checked",
     "notes": "ccfddl: WSDM 2027。",
     "website_source": "nodi"
@@ -778,9 +733,9 @@
     "enabled": true,
     "year": 2027,
     "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "May 10 - 14, 2027"
+      "start": "2027-05-10",
+      "end": "2027-05-14",
+      "display": "May 10-14, 2027"
     },
     "abstract_deadline": {
       "datetime": null,
@@ -794,13 +749,58 @@
       "timezone": "AoE",
       "mandatory": null
     },
-    "location": "David L. Lawrence Convention Center, Pittsburgh, USA",
-    "source_url": "https://chi.acm.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
+    "location": "Pittsburgh, Pennsylvania, USA",
+    "source_url": "https://chi2027.acm.org/authors/papers/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
+    "confidence": 0.88,
     "internal_status": "agent_checked",
     "notes": "ccfddl: CHI 2027。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "icra",
+    "name": "ICRA",
+    "website": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Robotics",
+    "ccf": "B",
+    "nodi_score": 8.7,
+    "accepted_topics": [
+      "机器人",
+      "机器人感知",
+      "运动规划",
+      "控制",
+      "人机协作",
+      "机器人学习"
+    ],
+    "note": "机器人方向顶级主会之一。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-06-01",
+      "end": "2027-06-05",
+      "display": "June 1-5, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-15T23:59:59-07:00",
+      "display": "2026-09-15 23:59:59 America/Los_Angeles",
+      "timezone": "America/Los_Angeles",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://2027.ieee-icra.org/contribute/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICRA 2026 已截止；当前未见 2027 记录。",
     "website_source": "nodi"
   },
   {
@@ -982,6 +982,51 @@
     "website_source": "nodi"
   },
   {
+    "slug": "iclr",
+    "name": "ICLR",
+    "website": "https://iclr.cc/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Representation Learning / Deep Learning",
+    "ccf": "A",
+    "nodi_score": 9.7,
+    "accepted_topics": [
+      "表征学习",
+      "深度学习",
+      "大模型",
+      "生成模型",
+      "可信 AI",
+      "AI Safety"
+    ],
+    "note": "表征学习、深度学习和大模型方向硬通货。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-04-24",
+      "end": "2027-04-28",
+      "display": "Apr 24-28, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-09-19T23:59:59-12:00",
+      "display": "2025-09-19 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-09-24T23:59:59-12:00",
+      "display": "2026-09-24 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://iclr.cc/Conferences/2027/CallForPapers",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICLR 2026已截止；检索 ICLR 2027 未发现稳定官方DDL。",
+    "website_source": "nodi"
+  },
+  {
     "slug": "eurosys",
     "name": "EuroSys",
     "website": "https://www.eurosys.org/",
@@ -1070,6 +1115,50 @@
     "website_source": "nodi"
   },
   {
+    "slug": "ecir",
+    "name": "ECIR",
+    "website": "https://www.ecir.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Information Retrieval",
+    "ccf": "C",
+    "nodi_score": 7.3,
+    "accepted_topics": [
+      "信息检索",
+      "搜索",
+      "推荐",
+      "用户建模",
+      "交互式检索"
+    ],
+    "note": "欧洲 IR 强会。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-03-21",
+      "end": "2027-03-25",
+      "display": "March 21-25, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-09-25T23:59:59-12:00",
+      "display": "2025-09-25 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-02T23:59:59+00:00",
+      "display": "2026-10-02 23:59:59 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "location": "Southampton, UK",
+    "source_url": "https://www.ecir2027.co.uk/call-for-full-papers",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.88,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ECIR 2026 已截止；当前未见 2027 记录。",
+    "website_source": "nodi"
+  },
+  {
     "slug": "fse",
     "name": "FSE",
     "website": "https://conf.researchr.org/series/fse",
@@ -1112,6 +1201,50 @@
     "confidence": 0.95,
     "internal_status": "agent_checked",
     "notes": "ccfddl: FSE 2027。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "aistats",
+    "name": "AISTATS",
+    "website": "https://aistats.org/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "ML / Statistics",
+    "ccf": "C",
+    "nodi_score": 8.5,
+    "accepted_topics": [
+      "统计机器学习",
+      "概率模型",
+      "优化",
+      "学习理论",
+      "贝叶斯方法"
+    ],
+    "note": "统计机器学习方向口碑强。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-05-02",
+      "end": "2027-05-05",
+      "display": "May 2-5, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-09-25T23:59:59-12:00",
+      "display": "2025-09-25 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-02T23:59:59-12:00",
+      "display": "2026-10-02 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://virtual.aistats.org/Conferences/2027/CallForPapers",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: AISTATS 2026 已截止；当前未见 2027 记录。",
     "website_source": "nodi"
   },
   {
@@ -1201,6 +1334,140 @@
     "website_source": "nodi"
   },
   {
+    "slug": "naacl",
+    "name": "NAACL",
+    "website": "https://www.aclweb.org/portal/naacl",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Natural Language Processing",
+    "ccf": "B",
+    "nodi_score": 8.4,
+    "accepted_topics": [
+      "NLP",
+      "大语言模型",
+      "语言理解",
+      "文本生成",
+      "机器翻译",
+      "信息抽取"
+    ],
+    "note": "ACL 系列强会。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "TBA"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-12T23:59:00-12:00",
+      "display": "2026-10-12 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://naacl.org/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: NAACL 非每年收录；未见 2026/2027 记录，最新为 2025，已截止。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "coling",
+    "name": "COLING",
+    "website": "https://coling.org/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Computational Linguistics",
+    "ccf": "B",
+    "nodi_score": 8.3,
+    "accepted_topics": [
+      "计算语言学",
+      "NLP",
+      "语言资源",
+      "文本处理",
+      "机器翻译"
+    ],
+    "note": "NLP 四大会之一。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-05-09",
+      "end": "2027-05-14",
+      "display": "May 9-14, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-12T23:59:00-12:00",
+      "display": "2026-10-12 23:59:00 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Macau, China",
+    "source_url": "https://2027.coling-iccl.org/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: COLING 未见 2026/2027 记录，最新收录为 2025，已截止。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "www",
+    "name": "WWW",
+    "website": "https://www.thewebconf.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Web / Search / Social / Recsys",
+    "ccf": "A",
+    "nodi_score": 8.8,
+    "accepted_topics": [
+      "Web",
+      "搜索",
+      "社交网络",
+      "推荐系统",
+      "Web 安全",
+      "Web 数据挖掘"
+    ],
+    "note": "Web 强会，需看主会论文类型和贡献深度。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-04-01",
+      "end": "2027-04-30",
+      "display": "TBA, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-09-30T23:59:59-12:00",
+      "display": "2025-09-30 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-13T23:59:59-12:00",
+      "display": "2026-10-13 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Dublin, Ireland",
+    "source_url": "https://www2027.thewebconf.org/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: WWW/TheWebConf 2027 仅地点公开且 deadline/date 为 TBD；按规则使用 2026，已截止。",
+    "website_source": "nodi"
+  },
+  {
     "slug": "icde",
     "name": "ICDE",
     "website": "https://ieee-icde.org/",
@@ -1219,8 +1486,8 @@
     "enabled": true,
     "year": 2027,
     "conference_date": {
-      "start": null,
-      "end": null,
+      "start": "2027-05-17",
+      "end": "2027-05-21",
       "display": "May 17-21, 2027"
     },
     "abstract_deadline": {
@@ -1230,18 +1497,63 @@
       "mandatory": null
     },
     "paper_deadline": {
-      "datetime": "2026-11-11T17:00:00-07:00",
-      "display": "2026-11-11 17:00:00 UTC-7",
-      "timezone": "UTC-7",
+      "datetime": "2026-11-11T17:00:00-08:00",
+      "display": "2026-11-11 17:00:00 America/Los_Angeles",
+      "timezone": "America/Los_Angeles",
       "mandatory": null
     },
     "location": "Copenhagen, Denmark",
-    "source_url": "https://ieee-icde.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
+    "source_url": "https://icde2027.github.io/important-dates.html",
+    "last_checked_at": "2026-06-27T09:16:21Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
+    "confidence": 0.88,
     "internal_status": "agent_checked",
     "notes": "ccfddl: ICDE 2027 second round；first round已过。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "cvpr",
+    "name": "CVPR",
+    "website": "https://cvpr.thecvf.com/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Computer Vision",
+    "ccf": "A",
+    "nodi_score": 9.5,
+    "accepted_topics": [
+      "计算机视觉",
+      "图像识别",
+      "视频理解",
+      "三维视觉",
+      "多模态视觉",
+      "医学视觉"
+    ],
+    "note": "视觉顶会，CV 方向旗舰。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-06-17",
+      "end": "2027-06-21",
+      "display": "June 17-21, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-11-06T23:59:00-12:00",
+      "display": "2025-11-06 23:59:00 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-11-13T23:59:59-12:00",
+      "display": "2026-11-13 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://cvpr.thecvf.com/Conferences/2027/CallForPapers",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CVPR 2026 已截止；当前未见 2027 记录。",
     "website_source": "nodi"
   },
   {
@@ -1331,6 +1643,678 @@
     "confidence": 0.95,
     "internal_status": "agent_checked",
     "notes": "ccfddl: OSDI 2027。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "acl",
+    "name": "ACL",
+    "website": "https://www.aclweb.org/portal/acl",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Natural Language Processing",
+    "ccf": "A",
+    "nodi_score": 9.3,
+    "accepted_topics": [
+      "NLP",
+      "大语言模型",
+      "机器翻译",
+      "文本生成",
+      "语言理解",
+      "计算语言学"
+    ],
+    "note": "NLP 顶会，仅主会 Long Paper 强认可。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-07-01",
+      "end": "2027-07-31",
+      "display": "July 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2027-01-05T23:59:59-12:00",
+      "display": "2027-01-05 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://2027.aclweb.org/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ACL 2026 已截止；当前未见 2027 记录。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "ijcai",
+    "name": "IJCAI",
+    "website": "https://ijcai.org/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "General AI",
+    "ccf": "B",
+    "nodi_score": 8.0,
+    "accepted_topics": [
+      "综合 AI",
+      "搜索",
+      "规划",
+      "知识表示",
+      "多智能体",
+      "机器学习"
+    ],
+    "note": "老牌综合 AI 会议，认可但低于 AAAI。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-08-01",
+      "end": "2027-08-31",
+      "display": "August 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-01-12T23:59:59-12:00",
+      "display": "2026-01-12 23:59:59 UTC-12",
+      "timezone": "UTC-12",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2027-01-19T23:59:59-12:00",
+      "display": "2027-01-19 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://2027.ijcai.org/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: IJCAI 2026 已截止；当前未见 2027 记录。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "sigir",
+    "name": "SIGIR",
+    "website": "https://sigir.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Information Retrieval",
+    "ccf": "A",
+    "nodi_score": 9.1,
+    "accepted_topics": [
+      "信息检索",
+      "搜索",
+      "推荐",
+      "排序",
+      "问答",
+      "用户行为建模"
+    ],
+    "note": "信息检索顶会。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-07-20",
+      "end": "2027-07-24",
+      "display": "July 20-24, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-01-15T23:59:59-12:00",
+      "display": "2026-01-15 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2027-01-22T23:59:59-12:00",
+      "display": "2027-01-22 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://sigir2027.org/en-AU/pages/attending/key-dates",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SIGIR 2026 已截止；当前未见 2027 记录。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "siggraph",
+    "name": "SIGGRAPH",
+    "website": "https://www.siggraph.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Computer Graphics",
+    "ccf": "A",
+    "nodi_score": 9.4,
+    "accepted_topics": [
+      "计算机图形学",
+      "渲染",
+      "动画",
+      "几何处理",
+      "视觉计算",
+      "交互图形"
+    ],
+    "note": "图形学旗舰。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-07-28",
+      "end": "2027-08-01",
+      "display": "July 28 - August 1, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-01-15T22:00:00+00:00",
+      "display": "2026-01-15 22:00:00 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2027-01-24T23:59:59+00:00",
+      "display": "2027-01-24 23:59:59 GMT",
+      "timezone": "GMT",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://s2027.siggraph.org/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: SIGGRAPH 2026 已截止；当前未见 2027 记录。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "icml",
+    "name": "ICML",
+    "website": "https://icml.cc/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Machine Learning",
+    "ccf": "A",
+    "nodi_score": 9.7,
+    "accepted_topics": [
+      "机器学习",
+      "深度学习",
+      "优化",
+      "泛化理论",
+      "强化学习",
+      "可信学习"
+    ],
+    "note": "机器学习旗舰。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-07-01",
+      "end": "2027-07-31",
+      "display": "July 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-01-24T11:59:59+00:00",
+      "display": "2026-01-24 11:59:59 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2027-01-28T23:59:59-08:00",
+      "display": "2027-01-28 23:59:59 America/Los_Angeles",
+      "timezone": "America/Los_Angeles",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://icml.cc/Conferences/2027",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICML 2026 已截止；当前未见 2027 记录。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "kdd",
+    "name": "KDD",
+    "website": "https://kdd.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Data Mining / Applied ML",
+    "ccf": "A",
+    "nodi_score": 9.2,
+    "accepted_topics": [
+      "数据挖掘",
+      "应用机器学习",
+      "推荐系统",
+      "图挖掘",
+      "数据科学",
+      "数据驱动安全"
+    ],
+    "note": "数据挖掘强会，应用与数据科学影响广。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-08-03",
+      "end": "2027-08-07",
+      "display": "August 25-29, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-07-19T23:59:59-12:00",
+      "display": "2026-07-19 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2027-02-10T23:59:59-12:00",
+      "display": "2027-02-10 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://kdd2027.kdd.org/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: KDD/SIGKDD 2027 first round。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "uai",
+    "name": "UAI",
+    "website": "https://www.auai.org/uai/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Probabilistic AI / Causal / Uncertainty",
+    "ccf": "B",
+    "nodi_score": 8.6,
+    "accepted_topics": [
+      "概率建模",
+      "不确定性",
+      "因果推断",
+      "贝叶斯学习",
+      "决策理论"
+    ],
+    "note": "概率建模、不确定性与因果方向强会。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-07-01",
+      "end": "2027-07-31",
+      "display": "July 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2027-02-25T23:59:59-12:00",
+      "display": "2027-02-25 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://www.auai.org/uai2027/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: UAI 2026 已截止；当前未见 2027 记录。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "iros",
+    "name": "IROS",
+    "website": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Robotics",
+    "ccf": "C",
+    "nodi_score": 7.8,
+    "accepted_topics": [
+      "机器人",
+      "机器人系统",
+      "控制",
+      "感知",
+      "运动规划",
+      "人机交互"
+    ],
+    "note": "机器人方向重要主会。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-10-14",
+      "end": "2027-10-18",
+      "display": "October 14-18, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2027-03-01T23:59:59-08:00",
+      "display": "2027-03-01 23:59:59 America/Los_Angeles",
+      "timezone": "America/Los_Angeles",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://iros2027-abudhabi.org/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: IROS 2026 已截止；当前未见 2027 记录。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "iccv",
+    "name": "ICCV",
+    "website": "https://iccv.thecvf.com/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Computer Vision",
+    "ccf": "A",
+    "nodi_score": 9.3,
+    "accepted_topics": [
+      "计算机视觉",
+      "图像理解",
+      "视频分析",
+      "三维视觉",
+      "多模态视觉"
+    ],
+    "note": "视觉顶会。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-10-02",
+      "end": "2027-10-08",
+      "display": "October 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-03-04T09:59:59+00:00",
+      "display": "2025-03-04 09:59:59 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2027-03-07T23:59:59-12:00",
+      "display": "2027-03-07 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Hong Kong",
+    "source_url": "https://iccv.thecvf.com/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICCV 为奇数年主会；未见 2027 记录，最新收录为 2025，已截止。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "acm-mm",
+    "name": "ACM MM",
+    "website": "https://acmmm.org/",
+    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
+    "direction": "Multimedia",
+    "ccf": "A",
+    "nodi_score": 8.8,
+    "accepted_topics": [
+      "多媒体",
+      "视频理解",
+      "音频分析",
+      "多模态学习",
+      "检索",
+      "生成媒体"
+    ],
+    "note": "多媒体顶会，需看贡献深度和主会类型。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-10-28",
+      "end": "2027-11-01",
+      "display": "October 28 - November 1, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-03-25T23:59:59-12:00",
+      "display": "2026-03-25 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2027-04-08T23:59:59-12:00",
+      "display": "2027-04-08 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://2027.acmmm.org/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ACM MM 2026 已截止；当前未见 2027 记录。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "recsys",
+    "name": "RecSys",
+    "website": "https://recsys.acm.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Recommender Systems",
+    "ccf": "B",
+    "nodi_score": 8.2,
+    "accepted_topics": [
+      "推荐系统",
+      "排序",
+      "用户建模",
+      "个性化",
+      "在线实验",
+      "推荐公平性"
+    ],
+    "note": "推荐系统方向核心会议。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-09-28",
+      "end": "2027-10-02",
+      "display": "September 28 - October 2, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-04-14T23:59:59-12:00",
+      "display": "2026-04-14 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2027-04-21T23:59:59-12:00",
+      "display": "2027-04-21 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://recsys.acm.org/recsys26/recsys-26-call-for-contributions/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: RecSys 2026 已截止；当前未见 2027 记录。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "neurips",
+    "name": "NeurIPS",
+    "website": "https://neurips.cc/",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Machine Learning / AI",
+    "ccf": "A",
+    "nodi_score": 9.7,
+    "accepted_topics": [
+      "机器学习",
+      "深度学习",
+      "基础模型",
+      "可信 AI",
+      "AI Safety",
+      "AI Security",
+      "优化"
+    ],
+    "note": "ML/AI 全球旗舰，若与安全或系统结合价值更高。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-12-01",
+      "end": "2027-12-31",
+      "display": "December 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-05-05T11:59:00+00:00",
+      "display": "2026-05-05 11:59:00 UTC+0",
+      "timezone": "UTC+0",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2027-05-06T23:59:59+00:00",
+      "display": "2027-05-06 23:59:59 UTC",
+      "timezone": "UTC",
+      "mandatory": null
+    },
+    "location": "Europe",
+    "source_url": "https://neurips.cc/Conferences/FutureMeetings",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: NeurIPS 2026 已截止；当前未见 2027 记录。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "cikm",
+    "name": "CIKM",
+    "website": "https://cikm.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Information / Knowledge Management",
+    "ccf": "B",
+    "nodi_score": 8.1,
+    "accepted_topics": [
+      "信息检索",
+      "知识管理",
+      "数据挖掘",
+      "数据库",
+      "Web 数据"
+    ],
+    "note": "综合性强会。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-11-01",
+      "end": "2027-11-30",
+      "display": "November 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-05-16T23:59:59-12:00",
+      "display": "2026-05-16 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2027-05-23T23:59:59-12:00",
+      "display": "2027-05-23 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Sydney, Australia",
+    "source_url": "http://www.cikmconference.org/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: CIKM 2026 已截止；当前未见 2027 记录。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "emnlp",
+    "name": "EMNLP",
+    "website": "https://www.aclweb.org/portal/emnlp",
+    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
+    "direction": "Natural Language Processing",
+    "ccf": "B",
+    "nodi_score": 8.9,
+    "accepted_topics": [
+      "NLP",
+      "大语言模型",
+      "文本生成",
+      "信息抽取",
+      "机器翻译",
+      "语言理解"
+    ],
+    "note": "NLP 强会，主会 Long Paper 认可度高。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-10-24",
+      "end": "2027-10-29",
+      "display": "October 24-29, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": null,
+      "display": "—",
+      "timezone": null,
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2027-05-25T23:59:59-12:00",
+      "display": "2027-05-25 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "https://2027.emnlp.org/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: EMNLP 2026 已截止；当前未见 2027 记录。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "icdm",
+    "name": "ICDM",
+    "website": "https://www.ieee-icdm.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Data Mining",
+    "ccf": "B",
+    "nodi_score": 7.8,
+    "accepted_topics": [
+      "数据挖掘",
+      "图挖掘",
+      "异常检测",
+      "时序挖掘",
+      "应用机器学习"
+    ],
+    "note": "数据挖掘老牌会议。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-11-12",
+      "end": "2027-11-15",
+      "display": "November 12-15, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-05-30T23:59:59-12:00",
+      "display": "2026-05-30 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2027-06-06T23:59:59-12:00",
+      "display": "2027-06-06 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "TBA",
+    "source_url": "http://icdm2027.neu.edu.cn/",
+    "last_checked_at": "2026-06-27T09:16:21Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.68,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: ICDM 2026 已截止；当前未见 2027 记录。",
     "website_source": "nodi"
   },
   {
@@ -1687,50 +2671,6 @@
     "website_source": "nodi"
   },
   {
-    "slug": "coling",
-    "name": "COLING",
-    "website": "https://coling.org/",
-    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
-    "direction": "Computational Linguistics",
-    "ccf": "B",
-    "nodi_score": 8.3,
-    "accepted_topics": [
-      "计算语言学",
-      "NLP",
-      "语言资源",
-      "文本处理",
-      "机器翻译"
-    ],
-    "note": "NLP 四大会之一。",
-    "enabled": true,
-    "year": 2025,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "Jan 19 - Jan 24, 2025"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "—",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2024-09-16T23:59:59-12:00",
-      "display": "2024-09-16 23:59:59 UTC-12",
-      "timezone": "UTC-12",
-      "mandatory": null
-    },
-    "location": "Abu Dhabi, UAE",
-    "source_url": "https://coling.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: COLING 未见 2026/2027 记录，最新收录为 2025，已截止。",
-    "website_source": "nodi"
-  },
-  {
     "slug": "sdm",
     "name": "SDM",
     "website": "https://www.siam.org/conferences-events/siam-conferences/sdm/",
@@ -1772,51 +2712,6 @@
     "confidence": 0.95,
     "internal_status": "agent_checked",
     "notes": "ccfddl: SDM 最新收录为 2025，已截止；当前未见 2026/2027 记录。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "naacl",
-    "name": "NAACL",
-    "website": "https://www.aclweb.org/portal/naacl",
-    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
-    "direction": "Natural Language Processing",
-    "ccf": "B",
-    "nodi_score": 8.4,
-    "accepted_topics": [
-      "NLP",
-      "大语言模型",
-      "语言理解",
-      "文本生成",
-      "机器翻译",
-      "信息抽取"
-    ],
-    "note": "ACL 系列强会。",
-    "enabled": true,
-    "year": 2025,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "April 29-May 4, 2025"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "—",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2024-10-15T23:59:59-12:00",
-      "display": "2024-10-15 23:59:59 UTC-12",
-      "timezone": "UTC-12",
-      "mandatory": null
-    },
-    "location": "Albuquerque, New Mexico, USA",
-    "source_url": "https://www.aclweb.org/portal/naacl",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: NAACL 非每年收录；未见 2026/2027 记录，最新为 2025，已截止。",
     "website_source": "nodi"
   },
   {
@@ -1905,50 +2800,6 @@
     "confidence": 0.95,
     "internal_status": "agent_checked",
     "notes": "ccfddl: ECOOP 最新收录为 2025 Round 2，已截止；当前未见 2026/2027 记录。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "iccv",
-    "name": "ICCV",
-    "website": "https://iccv.thecvf.com/",
-    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
-    "direction": "Computer Vision",
-    "ccf": "A",
-    "nodi_score": 9.3,
-    "accepted_topics": [
-      "计算机视觉",
-      "图像理解",
-      "视频分析",
-      "三维视觉",
-      "多模态视觉"
-    ],
-    "note": "视觉顶会。",
-    "enabled": true,
-    "year": 2025,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "October 19-25, 2025"
-    },
-    "abstract_deadline": {
-      "datetime": "2025-03-04T09:59:59+00:00",
-      "display": "2025-03-04 09:59:59 UTC+0",
-      "timezone": "UTC+0",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2025-03-08T09:59:59+00:00",
-      "display": "2025-03-08 09:59:59 UTC+0",
-      "timezone": "UTC+0",
-      "mandatory": null
-    },
-    "location": "Honolulu, Hawaii",
-    "source_url": "https://iccv.thecvf.com/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: ICCV 为奇数年主会；未见 2027 记录，最新收录为 2025，已截止。",
     "website_source": "nodi"
   },
   {
@@ -2128,51 +2979,6 @@
     "website_source": "nodi"
   },
   {
-    "slug": "icra",
-    "name": "ICRA",
-    "website": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
-    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
-    "direction": "Robotics",
-    "ccf": "B",
-    "nodi_score": 8.7,
-    "accepted_topics": [
-      "机器人",
-      "机器人感知",
-      "运动规划",
-      "控制",
-      "人机协作",
-      "机器人学习"
-    ],
-    "note": "机器人方向顶级主会之一。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "Jun 1-5, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "—",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2025-09-15T23:59:00-08:00",
-      "display": "2025-09-15 23:59:00 UTC-8",
-      "timezone": "UTC-8",
-      "mandatory": null
-    },
-    "location": "Vienna, Austria",
-    "source_url": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: ICRA 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
     "slug": "vmcai",
     "name": "VMCAI",
     "website": "https://www.etaps.org/",
@@ -2217,51 +3023,6 @@
     "website_source": "nodi"
   },
   {
-    "slug": "iclr",
-    "name": "ICLR",
-    "website": "https://iclr.cc/",
-    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
-    "direction": "Representation Learning / Deep Learning",
-    "ccf": "A",
-    "nodi_score": 9.7,
-    "accepted_topics": [
-      "表征学习",
-      "深度学习",
-      "大模型",
-      "生成模型",
-      "可信 AI",
-      "AI Safety"
-    ],
-    "note": "表征学习、深度学习和大模型方向硬通货。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "May 01-05, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": "2025-09-19T23:59:59-12:00",
-      "display": "2025-09-19 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2025-09-24T23:59:59-12:00",
-      "display": "2025-09-24 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "location": "Brazil",
-    "source_url": "https://iclr.cc/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: ICLR 2026已截止；检索 ICLR 2027 未发现稳定官方DDL。",
-    "website_source": "nodi"
-  },
-  {
     "slug": "eurographics",
     "name": "Eurographics",
     "website": "https://www.eg.org/",
@@ -2303,139 +3064,6 @@
     "confidence": 0.95,
     "internal_status": "agent_checked",
     "notes": "ccfddl: Eurographics 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "aistats",
-    "name": "AISTATS",
-    "website": "https://aistats.org/",
-    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
-    "direction": "ML / Statistics",
-    "ccf": "C",
-    "nodi_score": 8.5,
-    "accepted_topics": [
-      "统计机器学习",
-      "概率模型",
-      "优化",
-      "学习理论",
-      "贝叶斯方法"
-    ],
-    "note": "统计机器学习方向口碑强。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "May 2-5, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": "2025-09-25T23:59:59-12:00",
-      "display": "2025-09-25 23:59:59 UTC-12",
-      "timezone": "UTC-12",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2025-10-02T23:59:59-12:00",
-      "display": "2025-10-02 23:59:59 UTC-12",
-      "timezone": "UTC-12",
-      "mandatory": null
-    },
-    "location": "Morocco",
-    "source_url": "https://aistats.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: AISTATS 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "ecir",
-    "name": "ECIR",
-    "website": "https://www.ecir.org/",
-    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
-    "direction": "Information Retrieval",
-    "ccf": "C",
-    "nodi_score": 7.3,
-    "accepted_topics": [
-      "信息检索",
-      "搜索",
-      "推荐",
-      "用户建模",
-      "交互式检索"
-    ],
-    "note": "欧洲 IR 强会。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "March 30 - April 01, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": "2025-09-25T23:59:59-12:00",
-      "display": "2025-09-25 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2025-10-02T23:59:59-12:00",
-      "display": "2025-10-02 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "location": "Delft, The Netherlands",
-    "source_url": "https://www.ecir.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: ECIR 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "www",
-    "name": "WWW",
-    "website": "https://www.thewebconf.org/",
-    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
-    "direction": "Web / Search / Social / Recsys",
-    "ccf": "A",
-    "nodi_score": 8.8,
-    "accepted_topics": [
-      "Web",
-      "搜索",
-      "社交网络",
-      "推荐系统",
-      "Web 安全",
-      "Web 数据挖掘"
-    ],
-    "note": "Web 强会，需看主会论文类型和贡献深度。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "April 13-17, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": "2025-09-30T23:59:59-12:00",
-      "display": "2025-09-30 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2025-10-07T23:59:59-12:00",
-      "display": "2025-10-07 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "location": "Dubai, UAE",
-    "source_url": "https://www.thewebconf.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: WWW/TheWebConf 2027 仅地点公开且 deadline/date 为 TBD；按规则使用 2026，已截止。",
     "website_source": "nodi"
   },
   {
@@ -2746,51 +3374,6 @@
     "confidence": 0.95,
     "internal_status": "agent_checked",
     "notes": "ccfddl: STOC 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "cvpr",
-    "name": "CVPR",
-    "website": "https://cvpr.thecvf.com/",
-    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
-    "direction": "Computer Vision",
-    "ccf": "A",
-    "nodi_score": 9.5,
-    "accepted_topics": [
-      "计算机视觉",
-      "图像识别",
-      "视频理解",
-      "三维视觉",
-      "多模态视觉",
-      "医学视觉"
-    ],
-    "note": "视觉顶会，CV 方向旗舰。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "June 3-7, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": "2025-11-06T23:59:00-12:00",
-      "display": "2025-11-06 23:59:00 UTC-12",
-      "timezone": "UTC-12",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2025-11-13T23:59:00-12:00",
-      "display": "2025-11-13 23:59:00 UTC-12",
-      "timezone": "UTC-12",
-      "mandatory": null
-    },
-    "location": "Denver, Colorado, United States",
-    "source_url": "https://cvpr.thecvf.com/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: CVPR 2026 已截止；当前未见 2027 记录。",
     "website_source": "nodi"
   },
   {
@@ -3277,96 +3860,6 @@
     "website_source": "nodi"
   },
   {
-    "slug": "acl",
-    "name": "ACL",
-    "website": "https://www.aclweb.org/portal/acl",
-    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
-    "direction": "Natural Language Processing",
-    "ccf": "A",
-    "nodi_score": 9.3,
-    "accepted_topics": [
-      "NLP",
-      "大语言模型",
-      "机器翻译",
-      "文本生成",
-      "语言理解",
-      "计算语言学"
-    ],
-    "note": "NLP 顶会，仅主会 Long Paper 强认可。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "July 2-7, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "—",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2026-01-05T23:59:59-12:00",
-      "display": "2026-01-05 23:59:59 UTC-12",
-      "timezone": "UTC-12",
-      "mandatory": null
-    },
-    "location": "San Diego, California, United States",
-    "source_url": "https://www.aclweb.org/portal/acl",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: ACL 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "ijcai",
-    "name": "IJCAI",
-    "website": "https://ijcai.org/",
-    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
-    "direction": "General AI",
-    "ccf": "B",
-    "nodi_score": 8.0,
-    "accepted_topics": [
-      "综合 AI",
-      "搜索",
-      "规划",
-      "知识表示",
-      "多智能体",
-      "机器学习"
-    ],
-    "note": "老牌综合 AI 会议，认可但低于 AAAI。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "August 15-21, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": "2026-01-12T23:59:59-12:00",
-      "display": "2026-01-12 23:59:59 UTC-12",
-      "timezone": "UTC-12",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2026-01-19T23:59:59-12:00",
-      "display": "2026-01-19 23:59:59 UTC-12",
-      "timezone": "UTC-12",
-      "mandatory": null
-    },
-    "location": "Bremen, Germany",
-    "source_url": "https://ijcai.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: IJCAI 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
     "slug": "dis",
     "name": "DIS",
     "website": "https://dis.acm.org/",
@@ -3408,51 +3901,6 @@
     "confidence": 0.95,
     "internal_status": "agent_checked",
     "notes": "ccfddl: DIS 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "siggraph",
-    "name": "SIGGRAPH",
-    "website": "https://www.siggraph.org/",
-    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
-    "direction": "Computer Graphics",
-    "ccf": "A",
-    "nodi_score": 9.4,
-    "accepted_topics": [
-      "计算机图形学",
-      "渲染",
-      "动画",
-      "几何处理",
-      "视觉计算",
-      "交互图形"
-    ],
-    "note": "图形学旗舰。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "July 19 - 23, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": "2026-01-15T22:00:00+00:00",
-      "display": "2026-01-15 22:00:00 UTC+0",
-      "timezone": "UTC+0",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2026-01-22T22:00:00+00:00",
-      "display": "2026-01-22 22:00:00 UTC+0",
-      "timezone": "UTC+0",
-      "mandatory": null
-    },
-    "location": "Los Angeles, California",
-    "source_url": "https://www.siggraph.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: SIGGRAPH 2026 已截止；当前未见 2027 记录。",
     "website_source": "nodi"
   },
   {
@@ -3498,96 +3946,6 @@
     "confidence": 0.95,
     "internal_status": "agent_checked",
     "notes": "ccfddl: LICS 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "sigir",
-    "name": "SIGIR",
-    "website": "https://sigir.org/",
-    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
-    "direction": "Information Retrieval",
-    "ccf": "A",
-    "nodi_score": 9.1,
-    "accepted_topics": [
-      "信息检索",
-      "搜索",
-      "推荐",
-      "排序",
-      "问答",
-      "用户行为建模"
-    ],
-    "note": "信息检索顶会。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "July 20-24, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": "2026-01-15T23:59:59-12:00",
-      "display": "2026-01-15 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2026-01-22T23:59:59-12:00",
-      "display": "2026-01-22 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "location": "Melbourne, Australia",
-    "source_url": "https://sigir.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: SIGIR 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "icml",
-    "name": "ICML",
-    "website": "https://icml.cc/",
-    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
-    "direction": "Machine Learning",
-    "ccf": "A",
-    "nodi_score": 9.7,
-    "accepted_topics": [
-      "机器学习",
-      "深度学习",
-      "优化",
-      "泛化理论",
-      "强化学习",
-      "可信学习"
-    ],
-    "note": "机器学习旗舰。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "July 6-12, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": "2026-01-24T11:59:59+00:00",
-      "display": "2026-01-24 11:59:59 UTC+0",
-      "timezone": "UTC+0",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2026-01-29T11:59:59+00:00",
-      "display": "2026-01-29 11:59:59 UTC+0",
-      "timezone": "UTC+0",
-      "mandatory": null
-    },
-    "location": "Seoul, Korea",
-    "source_url": "https://icml.cc/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: ICML 2026 已截止；当前未见 2027 记录。",
     "website_source": "nodi"
   },
   {
@@ -4166,95 +4524,6 @@
     "website_source": "nodi"
   },
   {
-    "slug": "uai",
-    "name": "UAI",
-    "website": "https://www.auai.org/uai/",
-    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
-    "direction": "Probabilistic AI / Causal / Uncertainty",
-    "ccf": "B",
-    "nodi_score": 8.6,
-    "accepted_topics": [
-      "概率建模",
-      "不确定性",
-      "因果推断",
-      "贝叶斯学习",
-      "决策理论"
-    ],
-    "note": "概率建模、不确定性与因果方向强会。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "August 17-21, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "—",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2026-02-25T23:59:59-12:00",
-      "display": "2026-02-25 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "location": "Amsterdam, Netherlands",
-    "source_url": "https://www.auai.org/uai/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: UAI 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "iros",
-    "name": "IROS",
-    "website": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros",
-    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
-    "direction": "Robotics",
-    "ccf": "C",
-    "nodi_score": 7.8,
-    "accepted_topics": [
-      "机器人",
-      "机器人系统",
-      "控制",
-      "感知",
-      "运动规划",
-      "人机交互"
-    ],
-    "note": "机器人方向重要主会。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "September 27 - October 1, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "—",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2026-03-02T23:59:59-08:00",
-      "display": "2026-03-02 23:59:59 UTC-8",
-      "timezone": "UTC-8",
-      "mandatory": null
-    },
-    "location": "Pittsburgh, PA, USA",
-    "source_url": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: IROS 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
     "slug": "eccv",
     "name": "ECCV",
     "website": "https://eccv.ecva.net/",
@@ -4740,51 +5009,6 @@
     "website_source": "nodi"
   },
   {
-    "slug": "acm-mm",
-    "name": "ACM MM",
-    "website": "https://acmmm.org/",
-    "category": "HCI / 图形学 / 可视化 / 多媒体 / 交叉方向",
-    "direction": "Multimedia",
-    "ccf": "A",
-    "nodi_score": 8.8,
-    "accepted_topics": [
-      "多媒体",
-      "视频理解",
-      "音频分析",
-      "多模态学习",
-      "检索",
-      "生成媒体"
-    ],
-    "note": "多媒体顶会，需看贡献深度和主会类型。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "November 10-14, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": "2026-03-25T23:59:59-12:00",
-      "display": "2026-03-25 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2026-04-01T23:59:59-12:00",
-      "display": "2026-04-01 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "location": "Rio de Janeiro, Brazil",
-    "source_url": "https://acmmm.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: ACM MM 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
     "slug": "micro",
     "name": "MICRO",
     "website": "https://microarch.org/micro/",
@@ -5140,51 +5364,6 @@
     "website_source": "nodi"
   },
   {
-    "slug": "recsys",
-    "name": "RecSys",
-    "website": "https://recsys.acm.org/",
-    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
-    "direction": "Recommender Systems",
-    "ccf": "B",
-    "nodi_score": 8.2,
-    "accepted_topics": [
-      "推荐系统",
-      "排序",
-      "用户建模",
-      "个性化",
-      "在线实验",
-      "推荐公平性"
-    ],
-    "note": "推荐系统方向核心会议。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "September 28 - October 2, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": "2026-04-14T23:59:59-12:00",
-      "display": "2026-04-14 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2026-04-21T23:59:59-12:00",
-      "display": "2026-04-21 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "location": "Minneapolis, Minnesota, USA",
-    "source_url": "https://recsys.acm.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: RecSys 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
     "slug": "fmcad",
     "name": "FMCAD",
     "website": "https://fmcad.org/",
@@ -5360,52 +5539,6 @@
     "confidence": 0.95,
     "internal_status": "agent_checked",
     "notes": "ccfddl: IMC 2026 Cycle 2 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "neurips",
-    "name": "NeurIPS",
-    "website": "https://neurips.cc/",
-    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
-    "direction": "Machine Learning / AI",
-    "ccf": "A",
-    "nodi_score": 9.7,
-    "accepted_topics": [
-      "机器学习",
-      "深度学习",
-      "基础模型",
-      "可信 AI",
-      "AI Safety",
-      "AI Security",
-      "优化"
-    ],
-    "note": "ML/AI 全球旗舰，若与安全或系统结合价值更高。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "December 6, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": "2026-05-05T11:59:00+00:00",
-      "display": "2026-05-05 11:59:00 UTC+0",
-      "timezone": "UTC+0",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2026-05-07T11:59:00+00:00",
-      "display": "2026-05-07 11:59:00 UTC+0",
-      "timezone": "UTC+0",
-      "mandatory": null
-    },
-    "location": "Sydney, Australia",
-    "source_url": "https://neurips.cc/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: NeurIPS 2026 已截止；当前未见 2027 记录。",
     "website_source": "nodi"
   },
   {
@@ -5586,95 +5719,6 @@
     "website_source": "nodi"
   },
   {
-    "slug": "cikm",
-    "name": "CIKM",
-    "website": "https://cikm.org/",
-    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
-    "direction": "Information / Knowledge Management",
-    "ccf": "B",
-    "nodi_score": 8.1,
-    "accepted_topics": [
-      "信息检索",
-      "知识管理",
-      "数据挖掘",
-      "数据库",
-      "Web 数据"
-    ],
-    "note": "综合性强会。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "November 7-11, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": "2026-05-16T23:59:59-12:00",
-      "display": "2026-05-16 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2026-05-23T23:59:59-12:00",
-      "display": "2026-05-23 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "location": "Rome, Italy",
-    "source_url": "https://cikm.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: CIKM 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "emnlp",
-    "name": "EMNLP",
-    "website": "https://www.aclweb.org/portal/emnlp",
-    "category": "人工智能 / 机器学习 / NLP / CV / Robotics",
-    "direction": "Natural Language Processing",
-    "ccf": "B",
-    "nodi_score": 8.9,
-    "accepted_topics": [
-      "NLP",
-      "大语言模型",
-      "文本生成",
-      "信息抽取",
-      "机器翻译",
-      "语言理解"
-    ],
-    "note": "NLP 强会，主会 Long Paper 认可度高。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "October 24 - 29, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": null,
-      "display": "—",
-      "timezone": null,
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2026-05-25T23:59:59-12:00",
-      "display": "2026-05-25 23:59:59 UTC-12",
-      "timezone": "UTC-12",
-      "mandatory": null
-    },
-    "location": "Budapest, Hungary",
-    "source_url": "https://www.aclweb.org/portal/emnlp",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: EMNLP 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
     "slug": "acsac",
     "name": "ACSAC",
     "website": "https://www.acsac.org/",
@@ -5849,50 +5893,6 @@
     "confidence": 0.95,
     "internal_status": "agent_checked",
     "notes": "ccfddl: CoNEXT 2026 June Cycle 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "icdm",
-    "name": "ICDM",
-    "website": "https://www.ieee-icdm.org/",
-    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
-    "direction": "Data Mining",
-    "ccf": "B",
-    "nodi_score": 7.8,
-    "accepted_topics": [
-      "数据挖掘",
-      "图挖掘",
-      "异常检测",
-      "时序挖掘",
-      "应用机器学习"
-    ],
-    "note": "数据挖掘老牌会议。",
-    "enabled": true,
-    "year": 2026,
-    "conference_date": {
-      "start": null,
-      "end": null,
-      "display": "November 12-15, 2026"
-    },
-    "abstract_deadline": {
-      "datetime": "2026-05-30T23:59:59-12:00",
-      "display": "2026-05-30 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2026-06-06T23:59:59-12:00",
-      "display": "2026-06-06 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "location": "Shenyang, China",
-    "source_url": "https://www.ieee-icdm.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: ICDM 2026 已截止；当前未见 2027 记录。",
     "website_source": "nodi"
   },
   {

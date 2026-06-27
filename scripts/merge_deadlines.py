@@ -16,12 +16,12 @@ def parse_dt(value: str | None) -> datetime | None:
         return None
 
 
-def merge_date_object(base: dict[str, Any], candidate: dict[str, Any] | None) -> dict[str, Any]:
+def merge_date_object(base: dict[str, Any], candidate: dict[str, Any] | None, prefer_candidate: bool = False) -> dict[str, Any]:
     if not candidate:
         return dict(base)
 
     merged = dict(base)
-    if not merged.get("datetime") and candidate.get("datetime"):
+    if candidate.get("datetime") and (prefer_candidate or not merged.get("datetime")):
         merged["datetime"] = candidate.get("datetime")
         merged["display"] = candidate.get("display") or candidate.get("datetime") or "TBD"
         merged["timezone"] = candidate.get("timezone")
@@ -31,17 +31,65 @@ def merge_date_object(base: dict[str, Any], candidate: dict[str, Any] | None) ->
     return merged
 
 
-def merge_conference_date(base: dict[str, Any], candidate: dict[str, Any] | None) -> dict[str, Any]:
+def merge_conference_date(base: dict[str, Any], candidate: dict[str, Any] | None, prefer_candidate: bool = False) -> dict[str, Any]:
     if not candidate:
         return dict(base)
 
     merged = dict(base)
     for key in ("start", "end"):
-        if not merged.get(key) and candidate.get(key):
+        if candidate.get(key) and (prefer_candidate or not merged.get(key)):
             merged[key] = candidate.get(key)
-    if merged.get("display") in (None, "", "TBD") and candidate.get("display"):
+    if candidate.get("display") and (prefer_candidate or merged.get("display") in (None, "", "TBD")):
         merged["display"] = candidate.get("display")
     return merged
+
+
+def apply_update(
+    row: dict[str, Any],
+    conference: dict[str, Any],
+    update: dict[str, Any],
+    source: str,
+    prefer_candidate: bool = False,
+    apply_website: bool = True
+) -> None:
+    website = update.get("website")
+    if website and apply_website:
+        if website != conference.get("website"):
+            append_pending({
+                "slug": row["slug"],
+                "type": "website_mismatch",
+                "field": "website",
+                "current": conference.get("website"),
+                "candidate": website,
+                "source": source,
+                "source_url": update.get("source_url"),
+                "confidence": update.get("confidence")
+            })
+        row["website"] = website
+        row["website_source"] = source
+
+    row["conference_date"] = merge_conference_date(
+        row["conference_date"],
+        update.get("conference_date"),
+        prefer_candidate=prefer_candidate
+    )
+    row["abstract_deadline"] = merge_date_object(
+        row["abstract_deadline"],
+        update.get("abstract_deadline"),
+        prefer_candidate=prefer_candidate
+    )
+    row["paper_deadline"] = merge_date_object(
+        row["paper_deadline"],
+        update.get("paper_deadline"),
+        prefer_candidate=prefer_candidate
+    )
+    if update.get("location") and (prefer_candidate or row["location"] in ("", "TBD")):
+        row["location"] = update.get("location")
+    if update.get("year") and (prefer_candidate or not row.get("year")):
+        row["year"] = update.get("year")
+    row["source_url"] = update.get("source_url") or row["source_url"]
+    row["last_checked_at"] = update.get("last_checked_at") or row["last_checked_at"]
+    row["confidence"] = update.get("confidence") if update.get("confidence") is not None else row["confidence"]
 
 
 def main() -> None:
@@ -49,6 +97,7 @@ def main() -> None:
     conferences = read_json(DATA / "nodi_conferences.json", [])
     deadlines = {item["slug"]: item for item in read_json(DATA / "deadlines.json", [])}
     ccf_updates = {item["slug"]: item for item in read_json(GENERATED / "ccfddl_updates.json", [])}
+    mlciv_updates = {item["slug"]: item for item in read_json(GENERATED / "mlciv_updates.json", [])}
 
     merged: list[dict[str, Any]] = []
     now = datetime.now(timezone.utc)
@@ -72,7 +121,6 @@ def main() -> None:
                 "notes": ""
             }
 
-        update = ccf_updates.get(slug)
         row = {
             **conference,
             "year": deadline.get("year"),
@@ -89,33 +137,13 @@ def main() -> None:
             "website_source": "nodi"
         }
 
-        if update:
-            website = update.get("website")
-            if website:
-                if website != conference.get("website"):
-                    append_pending({
-                        "slug": slug,
-                        "type": "website_mismatch",
-                        "field": "website",
-                        "current": conference.get("website"),
-                        "candidate": website,
-                        "source": "ccfddl",
-                        "source_url": update.get("source_url"),
-                        "confidence": update.get("confidence")
-                    })
-                row["website"] = website
-                row["website_source"] = "ccfddl"
+        ccf_update = ccf_updates.get(slug)
+        if ccf_update:
+            apply_update(row, conference, ccf_update, "ccfddl")
 
-            row["conference_date"] = merge_conference_date(row["conference_date"], update.get("conference_date"))
-            row["abstract_deadline"] = merge_date_object(row["abstract_deadline"], update.get("abstract_deadline"))
-            row["paper_deadline"] = merge_date_object(row["paper_deadline"], update.get("paper_deadline"))
-            if row["location"] in ("", "TBD") and update.get("location"):
-                row["location"] = update.get("location")
-            if update.get("year") and not row.get("year"):
-                row["year"] = update.get("year")
-            row["source_url"] = update.get("source_url") or row["source_url"]
-            row["last_checked_at"] = update.get("last_checked_at") or row["last_checked_at"]
-            row["confidence"] = update.get("confidence") if update.get("confidence") is not None else row["confidence"]
+        mlciv_update = mlciv_updates.get(slug)
+        if mlciv_update:
+            apply_update(row, conference, mlciv_update, "mlciv", prefer_candidate=True, apply_website=False)
 
         merged.append(row)
 

@@ -7,6 +7,7 @@ def main() -> None:
     conferences = read_json(DATA / "nodi_conferences.json", [])
     deadlines = read_json(DATA / "deadlines.json", [])
     pending = read_json(DATA / "pending_updates.json", [])
+    mlciv_meta = read_json(GENERATED / "mlciv_sync_meta.json", {})
     ccf_meta = read_json(GENERATED / "ccfddl_sync_meta.json", {})
     crawl_report = read_json(GENERATED / "official_crawl_report.json", [])
     rollover = read_json(GENERATED / "rollover_candidates.json", [])
@@ -20,6 +21,7 @@ def main() -> None:
         f"- Deadlines: {len(deadlines)}",
         f"- TBD paper deadlines: {tbd}",
         f"- Pending updates: {len(pending)}",
+        f"- mlciv matched updates: {mlciv_meta.get('matched_updates', 0)}",
         f"- ccfddl matched updates: {ccf_meta.get('matched_updates', 0)}",
         f"- Official crawl reports: {len(crawl_report)}",
         f"- Rollover candidates: {len(rollover)}",

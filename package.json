@@ -13,7 +13,8 @@
     "dev": "python3 scripts/merge_deadlines.py && python3 scripts/generate_ics.py && next dev",
     "build": "python3 scripts/merge_deadlines.py && python3 scripts/validate_conferences.py && python3 scripts/generate_ics.py && next build",
     "validate:data": "python3 scripts/merge_deadlines.py && python3 scripts/validate_conferences.py",
-    "sync:ccfddl": "python3 scripts/sync_ccfddl.py && python3 scripts/merge_deadlines.py && python3 scripts/validate_conferences.py",
+    "sync:deadlines": "python3 scripts/sync_mlciv.py && python3 scripts/sync_ccfddl.py && python3 scripts/merge_deadlines.py && python3 scripts/validate_conferences.py",
+    "sync:ccfddl": "pnpm run sync:deadlines",
     "report": "python3 scripts/generate_report.py"
   },
   "dependencies": {

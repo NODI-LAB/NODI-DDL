@@ -15,7 +15,7 @@ const items = [
   {
     icon: RefreshCcw,
     title: "自动同步",
-    body: "同步脚本会尝试读取 ccfddl/ccf-deadlines 与会议官网；低置信度或冲突更新会进入 pending_updates.json，等待人工确认。"
+    body: "同步脚本优先读取 mlciv AI Deadlines，缺失时再参考 ccfddl/ccf-deadlines 与会议官网；冲突更新会进入 pending_updates.json。"
   },
   {
     icon: GitBranch,
