@@ -292,7 +292,8 @@
   {
     "slug": "icra",
     "url": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "uai",
