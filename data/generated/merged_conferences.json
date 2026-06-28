@@ -269,6 +269,51 @@
     "website_source": "nodi"
   },
   {
+    "slug": "kdd",
+    "name": "KDD",
+    "website": "https://kdd.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Data Mining / Applied ML",
+    "ccf": "A",
+    "nodi_score": 9.2,
+    "accepted_topics": [
+      "数据挖掘",
+      "应用机器学习",
+      "推荐系统",
+      "图挖掘",
+      "数据科学",
+      "数据驱动安全"
+    ],
+    "note": "数据挖掘强会，应用与数据科学影响广。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": null,
+      "end": null,
+      "display": "August 2027 (exact dates TBD)"
+    },
+    "abstract_deadline": {
+      "datetime": "2026-07-19T23:59:59-12:00",
+      "display": "2026-07-19 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-07-26T23:59:59-12:00",
+      "display": "2026-07-26 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "San Jose, The United States",
+    "source_url": "https://kdd2027.kdd.org/",
+    "last_checked_at": "2026-06-28T00:00:00Z",
+    "last_updated_at": "2026-06-28T00:00:00Z",
+    "confidence": 0.95,
+    "internal_status": "manual_locked",
+    "notes": "人工确认：KDD 2027 abstract deadline 2026-07-19 AoE，paper deadline 2026-07-26 AoE，地点 San Jose, The United States；锁定外部自动覆盖。",
+    "website_source": "nodi"
+  },
+  {
     "slug": "aaai",
     "name": "AAAI",
     "website": "https://aaai.org/Conferences/AAAI/",
@@ -1868,51 +1913,6 @@
     "confidence": 0.68,
     "internal_status": "agent_checked",
     "notes": "ccfddl: ICML 2026 已截止；当前未见 2027 记录。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "kdd",
-    "name": "KDD",
-    "website": "https://kdd.org/",
-    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
-    "direction": "Data Mining / Applied ML",
-    "ccf": "A",
-    "nodi_score": 9.2,
-    "accepted_topics": [
-      "数据挖掘",
-      "应用机器学习",
-      "推荐系统",
-      "图挖掘",
-      "数据科学",
-      "数据驱动安全"
-    ],
-    "note": "数据挖掘强会，应用与数据科学影响广。",
-    "enabled": true,
-    "year": 2027,
-    "conference_date": {
-      "start": "2027-08-03",
-      "end": "2027-08-07",
-      "display": "August 25-29, 2027"
-    },
-    "abstract_deadline": {
-      "datetime": "2026-07-19T23:59:59-12:00",
-      "display": "2026-07-19 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2027-02-10T23:59:59-12:00",
-      "display": "2027-02-10 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "location": "TBA",
-    "source_url": "https://kdd2027.kdd.org/",
-    "last_checked_at": "2026-06-27T21:46:24Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.68,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: KDD/SIGKDD 2027 first round。",
     "website_source": "nodi"
   },
   {

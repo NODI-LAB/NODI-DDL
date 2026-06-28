@@ -92,6 +92,10 @@ def apply_update(
     row["confidence"] = update.get("confidence") if update.get("confidence") is not None else row["confidence"]
 
 
+def external_updates_locked(deadline: dict[str, Any]) -> bool:
+    return deadline.get("internal_status") in {"manual_locked", "source_locked"}
+
+
 def main() -> None:
     GENERATED.mkdir(parents=True, exist_ok=True)
     conferences = read_json(DATA / "nodi_conferences.json", [])
@@ -137,13 +141,14 @@ def main() -> None:
             "website_source": "nodi"
         }
 
-        ccf_update = ccf_updates.get(slug)
-        if ccf_update:
-            apply_update(row, conference, ccf_update, "ccfddl")
+        if not external_updates_locked(deadline):
+            ccf_update = ccf_updates.get(slug)
+            if ccf_update:
+                apply_update(row, conference, ccf_update, "ccfddl")
 
-        mlciv_update = mlciv_updates.get(slug)
-        if mlciv_update:
-            apply_update(row, conference, mlciv_update, "mlciv", prefer_candidate=True, apply_website=False)
+            mlciv_update = mlciv_updates.get(slug)
+            if mlciv_update:
+                apply_update(row, conference, mlciv_update, "mlciv", prefer_candidate=True, apply_website=False)
 
         merged.append(row)
 

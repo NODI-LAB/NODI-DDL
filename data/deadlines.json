@@ -2203,13 +2203,13 @@
       "timezone": "AoE",
       "mandatory": null
     },
-    "location": "San Jose, California, USA",
-    "source_url": "https://kdd.org/",
-    "last_checked_at": "2026-06-26T15:40:41Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
+    "location": "San Jose, The United States",
+    "source_url": "https://kdd2027.kdd.org/",
+    "last_checked_at": "2026-06-28T00:00:00Z",
+    "last_updated_at": "2026-06-28T00:00:00Z",
     "confidence": 0.95,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: KDD/SIGKDD 2027 first round。"
+    "internal_status": "manual_locked",
+    "notes": "人工确认：KDD 2027 abstract deadline 2026-07-19 AoE，paper deadline 2026-07-26 AoE，地点 San Jose, The United States；锁定外部自动覆盖。"
   },
   {
     "slug": "kr",
