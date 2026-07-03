@@ -2,7 +2,8 @@
   {
     "slug": "ieee-sp",
     "url": "https://www.ieee-security.org/TC/SP-Index.html",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "usenix-security",
@@ -473,8 +474,7 @@
   {
     "slug": "sigmod",
     "url": "https://sigmod.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "vldb",
@@ -508,8 +508,7 @@
   {
     "slug": "pods",
     "url": "https://sigmod.org/pods-home/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "cidr",
