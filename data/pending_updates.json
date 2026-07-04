@@ -214,5 +214,17 @@
     "confidence": 0.3,
     "checked_at": "2026-07-02T22:22:01Z",
     "created_at": "2026-07-02T22:22:01Z"
+  },
+  {
+    "slug": "itcs",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2027,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://itcs-conf.org/",
+    "confidence": 0.3,
+    "checked_at": "2026-07-04T21:44:26Z",
+    "created_at": "2026-07-04T21:44:26Z"
   }
 ]

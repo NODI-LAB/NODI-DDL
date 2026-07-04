@@ -474,7 +474,8 @@
   {
     "slug": "sigmod",
     "url": "https://sigmod.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "vldb",
@@ -508,7 +509,8 @@
   {
     "slug": "pods",
     "url": "https://sigmod.org/pods-home/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "cidr",
@@ -614,7 +616,8 @@
   {
     "slug": "itcs",
     "url": "https://itcs-conf.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "socg",
