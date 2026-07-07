@@ -226,5 +226,17 @@
     "confidence": 0.3,
     "checked_at": "2026-07-04T21:44:26Z",
     "created_at": "2026-07-04T21:44:26Z"
+  },
+  {
+    "slug": "hpca",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://hpca-conf.org/",
+    "confidence": 0.3,
+    "checked_at": "2026-07-07T22:36:57Z",
+    "created_at": "2026-07-07T22:36:57Z"
   }
 ]
