@@ -20,7 +20,7 @@
     "source": "mlciv",
     "source_url": "https://aaai.org/conference/aaai/aaai-27/",
     "source_record_id": "aaai27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.88,
     "notes": "Supplementary material and code due July 31, 2026. Final notification Nov 30, 2026. All deadlines AoE (UTC-12). More info here."
   },
@@ -45,7 +45,7 @@
     "source": "mlciv",
     "source_url": "https://2027.aclweb.org/",
     "source_record_id": "acl27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical ACL pattern (past deadlines — 2026 Jan 5, 2025 Feb 15, 2024 Feb 15). Please verify on the official conference website. More info here."
   },
@@ -70,7 +70,7 @@
     "source": "mlciv",
     "source_url": "https://2027.acmmm.org/",
     "source_record_id": "mm27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical MM pattern (past deadlines — 2025 Apr 8, 2024 Apr 8, 2023 Apr 30). Please verify on the official conference website. More info here."
   },
@@ -95,7 +95,7 @@
     "source": "mlciv",
     "source_url": "https://virtual.aistats.org/Conferences/2027/CallForPapers",
     "source_record_id": "aistats27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical AISTATS pattern (past deadlines — 2025 Oct 2, 2024 Oct 10, 2023 Oct 16). Please verify on the official conference website. More info here."
   },
@@ -120,7 +120,7 @@
     "source": "mlciv",
     "source_url": "https://chi2027.acm.org/authors/papers/",
     "source_record_id": "chi27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.88,
     "notes": "CHI 2027 papers (AoE): no abstract deadline. Submission site opens July 30, 2026; full paper deadline September 10, 2026 (includes videos and supplementary materials). Revise-and-resubmit phase with resubmission December 3, 2026; final notification December 17, 2026. More info here."
   },
@@ -145,7 +145,7 @@
     "source": "mlciv",
     "source_url": "http://www.cikmconference.org/",
     "source_record_id": "CIKM27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical CIKM pattern (past deadlines — 2026 May 23, 2025 May 23, 2024 May 20). Please verify on the official conference website. More info here."
   },
@@ -170,7 +170,7 @@
     "source": "mlciv",
     "source_url": "https://2027.coling-iccl.org/",
     "source_record_id": "coling27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted — COLING 2027 expected to use ARR, with commitment from the October 2026 cycle (ARR submission deadline Oct 12, 2026). Host Macau and dates May 9-14 confirmed; ARR participation not yet officially announced. Please verify on the official conference website. More info here."
   },
@@ -195,7 +195,7 @@
     "source": "mlciv",
     "source_url": "https://cvpr.thecvf.com/Conferences/2027/CallForPapers",
     "source_record_id": "cvpr27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical CVPR pattern (past deadlines — 2025 Nov 13, 2024 Nov 15, 2023 Nov 17). Please verify on the official conference website. More info here."
   },
@@ -220,7 +220,7 @@
     "source": "mlciv",
     "source_url": "https://www.ecir2027.co.uk/call-for-full-papers",
     "source_record_id": "ecir27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.88,
     "notes": "Full paper abstract and paper deadlines are 11:59 pm GMT. More info here."
   },
@@ -245,7 +245,7 @@
     "source": "mlciv",
     "source_url": "https://2027.emnlp.org/",
     "source_record_id": "emnlp27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical EMNLP pattern (past deadlines — 2026 May 25, 2025 May 19, 2024 Jun 15). Please verify on the official conference website. More info here."
   },
@@ -270,7 +270,7 @@
     "source": "mlciv",
     "source_url": "https://iccv.thecvf.com/",
     "source_record_id": "iccv27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical ICCV biennial pattern (past deadlines — 2025 Mar 7, 2023 Mar 8). Host city Hong Kong confirmed by CVF; dates and deadline not yet announced. Please verify on the official conference website. More info here."
   },
@@ -295,7 +295,7 @@
     "source": "mlciv",
     "source_url": "https://icde2027.github.io/important-dates.html",
     "source_record_id": "icde27-2",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.88,
     "notes": "Research track round 2. All deadlines 5:00 p.m. Pacific Time. More info here."
   },
@@ -320,7 +320,7 @@
     "source": "mlciv",
     "source_url": "http://icdm2027.neu.edu.cn/",
     "source_record_id": "icdm27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical ICDM pattern (past deadlines — 2026 Jun 6, 2025 Jun 6, 2024 Jun 14). Please verify on the official conference website. More info here."
   },
@@ -345,7 +345,7 @@
     "source": "mlciv",
     "source_url": "https://iclr.cc/Conferences/2027/CallForPapers",
     "source_record_id": "iclr27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical ICLR pattern (past deadlines — 2025 Sep 24, 2024 Oct 1, 2023 Sep 28). Please verify on the official conference website. More info here."
   },
@@ -370,7 +370,7 @@
     "source": "mlciv",
     "source_url": "https://icml.cc/Conferences/2027",
     "source_record_id": "icml27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical ICML pattern (past deadlines — 2026 Jan 28, 2024 Feb 1, 2023 Jan 26). Please verify on the official conference website. More info here."
   },
@@ -395,7 +395,7 @@
     "source": "mlciv",
     "source_url": "https://2027.ieee-icra.org/contribute/",
     "source_record_id": "icra27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical ICRA pattern (past deadlines — 2025 Sep 15, 2024 Sep 15, 2023 Sep 15). Please verify on the official conference website. More info here."
   },
@@ -420,7 +420,7 @@
     "source": "mlciv",
     "source_url": "https://2027.ijcai.org/",
     "source_record_id": "ijcai27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical IJCAI pattern (past deadlines — 2025 Jan 23, 2024 Jan 17, 2023 Jan 18). Please verify on the official conference website. More info here."
   },
@@ -445,7 +445,7 @@
     "source": "mlciv",
     "source_url": "https://iros2027-abudhabi.org/",
     "source_record_id": "iros27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical IROS pattern (past deadlines — 2025 Mar 1, 2024 Mar 1, 2023 Mar 1). Please verify on the official conference website. More info here."
   },
@@ -470,7 +470,7 @@
     "source": "mlciv",
     "source_url": "https://kdd2027.kdd.org/",
     "source_record_id": "kdd26-227",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical KDD-2 pattern (past deadlines — 2026 Feb 10, 2025 Feb 10). Please verify on the official conference website. More info here."
   },
@@ -495,7 +495,7 @@
     "source": "mlciv",
     "source_url": "https://naacl.org/",
     "source_record_id": "naacl27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted — NAACL 2027 expected to use ARR, with commitment from the October 2026 cycle (ARR submission deadline Oct 12, 2026). Conference dates and venue not yet announced; ARR participation not yet officially confirmed. Please verify on the official conference website. More info here."
   },
@@ -520,7 +520,7 @@
     "source": "mlciv",
     "source_url": "https://neurips.cc/Conferences/FutureMeetings",
     "source_record_id": "neurips27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical NeurIPS pattern (past deadlines — 2026 May 6, 2025 May 16, 2024 May 22). Please verify on the official conference website. More info here."
   },
@@ -545,7 +545,7 @@
     "source": "mlciv",
     "source_url": "https://recsys.acm.org/recsys26/recsys-26-call-for-contributions/",
     "source_record_id": "recsys27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical RecSys pattern (past deadlines — 2026 Apr 21, 2023 Apr 21, 2022 May 3). Please verify on the official conference website. More info here."
   },
@@ -570,7 +570,7 @@
     "source": "mlciv",
     "source_url": "https://s2027.siggraph.org/",
     "source_record_id": "siggraph27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical SIGGRAPH pattern (past deadlines — 2025 Jan 24, 2024 Jan 24, 2023 Jan 24). Please verify on the official conference website. More info here."
   },
@@ -595,7 +595,7 @@
     "source": "mlciv",
     "source_url": "https://sigir2027.org/en-AU/pages/attending/key-dates",
     "source_record_id": "sigir27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical SIGIR pattern (past deadlines — 2026 Jan 22, 2024 Jan 25, 2023 Jan 31). Please verify on the official conference website. More info here."
   },
@@ -620,7 +620,7 @@
     "source": "mlciv",
     "source_url": "https://2027.sigmod.org/",
     "source_record_id": "sigmod27-3",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.88
   },
   {
@@ -644,7 +644,7 @@
     "source": "mlciv",
     "source_url": "https://www.auai.org/uai2027/",
     "source_record_id": "uai27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical UAI pattern (past deadlines — 2026 Feb 25, 2025 Jan 5, 2024 Feb 9). Please verify on the official conference website. More info here."
   },
@@ -669,7 +669,7 @@
     "source": "mlciv",
     "source_url": "https://wsdm-conference.org/2027/",
     "source_record_id": "wsdm27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.88,
     "notes": "Notification Nov 2, 2026. All deadlines are 11:59 pm AoE. More info here."
   },
@@ -694,7 +694,7 @@
     "source": "mlciv",
     "source_url": "https://www2027.thewebconf.org/",
     "source_record_id": "www27",
-    "last_checked_at": "2026-07-08T22:15:34Z",
+    "last_checked_at": "2026-07-09T22:52:29Z",
     "confidence": 0.68,
     "notes": "Predicted deadline based on historical WWW pattern (past deadlines — 2025 Oct 13, 2022 Oct 13). Please verify on the official conference website. More info here."
   }
