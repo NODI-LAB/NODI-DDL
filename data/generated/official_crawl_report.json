@@ -661,8 +661,7 @@
   {
     "slug": "siggraph",
     "url": "https://www.siggraph.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "chi",
