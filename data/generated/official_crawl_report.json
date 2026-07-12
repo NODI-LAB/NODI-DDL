@@ -2,8 +2,7 @@
   {
     "slug": "ieee-sp",
     "url": "https://www.ieee-security.org/TC/SP-Index.html",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "usenix-security",
@@ -292,7 +291,8 @@
   {
     "slug": "icra",
     "url": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "uai",
@@ -627,8 +627,7 @@
   {
     "slug": "esa",
     "url": "https://algo-conference.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "icalp",
@@ -713,8 +712,7 @@
   {
     "slug": "eurovis",
     "url": "https://www.eurovis.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "miccai",
