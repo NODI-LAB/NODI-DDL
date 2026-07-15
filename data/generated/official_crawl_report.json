@@ -480,8 +480,7 @@
   {
     "slug": "vldb",
     "url": "https://vldb.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "kdd",
