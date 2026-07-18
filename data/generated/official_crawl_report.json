@@ -13,8 +13,7 @@
   {
     "slug": "ccs",
     "url": "https://www.sigsac.org/ccs.html",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "ndss",
@@ -120,8 +119,7 @@
   {
     "slug": "sosp",
     "url": "https://sigops.org/s/conferences/sosp/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "osdi",
@@ -131,8 +129,7 @@
   {
     "slug": "sigcomm",
     "url": "https://conferences.sigcomm.org/sigcomm/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "nsdi",
@@ -142,8 +139,7 @@
   {
     "slug": "isca",
     "url": "https://iscaconf.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "micro",
@@ -153,8 +149,7 @@
   {
     "slug": "asplos",
     "url": "https://www.asplos-conference.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "hpca",
@@ -170,14 +165,12 @@
   {
     "slug": "sc",
     "url": "https://supercomputing.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "mobicom",
     "url": "https://www.sigmobile.org/mobicom/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "eurosys",
@@ -193,14 +186,12 @@
   {
     "slug": "imc",
     "url": "https://conferences.sigcomm.org/imc/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "conext",
     "url": "https://conferences.sigcomm.org/co-next/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "ppopp",
@@ -210,8 +201,7 @@
   {
     "slug": "mobisys",
     "url": "https://www.sigmobile.org/mobisys/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "infocom",
@@ -367,14 +357,12 @@
   {
     "slug": "oopsla",
     "url": "https://www.sigplan.org/Conferences/OOPSLA/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "icse",
     "url": "https://www.icse-conferences.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "fse",
@@ -415,8 +403,7 @@
   {
     "slug": "icfp",
     "url": "https://icfpconference.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "ecoop",
@@ -474,8 +461,7 @@
   {
     "slug": "sigmod",
     "url": "https://sigmod.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "vldb",
@@ -486,14 +472,12 @@
   {
     "slug": "kdd",
     "url": "https://kdd.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "sigir",
     "url": "https://sigir.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "icde",
@@ -509,8 +493,7 @@
   {
     "slug": "pods",
     "url": "https://sigmod.org/pods-home/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "cidr",
@@ -521,14 +504,12 @@
   {
     "slug": "wsdm",
     "url": "https://www.wsdm-conference.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "recsys",
     "url": "https://recsys.acm.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "cikm",
@@ -570,14 +551,12 @@
   {
     "slug": "sigspatial",
     "url": "https://sigspatial.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "chiir",
     "url": "https://sigir.org/chiir/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "stoc",
@@ -604,8 +583,7 @@
   {
     "slug": "lics",
     "url": "https://lics.siglog.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "ccc",
@@ -628,8 +606,7 @@
   {
     "slug": "esa",
     "url": "https://algo-conference.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "icalp",
@@ -655,8 +632,7 @@
   {
     "slug": "hscc",
     "url": "https://hscc.acm.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "siggraph",
@@ -672,14 +648,12 @@
   {
     "slug": "acm-mm",
     "url": "https://acmmm.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "uist",
     "url": "https://uist.acm.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "vis",
@@ -690,14 +664,12 @@
   {
     "slug": "cscw",
     "url": "https://cscw.acm.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "ubicomp",
     "url": "https://ubicomp.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "vr",
@@ -714,8 +686,7 @@
   {
     "slug": "eurovis",
     "url": "https://www.eurovis.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "miccai",
@@ -757,13 +728,11 @@
   {
     "slug": "dis",
     "url": "https://dis.acm.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "vrst",
     "url": "https://vrst.acm.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   }
 ]
