@@ -339,7 +339,8 @@
   {
     "slug": "aamas",
     "url": "https://aamas.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "kr",
@@ -661,8 +662,7 @@
   {
     "slug": "siggraph",
     "url": "https://www.siggraph.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "chi",
