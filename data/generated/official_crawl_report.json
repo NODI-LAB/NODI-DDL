@@ -338,8 +338,7 @@
   {
     "slug": "aamas",
     "url": "https://aamas.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "kr",
