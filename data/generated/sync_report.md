@@ -1,6 +1,6 @@
 # NODIDDL Sync Report
 
-- Generated at: 2026-07-30T19:56:04Z
+- Generated at: 2026-07-31T19:57:07Z
 - Conferences: 134
 - Deadlines: 134
 - TBD paper deadlines: 7
@@ -8,7 +8,7 @@
 - mlciv matched updates: 27
 - ccfddl matched updates: 0
 - Official crawl reports: 134
-- Rollover candidates: 18
+- Rollover candidates: 13
 
 ## Pending Update Types
 
