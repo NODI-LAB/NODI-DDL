@@ -148,8 +148,7 @@
   {
     "slug": "micro",
     "url": "https://microarch.org/micro/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "asplos",
@@ -160,8 +159,7 @@
   {
     "slug": "hpca",
     "url": "https://hpca-conf.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "fast",
@@ -223,8 +221,7 @@
   {
     "slug": "sigmetrics",
     "url": "https://www.sigmetrics.org/sigmetrics/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "rtss",
@@ -536,8 +533,7 @@
   {
     "slug": "cikm",
     "url": "https://cikm.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "icdm",
