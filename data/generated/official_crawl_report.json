@@ -148,7 +148,8 @@
   {
     "slug": "micro",
     "url": "https://microarch.org/micro/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "asplos",
@@ -222,7 +223,8 @@
   {
     "slug": "sigmetrics",
     "url": "https://www.sigmetrics.org/sigmetrics/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "rtss",
@@ -327,7 +329,8 @@
   {
     "slug": "ijcai",
     "url": "https://ijcai.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "iros",
@@ -533,7 +536,8 @@
   {
     "slug": "cikm",
     "url": "https://cikm.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "icdm",
@@ -715,8 +719,7 @@
   {
     "slug": "eurovis",
     "url": "https://www.eurovis.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "miccai",
