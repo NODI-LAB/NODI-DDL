@@ -159,7 +159,8 @@
   {
     "slug": "hpca",
     "url": "https://hpca-conf.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "fast",
@@ -326,8 +327,7 @@
   {
     "slug": "ijcai",
     "url": "https://ijcai.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "iros",
