@@ -333,14 +333,12 @@
   {
     "slug": "iros",
     "url": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "aamas",
     "url": "https://aamas.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "kr",
