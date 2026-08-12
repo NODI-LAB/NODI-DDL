@@ -617,7 +617,8 @@
   {
     "slug": "itcs",
     "url": "https://itcs-conf.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "socg",
