@@ -159,8 +159,7 @@
   {
     "slug": "hpca",
     "url": "https://hpca-conf.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "fast",
