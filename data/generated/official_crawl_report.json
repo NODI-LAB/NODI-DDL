@@ -715,7 +715,8 @@
   {
     "slug": "eurovis",
     "url": "https://www.eurovis.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "miccai",
