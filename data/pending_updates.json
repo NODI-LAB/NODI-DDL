@@ -334,5 +334,29 @@
     "confidence": 0.3,
     "checked_at": "2026-09-01T21:04:59Z",
     "created_at": "2026-09-01T21:04:59Z"
+  },
+  {
+    "slug": "cvpr",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://cvpr.thecvf.com/",
+    "confidence": 0.3,
+    "checked_at": "2026-09-02T21:06:15Z",
+    "created_at": "2026-09-02T21:06:15Z"
+  },
+  {
+    "slug": "aistats",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://aistats.org/",
+    "confidence": 0.3,
+    "checked_at": "2026-09-02T21:06:17Z",
+    "created_at": "2026-09-02T21:06:17Z"
   }
 ]
