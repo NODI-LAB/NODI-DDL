@@ -327,7 +327,8 @@
   {
     "slug": "ijcai",
     "url": "https://ijcai.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "iros",
@@ -714,7 +715,8 @@
   {
     "slug": "eurovis",
     "url": "https://www.eurovis.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "miccai",
