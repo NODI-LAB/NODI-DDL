@@ -599,8 +599,7 @@
   {
     "slug": "cav",
     "url": "https://i-cav.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "lics",
@@ -709,8 +708,7 @@
   {
     "slug": "eurographics",
     "url": "https://www.eg.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "eurovis",
