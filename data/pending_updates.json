@@ -358,5 +358,41 @@
     "confidence": 0.3,
     "checked_at": "2026-09-02T21:06:17Z",
     "created_at": "2026-09-02T21:06:17Z"
+  },
+  {
+    "slug": "ijcai",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://ijcai.org/",
+    "confidence": 0.3,
+    "checked_at": "2026-09-07T21:33:40Z",
+    "created_at": "2026-09-07T21:33:40Z"
+  },
+  {
+    "slug": "stoc",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://acm-stoc.org/",
+    "confidence": 0.3,
+    "checked_at": "2026-09-07T21:34:04Z",
+    "created_at": "2026-09-07T21:34:04Z"
+  },
+  {
+    "slug": "hscc",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://hscc.acm.org/",
+    "confidence": 0.3,
+    "checked_at": "2026-09-07T21:34:13Z",
+    "created_at": "2026-09-07T21:34:13Z"
   }
 ]
