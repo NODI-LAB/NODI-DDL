@@ -480,7 +480,8 @@
   {
     "slug": "vldb",
     "url": "https://vldb.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "kdd",
@@ -714,8 +715,7 @@
   {
     "slug": "eurovis",
     "url": "https://www.eurovis.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "miccai",
@@ -736,7 +736,8 @@
   {
     "slug": "ismar",
     "url": "https://ismar.net/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "sgp",
