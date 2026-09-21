@@ -737,8 +737,7 @@
   {
     "slug": "ismar",
     "url": "https://ismar.net/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "sgp",
