@@ -394,5 +394,17 @@
     "confidence": 0.3,
     "checked_at": "2026-09-07T21:34:13Z",
     "created_at": "2026-09-07T21:34:13Z"
+  },
+  {
+    "slug": "eurovis",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://www.eurovis.org/",
+    "confidence": 0.3,
+    "checked_at": "2026-09-23T21:33:33Z",
+    "created_at": "2026-09-23T21:33:33Z"
   }
 ]
