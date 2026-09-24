@@ -205,7 +205,8 @@
   {
     "slug": "ppopp",
     "url": "https://ppopp.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "mobisys",
@@ -339,7 +340,8 @@
   {
     "slug": "aamas",
     "url": "https://aamas.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "kr",
