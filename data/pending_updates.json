@@ -418,5 +418,17 @@
     "confidence": 0.3,
     "checked_at": "2026-09-24T21:33:50Z",
     "created_at": "2026-09-24T21:33:50Z"
+  },
+  {
+    "slug": "icfp",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://icfpconference.org/",
+    "confidence": 0.3,
+    "checked_at": "2026-09-27T21:24:21Z",
+    "created_at": "2026-09-27T21:24:21Z"
   }
 ]

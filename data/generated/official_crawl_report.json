@@ -328,7 +328,8 @@
   {
     "slug": "ijcai",
     "url": "https://ijcai.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "iros",
@@ -554,8 +555,7 @@
   {
     "slug": "edbt",
     "url": "https://edbt.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "icdt",
