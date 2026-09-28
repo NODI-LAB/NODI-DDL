@@ -555,7 +555,8 @@
   {
     "slug": "edbt",
     "url": "https://edbt.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "icdt",
