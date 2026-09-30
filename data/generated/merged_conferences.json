@@ -36,7 +36,7 @@
     },
     "location": "Southampton, UK",
     "source_url": "https://www.ecir2027.co.uk/call-for-full-papers",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
     "confidence": 0.88,
     "internal_status": "agent_checked",
@@ -107,9 +107,9 @@
     "enabled": true,
     "year": 2027,
     "conference_date": {
-      "start": "2027-05-02",
-      "end": "2027-05-05",
-      "display": "May 2-5, 2027"
+      "start": "2027-05-03",
+      "end": "2027-05-06",
+      "display": "May 3-6, 2027"
     },
     "abstract_deadline": {
       "datetime": "2025-09-25T23:59:59-12:00",
@@ -118,16 +118,16 @@
       "mandatory": null
     },
     "paper_deadline": {
-      "datetime": "2026-10-02T23:59:59-12:00",
-      "display": "2026-10-02 23:59:59 AoE",
+      "datetime": "2026-10-06T23:59:59-12:00",
+      "display": "2026-10-06 23:59:59 AoE",
       "timezone": "AoE",
       "mandatory": null
     },
-    "location": "TBA",
+    "location": "Montreal, Canada",
     "source_url": "https://virtual.aistats.org/Conferences/2027/CallForPapers",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.68,
+    "confidence": 0.88,
     "internal_status": "agent_checked",
     "notes": "ccfddl: AISTATS 2026 已截止；当前未见 2027 记录。",
     "website_source": "nodi"
@@ -256,7 +256,7 @@
     },
     "location": "San Francisco, CA, USA",
     "source_url": "https://2027.naacl.org/",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
     "confidence": 0.88,
     "internal_status": "agent_checked",
@@ -300,56 +300,11 @@
     },
     "location": "Macau, China",
     "source_url": "https://2027.coling-iccl.org/",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.68,
+    "confidence": 0.88,
     "internal_status": "agent_checked",
     "notes": "ccfddl: COLING 未见 2026/2027 记录，最新收录为 2025，已截止。",
-    "website_source": "nodi"
-  },
-  {
-    "slug": "www",
-    "name": "WWW",
-    "website": "https://www.thewebconf.org/",
-    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
-    "direction": "Web / Search / Social / Recsys",
-    "ccf": "A",
-    "nodi_score": 8.8,
-    "accepted_topics": [
-      "Web",
-      "搜索",
-      "社交网络",
-      "推荐系统",
-      "Web 安全",
-      "Web 数据挖掘"
-    ],
-    "note": "Web 强会，需看主会论文类型和贡献深度。",
-    "enabled": true,
-    "year": 2027,
-    "conference_date": {
-      "start": "2027-04-01",
-      "end": "2027-04-30",
-      "display": "TBA, 2027"
-    },
-    "abstract_deadline": {
-      "datetime": "2025-09-30T23:59:59-12:00",
-      "display": "2025-09-30 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "paper_deadline": {
-      "datetime": "2026-10-13T23:59:59-12:00",
-      "display": "2026-10-13 23:59:59 AoE",
-      "timezone": "AoE",
-      "mandatory": null
-    },
-    "location": "Dublin, Ireland",
-    "source_url": "https://www2027.thewebconf.org/",
-    "last_checked_at": "2026-09-29T22:15:28Z",
-    "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.68,
-    "internal_status": "agent_checked",
-    "notes": "ccfddl: WWW/TheWebConf 2027 仅地点公开且 deadline/date 为 TBD；按规则使用 2026，已截止。",
     "website_source": "nodi"
   },
   {
@@ -390,11 +345,56 @@
     },
     "location": "Huntington Beach, California, USA",
     "source_url": "https://2027.sigmod.org/",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
     "confidence": 0.88,
     "internal_status": "agent_checked",
     "notes": "ccfddl: SIGMOD 2027 Round 3 是下一轮；后续还有 2026-10-17。",
+    "website_source": "nodi"
+  },
+  {
+    "slug": "www",
+    "name": "WWW",
+    "website": "https://www.thewebconf.org/",
+    "category": "数据库 / 数据挖掘 / 信息检索 / Web",
+    "direction": "Web / Search / Social / Recsys",
+    "ccf": "A",
+    "nodi_score": 8.8,
+    "accepted_topics": [
+      "Web",
+      "搜索",
+      "社交网络",
+      "推荐系统",
+      "Web 安全",
+      "Web 数据挖掘"
+    ],
+    "note": "Web 强会，需看主会论文类型和贡献深度。",
+    "enabled": true,
+    "year": 2027,
+    "conference_date": {
+      "start": "2027-05-10",
+      "end": "2027-05-14",
+      "display": "May 10-14, 2027"
+    },
+    "abstract_deadline": {
+      "datetime": "2025-09-30T23:59:59-12:00",
+      "display": "2025-09-30 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "paper_deadline": {
+      "datetime": "2026-10-25T23:59:59-12:00",
+      "display": "2026-10-25 23:59:59 AoE",
+      "timezone": "AoE",
+      "mandatory": null
+    },
+    "location": "Dublin, Ireland",
+    "source_url": "https://www2027.thewebconf.org/",
+    "last_checked_at": "2026-09-30T22:16:13Z",
+    "last_updated_at": "2026-06-26T15:40:41Z",
+    "confidence": 0.88,
+    "internal_status": "agent_checked",
+    "notes": "ccfddl: WWW/TheWebConf 2027 仅地点公开且 deadline/date 为 TBD；按规则使用 2026，已截止。",
     "website_source": "nodi"
   },
   {
@@ -434,7 +434,7 @@
     },
     "location": "Copenhagen, Denmark",
     "source_url": "https://icde2027.github.io/important-dates.html",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
     "confidence": 0.88,
     "internal_status": "agent_checked",
@@ -472,16 +472,16 @@
       "mandatory": null
     },
     "paper_deadline": {
-      "datetime": "2026-11-13T23:59:59-12:00",
-      "display": "2026-11-13 23:59:59 AoE",
+      "datetime": "2026-11-16T23:59:59-12:00",
+      "display": "2026-11-16 23:59:59 AoE",
       "timezone": "AoE",
       "mandatory": null
     },
     "location": "Seattle, Washington, USA",
     "source_url": "https://cvpr.thecvf.com/Conferences/2027/CallForPapers",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.68,
+    "confidence": 0.88,
     "internal_status": "agent_checked",
     "notes": "ccfddl: CVPR 2026 已截止；当前未见 2027 记录。",
     "website_source": "nodi"
@@ -613,7 +613,7 @@
     },
     "location": "Kyoto, Japan",
     "source_url": "https://2027.aclweb.org/",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
     "confidence": 0.68,
     "internal_status": "agent_checked",
@@ -640,9 +640,9 @@
     "enabled": true,
     "year": 2027,
     "conference_date": {
-      "start": "2027-08-01",
-      "end": "2027-08-31",
-      "display": "August 2027"
+      "start": "2027-08-07",
+      "end": "2027-08-13",
+      "display": "August 7-13, 2027"
     },
     "abstract_deadline": {
       "datetime": "2026-01-12T23:59:59-12:00",
@@ -651,16 +651,16 @@
       "mandatory": null
     },
     "paper_deadline": {
-      "datetime": "2027-01-19T23:59:59-12:00",
-      "display": "2027-01-19 23:59:59 AoE",
+      "datetime": "2027-01-11T23:59:59-12:00",
+      "display": "2027-01-11 23:59:59 AoE",
       "timezone": "AoE",
       "mandatory": null
     },
-    "location": "TBA",
+    "location": "Kyoto, Japan",
     "source_url": "https://2027.ijcai.org/",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.68,
+    "confidence": 0.88,
     "internal_status": "agent_checked",
     "notes": "ccfddl: IJCAI 2026 已截止；当前未见 2027 记录。",
     "website_source": "nodi"
@@ -685,9 +685,9 @@
     "enabled": true,
     "year": 2027,
     "conference_date": {
-      "start": "2027-07-20",
+      "start": "2027-07-18",
       "end": "2027-07-24",
-      "display": "July 20-24, 2027"
+      "display": "July 18-24, 2027"
     },
     "abstract_deadline": {
       "datetime": "2026-01-15T23:59:59-12:00",
@@ -696,16 +696,16 @@
       "mandatory": null
     },
     "paper_deadline": {
-      "datetime": "2027-01-22T23:59:59-12:00",
-      "display": "2027-01-22 23:59:59 AoE",
+      "datetime": "2027-01-21T23:59:59-12:00",
+      "display": "2027-01-21 23:59:59 AoE",
       "timezone": "AoE",
       "mandatory": null
     },
-    "location": "TBA",
+    "location": "San Jose, California, USA",
     "source_url": "https://sigir2027.org/en-AU/pages/attending/key-dates",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.68,
+    "confidence": 0.88,
     "internal_status": "agent_checked",
     "notes": "ccfddl: SIGIR 2026 已截止；当前未见 2027 记录。",
     "website_source": "nodi"
@@ -748,7 +748,7 @@
     },
     "location": "TBA",
     "source_url": "https://s2027.siggraph.org/",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
     "confidence": 0.68,
     "internal_status": "agent_checked",
@@ -793,7 +793,7 @@
     },
     "location": "TBA",
     "source_url": "https://icml.cc/Conferences/2027",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
     "confidence": 0.68,
     "internal_status": "agent_checked",
@@ -837,7 +837,7 @@
     },
     "location": "TBA",
     "source_url": "https://www.auai.org/uai2027/",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
     "confidence": 0.68,
     "internal_status": "agent_checked",
@@ -881,10 +881,10 @@
       "mandatory": null
     },
     "location": "Florence, Italy",
-    "source_url": "https://iros2027-abudhabi.org/",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "source_url": "https://2027.ieee-iros.org/",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
-    "confidence": 0.68,
+    "confidence": 0.88,
     "internal_status": "agent_checked",
     "notes": "ccfddl: IROS 2026 已截止；当前未见 2027 记录。",
     "website_source": "nodi"
@@ -926,7 +926,7 @@
     },
     "location": "Hong Kong",
     "source_url": "https://iccv.thecvf.com/",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
     "confidence": 0.68,
     "internal_status": "agent_checked",
@@ -971,7 +971,7 @@
     },
     "location": "TBA",
     "source_url": "https://2027.acmmm.org/",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
     "confidence": 0.68,
     "internal_status": "agent_checked",
@@ -998,9 +998,9 @@
     "enabled": true,
     "year": 2027,
     "conference_date": {
-      "start": "2027-09-28",
-      "end": "2027-10-02",
-      "display": "September 28 - October 2, 2027"
+      "start": "2027-08-23",
+      "end": "2027-08-27",
+      "display": "August 23-27, 2027"
     },
     "abstract_deadline": {
       "datetime": "2026-04-14T23:59:59-12:00",
@@ -1014,9 +1014,9 @@
       "timezone": "AoE",
       "mandatory": null
     },
-    "location": "Hawaii, USA",
-    "source_url": "https://recsys.acm.org/recsys26/recsys-26-call-for-contributions/",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "location": "Honolulu, Hawaii, USA",
+    "source_url": "https://recsys.acm.org/recsys27/",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
     "confidence": 0.68,
     "internal_status": "agent_checked",
@@ -1062,7 +1062,7 @@
     },
     "location": "Europe",
     "source_url": "https://neurips.cc/Conferences/FutureMeetings",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
     "confidence": 0.68,
     "internal_status": "agent_checked",
@@ -1106,7 +1106,7 @@
     },
     "location": "Sydney, Australia",
     "source_url": "http://www.cikmconference.org/",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
     "confidence": 0.68,
     "internal_status": "agent_checked",
@@ -1151,7 +1151,7 @@
     },
     "location": "TBA",
     "source_url": "https://2027.emnlp.org/",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
     "confidence": 0.68,
     "internal_status": "agent_checked",
@@ -1195,7 +1195,7 @@
     },
     "location": "TBA",
     "source_url": "http://icdm2027.neu.edu.cn/",
-    "last_checked_at": "2026-09-29T22:15:28Z",
+    "last_checked_at": "2026-09-30T22:16:13Z",
     "last_updated_at": "2026-06-26T15:40:41Z",
     "confidence": 0.68,
     "internal_status": "agent_checked",
