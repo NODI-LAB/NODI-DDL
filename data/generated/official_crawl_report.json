@@ -287,7 +287,8 @@
   {
     "slug": "aaai",
     "url": "https://aaai.org/Conferences/AAAI/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "icra",
@@ -339,7 +340,8 @@
   {
     "slug": "aamas",
     "url": "https://aamas.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "kr",
