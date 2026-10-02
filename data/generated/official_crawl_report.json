@@ -2,8 +2,7 @@
   {
     "slug": "ieee-sp",
     "url": "https://www.ieee-security.org/TC/SP-Index.html",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "usenix-security",
