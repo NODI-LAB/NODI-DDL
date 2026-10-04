@@ -1,6 +1,6 @@
 # NODIDDL Sync Report
 
-- Generated at: 2026-10-03T21:18:10Z
+- Generated at: 2026-10-04T21:28:36Z
 - Conferences: 134
 - Deadlines: 134
 - TBD paper deadlines: 7
