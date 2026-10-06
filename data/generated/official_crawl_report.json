@@ -572,8 +572,7 @@
   {
     "slug": "sigspatial",
     "url": "https://sigspatial.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "chiir",
@@ -631,8 +630,7 @@
   {
     "slug": "esa",
     "url": "https://algo-conference.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "icalp",
@@ -717,8 +715,7 @@
   {
     "slug": "eurovis",
     "url": "https://www.eurovis.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "miccai",
