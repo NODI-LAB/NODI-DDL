@@ -454,5 +454,29 @@
     "confidence": 0.3,
     "checked_at": "2026-10-06T22:42:29Z",
     "created_at": "2026-10-06T22:42:29Z"
+  },
+  {
+    "slug": "isca",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://iscaconf.org/",
+    "confidence": 0.3,
+    "checked_at": "2026-10-08T23:23:29Z",
+    "created_at": "2026-10-08T23:23:29Z"
+  },
+  {
+    "slug": "oopsla",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://www.sigplan.org/Conferences/OOPSLA/",
+    "confidence": 0.3,
+    "checked_at": "2026-10-08T23:23:45Z",
+    "created_at": "2026-10-08T23:23:45Z"
   }
 ]
