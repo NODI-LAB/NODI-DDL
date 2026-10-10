@@ -334,8 +334,7 @@
   {
     "slug": "iros",
     "url": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "aamas",
@@ -387,8 +386,7 @@
   {
     "slug": "fm",
     "url": "https://formalmethods.github.io/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "ase",
@@ -572,7 +570,8 @@
   {
     "slug": "sigspatial",
     "url": "https://sigspatial.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "chiir",
