@@ -293,8 +293,7 @@
   {
     "slug": "icra",
     "url": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "uai",
@@ -334,8 +333,7 @@
   {
     "slug": "iros",
     "url": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "aamas",

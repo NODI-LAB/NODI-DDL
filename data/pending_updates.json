@@ -490,5 +490,17 @@
     "confidence": 0.3,
     "checked_at": "2026-10-10T21:47:39Z",
     "created_at": "2026-10-10T21:47:39Z"
+  },
+  {
+    "slug": "dimva",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://dimva.org/",
+    "confidence": 0.3,
+    "checked_at": "2026-10-13T00:43:19Z",
+    "created_at": "2026-10-13T00:43:19Z"
   }
 ]
