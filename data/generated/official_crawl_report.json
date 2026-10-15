@@ -205,8 +205,7 @@
   {
     "slug": "ppopp",
     "url": "https://ppopp.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "mobisys",
@@ -381,8 +380,7 @@
   {
     "slug": "fse",
     "url": "https://conf.researchr.org/series/fse",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "fm",
@@ -392,14 +390,12 @@
   {
     "slug": "ase",
     "url": "https://conf.researchr.org/series/ase",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "issta",
     "url": "https://conf.researchr.org/series/issta",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "vmcai",
@@ -439,38 +435,32 @@
   {
     "slug": "msr",
     "url": "https://conf.researchr.org/series/msr",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "icsme",
     "url": "https://conf.researchr.org/series/icsme",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "saner",
     "url": "https://conf.researchr.org/series/saner",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "re",
     "url": "https://conf.researchr.org/series/RE",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "icpc",
     "url": "https://conf.researchr.org/series/icpc",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "icst",
     "url": "https://conf.researchr.org/series/icst",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "sigmod",
