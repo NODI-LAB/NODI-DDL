@@ -352,7 +352,8 @@
   {
     "slug": "icaps",
     "url": "https://www.icaps-conference.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "pldi",
@@ -553,7 +554,8 @@
   {
     "slug": "edbt",
     "url": "https://edbt.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "icdt",
@@ -628,7 +630,8 @@
   {
     "slug": "esa",
     "url": "https://algo-conference.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "icalp",
