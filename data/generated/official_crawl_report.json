@@ -170,8 +170,7 @@
   {
     "slug": "sc",
     "url": "https://supercomputing.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "mobicom",
@@ -217,8 +216,7 @@
   {
     "slug": "infocom",
     "url": "https://ieee-infocom.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "sigmetrics",

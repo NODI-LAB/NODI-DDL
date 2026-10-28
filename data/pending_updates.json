@@ -502,5 +502,17 @@
     "confidence": 0.3,
     "checked_at": "2026-10-13T00:43:19Z",
     "created_at": "2026-10-13T00:43:19Z"
+  },
+  {
+    "slug": "soups",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://www.usenix.org/conferences/byname/925",
+    "confidence": 0.3,
+    "checked_at": "2026-10-28T22:37:42Z",
+    "created_at": "2026-10-28T22:37:42Z"
   }
 ]

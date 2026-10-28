@@ -8,7 +8,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://crypto.iacr.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:15:56Z"
+    "checked_at": "2026-10-28T22:37:14Z"
   },
   {
     "slug": "pkc",
@@ -19,7 +19,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://pkc.iacr.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:15:57Z"
+    "checked_at": "2026-10-28T22:37:15Z"
   },
   {
     "slug": "dsn",
@@ -30,7 +30,19 @@
     "source": "official_rollover_detector",
     "source_url": "https://dsn.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:22Z"
+    "checked_at": "2026-10-28T22:37:41Z"
+  },
+  {
+    "slug": "soups",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://www.usenix.org/conferences/byname/925",
+    "confidence": 0.3,
+    "checked_at": "2026-10-28T22:37:42Z",
+    "created_at": "2026-10-28T22:37:42Z"
   },
   {
     "slug": "dimva",
@@ -41,7 +53,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://dimva.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:23Z"
+    "checked_at": "2026-10-28T22:37:42Z"
   },
   {
     "slug": "isca",
@@ -52,7 +64,18 @@
     "source": "official_rollover_detector",
     "source_url": "https://iscaconf.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:23Z"
+    "checked_at": "2026-10-28T22:37:43Z"
+  },
+  {
+    "slug": "hpca",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://hpca-conf.org/",
+    "confidence": 0.3,
+    "checked_at": "2026-10-28T22:37:43Z"
   },
   {
     "slug": "conext",
@@ -63,7 +86,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://conferences.sigcomm.org/co-next/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:26Z"
+    "checked_at": "2026-10-28T22:37:46Z"
   },
   {
     "slug": "icml",
@@ -74,7 +97,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://icml.cc/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:30Z"
+    "checked_at": "2026-10-28T22:37:51Z"
   },
   {
     "slug": "iclr",
@@ -85,7 +108,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://iclr.cc/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:30Z"
+    "checked_at": "2026-10-28T22:37:51Z"
   },
   {
     "slug": "cvpr",
@@ -96,7 +119,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://cvpr.thecvf.com/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:31Z"
+    "checked_at": "2026-10-28T22:37:51Z"
   },
   {
     "slug": "acl",
@@ -107,7 +130,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://www.aclweb.org/portal/acl",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:31Z"
+    "checked_at": "2026-10-28T22:37:52Z"
   },
   {
     "slug": "iccv",
@@ -118,7 +141,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://iccv.thecvf.com/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:31Z"
+    "checked_at": "2026-10-28T22:37:52Z"
   },
   {
     "slug": "emnlp",
@@ -129,7 +152,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://www.aclweb.org/portal/emnlp",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:32Z"
+    "checked_at": "2026-10-28T22:37:53Z"
   },
   {
     "slug": "icra",
@@ -140,7 +163,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:33Z"
+    "checked_at": "2026-10-28T22:37:53Z"
   },
   {
     "slug": "aistats",
@@ -151,7 +174,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://aistats.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:33Z"
+    "checked_at": "2026-10-28T22:37:54Z"
   },
   {
     "slug": "naacl",
@@ -162,7 +185,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://www.aclweb.org/portal/naacl",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:33Z"
+    "checked_at": "2026-10-28T22:37:54Z"
   },
   {
     "slug": "coling",
@@ -173,7 +196,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://coling.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:35Z"
+    "checked_at": "2026-10-28T22:37:55Z"
   },
   {
     "slug": "ijcai",
@@ -184,7 +207,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://ijcai.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:35Z"
+    "checked_at": "2026-10-28T22:37:55Z"
   },
   {
     "slug": "oopsla",
@@ -195,7 +218,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://www.sigplan.org/Conferences/OOPSLA/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:37Z"
+    "checked_at": "2026-10-28T22:37:58Z"
   },
   {
     "slug": "issta",
@@ -206,7 +229,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://conf.researchr.org/series/issta",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:38Z"
+    "checked_at": "2026-10-28T22:37:59Z"
   },
   {
     "slug": "vmcai",
@@ -217,7 +240,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://www.etaps.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:39Z"
+    "checked_at": "2026-10-28T22:38:00Z"
   },
   {
     "slug": "sas",
@@ -228,7 +251,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://staticanalysis.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:39Z"
+    "checked_at": "2026-10-28T22:38:01Z"
   },
   {
     "slug": "icfp",
@@ -239,7 +262,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://icfpconference.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:39Z"
+    "checked_at": "2026-10-28T22:38:01Z"
   },
   {
     "slug": "middleware",
@@ -250,7 +273,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://middleware-conf.github.io/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:51Z"
+    "checked_at": "2026-10-28T22:38:13Z"
   },
   {
     "slug": "msr",
@@ -261,7 +284,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://conf.researchr.org/series/msr",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:52Z"
+    "checked_at": "2026-10-28T22:38:14Z"
   },
   {
     "slug": "icsme",
@@ -272,7 +295,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://conf.researchr.org/series/icsme",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:52Z"
+    "checked_at": "2026-10-28T22:38:15Z"
   },
   {
     "slug": "re",
@@ -283,7 +306,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://conf.researchr.org/series/RE",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:53Z"
+    "checked_at": "2026-10-28T22:38:15Z"
   },
   {
     "slug": "icpc",
@@ -294,7 +317,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://conf.researchr.org/series/icpc",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:53Z"
+    "checked_at": "2026-10-28T22:38:16Z"
   },
   {
     "slug": "icst",
@@ -305,7 +328,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://conf.researchr.org/series/icst",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:53Z"
+    "checked_at": "2026-10-28T22:38:16Z"
   },
   {
     "slug": "pods",
@@ -316,7 +339,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://sigmod.org/pods-home/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:54Z"
+    "checked_at": "2026-10-28T22:38:17Z"
   },
   {
     "slug": "recsys",
@@ -327,7 +350,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://recsys.acm.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:55Z"
+    "checked_at": "2026-10-28T22:38:17Z"
   },
   {
     "slug": "stoc",
@@ -338,7 +361,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://acm-stoc.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:58Z"
+    "checked_at": "2026-10-28T22:38:21Z"
   },
   {
     "slug": "lics",
@@ -349,7 +372,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://lics.siglog.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:58Z"
+    "checked_at": "2026-10-28T22:38:21Z"
   },
   {
     "slug": "ccc",
@@ -360,7 +383,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://computationalcomplexity.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:59Z"
+    "checked_at": "2026-10-28T22:38:21Z"
   },
   {
     "slug": "itcs",
@@ -371,7 +394,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://itcs-conf.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:16:59Z"
+    "checked_at": "2026-10-28T22:38:22Z"
   },
   {
     "slug": "hscc",
@@ -382,7 +405,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://hscc.acm.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:17:03Z"
+    "checked_at": "2026-10-28T22:38:26Z"
   },
   {
     "slug": "acm-mm",
@@ -393,7 +416,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://acmmm.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:17:03Z"
+    "checked_at": "2026-10-28T22:38:26Z"
   },
   {
     "slug": "cscw",
@@ -404,7 +427,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://cscw.acm.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:17:04Z"
+    "checked_at": "2026-10-28T22:38:27Z"
   },
   {
     "slug": "eurovis",
@@ -415,7 +438,7 @@
     "source": "official_rollover_detector",
     "source_url": "https://www.eurovis.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:17:16Z"
+    "checked_at": "2026-10-28T22:38:40Z"
   },
   {
     "slug": "recomb",
@@ -426,6 +449,6 @@
     "source": "official_rollover_detector",
     "source_url": "https://recomb.org/",
     "confidence": 0.3,
-    "checked_at": "2026-10-27T22:17:17Z"
+    "checked_at": "2026-10-28T22:38:41Z"
   }
 ]
