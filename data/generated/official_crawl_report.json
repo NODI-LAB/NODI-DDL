@@ -385,7 +385,8 @@
   {
     "slug": "fm",
     "url": "https://formalmethods.github.io/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "ase",
