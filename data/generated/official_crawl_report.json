@@ -709,8 +709,7 @@
   {
     "slug": "eurographics",
     "url": "https://www.eg.org/",
-    "status": "ok",
-    "candidate_count": 0
+    "status": "fetch_failed"
   },
   {
     "slug": "eurovis",
