@@ -8,7 +8,8 @@
   {
     "slug": "usenix-security",
     "url": "https://www.usenix.org/conferences/byname/108",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "ccs",
@@ -99,7 +100,8 @@
   {
     "slug": "soups",
     "url": "https://www.usenix.org/conferences/byname/925",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "dimva",
@@ -126,7 +128,8 @@
   {
     "slug": "osdi",
     "url": "https://www.usenix.org/conferences/byname/179",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "sigcomm",
@@ -137,7 +140,8 @@
   {
     "slug": "nsdi",
     "url": "https://www.usenix.org/conferences/byname/135",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "isca",
@@ -165,7 +169,8 @@
   {
     "slug": "fast",
     "url": "https://www.usenix.org/conferences/byname/63",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "sc",
@@ -187,7 +192,8 @@
   {
     "slug": "atc",
     "url": "https://www.usenix.org/conferences/byname/131",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "imc",
