@@ -222,7 +222,8 @@
   {
     "slug": "infocom",
     "url": "https://ieee-infocom.org/",
-    "status": "fetch_failed"
+    "status": "ok",
+    "candidate_count": 0
   },
   {
     "slug": "sigmetrics",

@@ -550,5 +550,17 @@
     "confidence": 0.3,
     "checked_at": "2026-11-07T21:53:30Z",
     "created_at": "2026-11-07T21:53:30Z"
+  },
+  {
+    "slug": "ismar",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://ismar.net/",
+    "confidence": 0.3,
+    "checked_at": "2026-11-12T00:45:07Z",
+    "created_at": "2026-11-12T00:45:07Z"
   }
 ]
