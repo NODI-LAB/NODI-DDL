@@ -562,5 +562,17 @@
     "confidence": 0.3,
     "checked_at": "2026-11-12T00:45:07Z",
     "created_at": "2026-11-12T00:45:07Z"
+  },
+  {
+    "slug": "sc",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://supercomputing.org/",
+    "confidence": 0.3,
+    "checked_at": "2026-11-13T23:35:20Z",
+    "created_at": "2026-11-13T23:35:20Z"
   }
 ]
