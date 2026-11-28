@@ -586,5 +586,17 @@
     "confidence": 0.3,
     "checked_at": "2026-11-15T22:50:12Z",
     "created_at": "2026-11-15T22:50:12Z"
+  },
+  {
+    "slug": "cav",
+    "type": "year_rollover_candidate",
+    "field": "year",
+    "current": 2026,
+    "candidate": 2027,
+    "source": "official_rollover_detector",
+    "source_url": "https://i-cav.org/",
+    "confidence": 0.3,
+    "checked_at": "2026-11-28T01:28:57Z",
+    "created_at": "2026-11-28T01:28:57Z"
   }
 ]
